@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-11-18 02:26+0000\n"
+"PO-Revision-Date: 2026-11-18 16:20+0000\n"
 "Last-Translator: dx3756 <dx3756@gmail.com>\n"
 "Language-Team: Russian <https://translate.repebble.com/projects/pebbleos/"
 "watch/ru/>\n"
@@ -2328,7 +2328,7 @@ msgstr "Дождь со снегом"
 
 #: pebble/apps/system/weather/weather.c:130
 msgid "Clear"
-msgstr "Ясно"
+msgstr "Чистое небо"
 
 #: pebble/apps/system/weather/weather.c:153 pebble/services/clock/service.c:785
 #: pebble/services/timeline/timeline_actions.c:1067
