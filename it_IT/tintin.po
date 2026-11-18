@@ -1007,61 +1007,61 @@ msgstr "Nessuno"
 msgid "Background App"
 msgstr "App attive"
 
-#: pebble/apps/system/settings/bluetooth.c:130
+#: pebble/apps/system/settings/bluetooth.c:131
 msgid "<Untitled>"
 msgstr "<Senza nome>"
 
-#: pebble/apps/system/settings/bluetooth.c:190
+#: pebble/apps/system/settings/bluetooth.c:181
 msgid "Pairing Instructions"
 msgstr "Istruzioni associazione"
 
-#: pebble/apps/system/settings/bluetooth.c:194
+#: pebble/apps/system/settings/bluetooth.c:185
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u telefoni associati"
 
-#: pebble/apps/system/settings/bluetooth.c:195
+#: pebble/apps/system/settings/bluetooth.c:186
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u telefono associato"
 
-#: pebble/apps/system/settings/bluetooth.c:346
+#: pebble/apps/system/settings/bluetooth.c:337
 msgid "Connected"
 msgstr "Connesso"
 
-#: pebble/apps/system/settings/bluetooth.c:361
+#: pebble/apps/system/settings/bluetooth.c:352
 msgid "Sharing Heart Rate ❤"
 msgstr "Condivisione FC ❤"
 
-#: pebble/apps/system/settings/bluetooth.c:386
+#: pebble/apps/system/settings/bluetooth.c:377
 msgid "Forget this device to pair a new device."
 msgstr "Dissocia per associarne un nuovo dispositivo."
 
-#: pebble/apps/system/settings/bluetooth.c:389
+#: pebble/apps/system/settings/bluetooth.c:380
 msgid "Disable Airplane Mode to connect."
 msgstr "Disabilitare la modalità aereo."
 
-#: pebble/apps/system/settings/bluetooth.c:391
+#: pebble/apps/system/settings/bluetooth.c:382
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Apri app Pebble sul tel. per connetterti."
 
-#: pebble/apps/system/settings/bluetooth.c:466
+#: pebble/apps/system/settings/bluetooth.c:457
 msgid "Connection"
 msgstr "Connessione"
 
-#: pebble/apps/system/settings/bluetooth.c:470
+#: pebble/apps/system/settings/bluetooth.c:461
 msgid "Airplane Mode"
 msgstr "Modalità aereo"
 
-#: pebble/apps/system/settings/bluetooth.c:480
+#: pebble/apps/system/settings/bluetooth.c:471
 msgid "Disabling..."
 msgstr "Disabilitazione..."
 
-#: pebble/apps/system/settings/bluetooth.c:481
+#: pebble/apps/system/settings/bluetooth.c:472
 msgid "Enabling..."
 msgstr "Attivazione..."
 
-#: pebble/apps/system/settings/bluetooth.c:634
+#: pebble/apps/system/settings/bluetooth.c:625
 msgid "Bluetooth"
 msgstr "Bluetooth"
 

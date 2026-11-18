@@ -1012,61 +1012,61 @@ msgstr "Відсутній"
 msgid "Background App"
 msgstr "Фонові застосунки"
 
-#: pebble/apps/system/settings/bluetooth.c:130
+#: pebble/apps/system/settings/bluetooth.c:131
 msgid "<Untitled>"
 msgstr "<Без назви>"
 
-#: pebble/apps/system/settings/bluetooth.c:190
+#: pebble/apps/system/settings/bluetooth.c:181
 msgid "Pairing Instructions"
 msgstr "Інструкції зі сполучення"
 
-#: pebble/apps/system/settings/bluetooth.c:194
+#: pebble/apps/system/settings/bluetooth.c:185
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u спарених телефонів"
 
-#: pebble/apps/system/settings/bluetooth.c:195
+#: pebble/apps/system/settings/bluetooth.c:186
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u спарений телефон"
 
-#: pebble/apps/system/settings/bluetooth.c:346
+#: pebble/apps/system/settings/bluetooth.c:337
 msgid "Connected"
 msgstr "Підключено"
 
-#: pebble/apps/system/settings/bluetooth.c:361
+#: pebble/apps/system/settings/bluetooth.c:352
 msgid "Sharing Heart Rate ❤"
 msgstr "Передати пульс ❤"
 
-#: pebble/apps/system/settings/bluetooth.c:386
+#: pebble/apps/system/settings/bluetooth.c:377
 msgid "Forget this device to pair a new device."
 msgstr "Видаліть цей пристрій, щоб спарити з новим."
 
-#: pebble/apps/system/settings/bluetooth.c:389
+#: pebble/apps/system/settings/bluetooth.c:380
 msgid "Disable Airplane Mode to connect."
 msgstr "Скасуйте Авіарежим для підключення."
 
-#: pebble/apps/system/settings/bluetooth.c:391
+#: pebble/apps/system/settings/bluetooth.c:382
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Відкрийте застосунок Pebble на телефоні для підключення."
 
-#: pebble/apps/system/settings/bluetooth.c:466
+#: pebble/apps/system/settings/bluetooth.c:457
 msgid "Connection"
 msgstr "З'єднання"
 
-#: pebble/apps/system/settings/bluetooth.c:470
+#: pebble/apps/system/settings/bluetooth.c:461
 msgid "Airplane Mode"
 msgstr "Авіарежим"
 
-#: pebble/apps/system/settings/bluetooth.c:480
+#: pebble/apps/system/settings/bluetooth.c:471
 msgid "Disabling..."
 msgstr "Відключення..."
 
-#: pebble/apps/system/settings/bluetooth.c:481
+#: pebble/apps/system/settings/bluetooth.c:472
 msgid "Enabling..."
 msgstr "Активація..."
 
-#: pebble/apps/system/settings/bluetooth.c:634
+#: pebble/apps/system/settings/bluetooth.c:625
 msgid "Bluetooth"
 msgstr "Bluetooth"
 

@@ -1034,61 +1034,61 @@ msgstr "None"
 msgid "Background App"
 msgstr "Background App"
 
-#: pebble/apps/system/settings/bluetooth.c:130
+#: pebble/apps/system/settings/bluetooth.c:131
 msgid "<Untitled>"
 msgstr "<Untitled>"
 
-#: pebble/apps/system/settings/bluetooth.c:190
+#: pebble/apps/system/settings/bluetooth.c:181
 msgid "Pairing Instructions"
 msgstr "Koppelinstructies"
 
-#: pebble/apps/system/settings/bluetooth.c:194
+#: pebble/apps/system/settings/bluetooth.c:185
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u Paired Phones"
 
-#: pebble/apps/system/settings/bluetooth.c:195
+#: pebble/apps/system/settings/bluetooth.c:186
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u Paired Phone"
 
-#: pebble/apps/system/settings/bluetooth.c:346
+#: pebble/apps/system/settings/bluetooth.c:337
 msgid "Connected"
 msgstr "Verbonden"
 
-#: pebble/apps/system/settings/bluetooth.c:361
+#: pebble/apps/system/settings/bluetooth.c:352
 msgid "Sharing Heart Rate ❤"
 msgstr "Sharing Heart Rate ❤"
 
-#: pebble/apps/system/settings/bluetooth.c:386
+#: pebble/apps/system/settings/bluetooth.c:377
 msgid "Forget this device to pair a new device."
 msgstr "Forget this device to pair a new device."
 
-#: pebble/apps/system/settings/bluetooth.c:389
+#: pebble/apps/system/settings/bluetooth.c:380
 msgid "Disable Airplane Mode to connect."
 msgstr "Disable Airplane Mode to connect."
 
-#: pebble/apps/system/settings/bluetooth.c:391
+#: pebble/apps/system/settings/bluetooth.c:382
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Open the Pebble app on your phone to connect."
 
-#: pebble/apps/system/settings/bluetooth.c:466
+#: pebble/apps/system/settings/bluetooth.c:457
 msgid "Connection"
 msgstr "Connection"
 
-#: pebble/apps/system/settings/bluetooth.c:470
+#: pebble/apps/system/settings/bluetooth.c:461
 msgid "Airplane Mode"
 msgstr "Vliegtuigmodus"
 
-#: pebble/apps/system/settings/bluetooth.c:480
+#: pebble/apps/system/settings/bluetooth.c:471
 msgid "Disabling..."
 msgstr "Uitschakelen..."
 
-#: pebble/apps/system/settings/bluetooth.c:481
+#: pebble/apps/system/settings/bluetooth.c:472
 msgid "Enabling..."
 msgstr "Inschakelen..."
 
-#: pebble/apps/system/settings/bluetooth.c:634
+#: pebble/apps/system/settings/bluetooth.c:625
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
