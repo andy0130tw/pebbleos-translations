@@ -2929,7 +2929,7 @@ msgid ""
 "mobile app to continue."
 msgstr "Funzione disponibile con Pebble Health. Attivarlo nell'app mobile."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 msgid "Listening..."
 msgstr "In ascolto..."
 

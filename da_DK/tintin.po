@@ -2936,7 +2936,7 @@ msgstr ""
 "Denne funktion kræver Pebble Health for at fungere. Aktivér Health i Pebble-"
 "appen på mobilen for at fortsætte."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 msgid "Listening..."
 msgstr "Lytter…"
 

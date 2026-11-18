@@ -3002,7 +3002,7 @@ msgid ""
 "mobile app to continue."
 msgstr "此功能需要 Pebble Health 才能运行。请在 Pebble 手机应用中启用 Health 以继续。"
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 #, fuzzy
 #| msgid "Listening"
 msgid "Listening..."

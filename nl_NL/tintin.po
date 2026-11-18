@@ -3023,7 +3023,7 @@ msgstr ""
 "This feature requires Pebble Health to work. Enable Health in the Pebble "
 "mobile app to continue."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 #, fuzzy
 #| msgid "Listening"
 msgid "Listening..."

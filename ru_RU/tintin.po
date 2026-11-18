@@ -2939,7 +2939,7 @@ msgstr ""
 "Для этой функции необходим Pebble Health. Включите в приложении, чтобы "
 "продолжить."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 msgid "Listening..."
 msgstr "Слушаю..."
 

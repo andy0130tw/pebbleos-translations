@@ -3017,7 +3017,7 @@ msgstr ""
 "Cette fonctionnalité requiert l'activation de Bien-Être. Activer Bien-Être "
 "dans l'application mobile Pebble pour continuer."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 #, fuzzy
 #| msgid "Listening"
 msgid "Listening..."

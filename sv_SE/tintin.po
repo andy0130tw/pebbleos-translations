@@ -2938,7 +2938,7 @@ msgstr ""
 "Denna funktion kräver Pebble Hälsa. Aktivera Hälsa i Pebble-appen för att "
 "fortsätta."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 msgid "Listening..."
 msgstr "Lyssnar…"
 

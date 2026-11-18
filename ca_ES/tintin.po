@@ -2944,7 +2944,7 @@ msgstr ""
 "Aquesta funció requereix Pebble Health per funcionar. Activa Health a l'app "
 "Pebble del mòbil per continuar."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 #, fuzzy
 #| msgid "Listening"
 msgid "Listening..."

@@ -2999,7 +2999,7 @@ msgstr ""
 "Ta funkcja wymaga Pebble Health. Włącz Zdrowie w aplikacji mobilnej Pebble, "
 "aby kontynuować."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 #, fuzzy
 #| msgid "Listening"
 msgid "Listening..."

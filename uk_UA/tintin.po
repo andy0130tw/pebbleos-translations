@@ -2943,7 +2943,7 @@ msgstr ""
 "Для роботи потрібна функція Pebble Health. Ввімкніть її у мобільному "
 "застосунку."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 msgid "Listening..."
 msgstr "Слухаю..."
 

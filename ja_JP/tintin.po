@@ -2944,7 +2944,7 @@ msgstr ""
 "この機能にはPebble ヘルスが必要です。続けるにはスマートフォンのPebbleアプリで"
 "「ヘルス」をオンにしてください。"
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 msgid "Listening..."
 msgstr "聞き取り中…"
 

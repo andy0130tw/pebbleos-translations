@@ -2937,7 +2937,7 @@ msgstr ""
 "Esta característica requiere Pebble Salud para funcionar. Activa Salud en la "
 "app móvil de Pebble para continuar."
 
-#: pebble/popups/mic_banner.c:115
+#: pebble/popups/mic_banner.c:116
 #, fuzzy
 #| msgid "Listening"
 msgid "Listening..."
