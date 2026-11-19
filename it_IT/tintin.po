@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 25.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-07 18:50+0200\n"
-"PO-Revision-Date: 2026-11-16 12:46+0000\n"
+"PO-Revision-Date: 2026-11-19 17:26+0000\n"
 "Last-Translator: \"miky.deirossi\" <miky.deirossi@gmail.com>\n"
 "Language-Team: Italian <https://translate.repebble.com/projects/pebbleos/"
 "watch/it/>\n"
@@ -534,11 +534,11 @@ msgstr "Non rilevato! Riprova."
 
 #: pebble/applib/voice/voice_window.c:683
 msgid "Retrying"
-msgstr "Riprovo..."
+msgstr "Riprovo"
 
 #: pebble/applib/voice/voice_window.c:686
 msgid "Retrying offline"
-msgstr "Riprovo offline..."
+msgstr "Riprovo offline"
 
 #: pebble/applib/voice/voice_window.c:1135
 msgid "Listening"
@@ -1784,16 +1784,16 @@ msgstr "Sensibilità movimento"
 
 #: pebble/apps/system/settings/system.c:484
 msgid "Kraepelin"
-msgstr ""
+msgstr "Algoritmo Kraepelin"
 
 #: pebble/apps/system/settings/system.c:485
 msgid "van Hees"
-msgstr ""
+msgstr "Algoritmo van Hees"
 
 #: pebble/apps/system/settings/system.c:500
 #: pebble/apps/system/settings/system.c:530
 msgid "Sleep Algorithm"
-msgstr ""
+msgstr "Algoritmo analisi sonno"
 
 #: pebble/apps/system/settings/system.c:522
 msgid "CoreDump now"
