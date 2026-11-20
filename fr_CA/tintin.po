@@ -2252,24 +2252,24 @@ msgstr "PRÉCIPITATIONS"
 msgid "%a, %b %d"
 msgstr "%a, %b %d"
 
-#: pebble/apps/system/weather/globe_view.c:2169
+#: pebble/apps/system/weather/globe_view.c:2168
 msgid "Saved Location"
 msgstr "Localisation enregistrée"
 
-#: pebble/apps/system/weather/globe_view.c:2173
-#: pebble/apps/system/weather/globe_view.c:3701
-#: pebble/apps/system/weather/globe_view.c:3755
+#: pebble/apps/system/weather/globe_view.c:2172
+#: pebble/apps/system/weather/globe_view.c:3700
+#: pebble/apps/system/weather/globe_view.c:3754
 #: pebble/apps/system/weather/saved_locations.c:162
 msgid "Current Location"
 msgstr "Localisation actuelle"
 
-#: pebble/apps/system/weather/globe_view.c:3103
-#: pebble/apps/system/weather/globe_view.c:3110
+#: pebble/apps/system/weather/globe_view.c:3102
+#: pebble/apps/system/weather/globe_view.c:3109
 msgid "CITY SELECT"
 msgstr "CHOISIR UNE VILLE"
 
-#: pebble/apps/system/weather/globe_view.c:3171
-#: pebble/apps/system/weather/globe_view.c:3203
+#: pebble/apps/system/weather/globe_view.c:3170
+#: pebble/apps/system/weather/globe_view.c:3202
 msgid "SAVED LOCATIONS"
 msgstr "LIEUX ENREGISTRÉS"
 
