@@ -2833,7 +2833,7 @@ msgstr "还在锻炼吗？您的锻炼仍在进行，很快就会自动结束。
 
 #: pebble/apps/system/workout/utils.c:32
 #: pebble/services/activity/activity_insights.c:1271
-#: pebble/services/notifications/ancs/ancs_item.c:150
+#: pebble/services/notifications/ancs/ancs_item.c:157
 msgid "Dismiss"
 msgstr "关闭"
 
@@ -3958,21 +3958,21 @@ msgstr "后天"
 msgid "the foreseeable future"
 msgstr "可预见的未来"
 
-#: pebble/services/notifications/ancs/ancs_item.c:111
+#: pebble/services/notifications/ancs/ancs_item.c:116
 msgid "sent an attachment"
 msgstr "发送了附件"
 
-#: pebble/services/notifications/ancs/ancs_item.c:157
+#: pebble/services/notifications/ancs/ancs_item.c:164
 msgid "Call Back"
 msgstr "回拨"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:444
+#: pebble/services/notifications/ancs/ancs_notifications.c:447
 #, fuzzy
 #| msgid "No notifications"
 msgid "iPhone Notifications Blocked"
 msgstr "暂无通知"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:447
+#: pebble/services/notifications/ancs/ancs_notifications.c:450
 msgid ""
 "Your iPhone is not sharing notifications with this watch. On your iPhone, "
 "open Settings > Bluetooth, tap the (i) next to your Pebble and turn on Share "

@@ -2734,7 +2734,7 @@ msgstr ""
 
 #: pebble/apps/system/workout/utils.c:32
 #: pebble/services/activity/activity_insights.c:1271
-#: pebble/services/notifications/ancs/ancs_item.c:150
+#: pebble/services/notifications/ancs/ancs_item.c:157
 msgid "Dismiss"
 msgstr ""
 
@@ -3831,19 +3831,19 @@ msgstr ""
 msgid "the foreseeable future"
 msgstr ""
 
-#: pebble/services/notifications/ancs/ancs_item.c:111
+#: pebble/services/notifications/ancs/ancs_item.c:116
 msgid "sent an attachment"
 msgstr ""
 
-#: pebble/services/notifications/ancs/ancs_item.c:157
+#: pebble/services/notifications/ancs/ancs_item.c:164
 msgid "Call Back"
 msgstr ""
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:444
+#: pebble/services/notifications/ancs/ancs_notifications.c:447
 msgid "iPhone Notifications Blocked"
 msgstr ""
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:447
+#: pebble/services/notifications/ancs/ancs_notifications.c:450
 msgid ""
 "Your iPhone is not sharing notifications with this watch. On your iPhone, "
 "open Settings > Bluetooth, tap the (i) next to your Pebble and turn on Share "
