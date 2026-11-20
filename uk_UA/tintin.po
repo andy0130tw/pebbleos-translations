@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-11-17 20:48+0000\n"
+"PO-Revision-Date: 2026-11-20 23:25+0000\n"
 "Last-Translator: Denys Vasylenko <dinja.ostrovskiy@gmail.com>\n"
 "Language-Team: Ukrainian <https://translate.repebble.com/projects/pebbleos/"
 "watch/uk/>\n"
@@ -3003,6 +3003,7 @@ msgstr "Цей застосунок вимагає новішої версії �
 #: pebble/process_management/process_manager.c:336
 msgid "This app needs hardware this watch does not have."
 msgstr ""
+"На пристрої відсутні апаратні компоненти, необхідні для роботи застосунку."
 
 #: pebble/process_management/process_manager.c:382
 msgid "This app uses RockyJS which is no longer supported."
