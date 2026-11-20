@@ -718,7 +718,7 @@ msgid "Incompatible JS"
 msgstr "アプリのJSが非対応です"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:271
+#: pebble/services/timeline/timeline_actions.c:269
 msgid "Failed"
 msgstr "失敗しました"
 
@@ -1014,65 +1014,61 @@ msgstr "なし"
 msgid "Background App"
 msgstr "バックグラウンドアプリ"
 
-#: pebble/apps/system/settings/bluetooth.c:131
+#: pebble/apps/system/settings/bluetooth.c:125
 msgid "<Untitled>"
 msgstr "<名前なし>"
 
-#: pebble/apps/system/settings/bluetooth.c:181
+#: pebble/apps/system/settings/bluetooth.c:172
 msgid "Pairing Instructions"
 msgstr "接続の手順"
 
-#: pebble/apps/system/settings/bluetooth.c:185
+#: pebble/apps/system/settings/bluetooth.c:176
 #, c-format
 msgid "%u Paired Phones"
 msgstr "登録済み%u台"
 
-#: pebble/apps/system/settings/bluetooth.c:186
+#: pebble/apps/system/settings/bluetooth.c:177
 #, c-format
 msgid "%u Paired Phone"
 msgstr "登録済み%u台"
 
-#: pebble/apps/system/settings/bluetooth.c:337
+#: pebble/apps/system/settings/bluetooth.c:290
 msgid "Connected"
 msgstr "接続済み"
 
-#: pebble/apps/system/settings/bluetooth.c:352
-msgid "Sharing Heart Rate ❤"
-msgstr "心拍数共有中"
-
-#: pebble/apps/system/settings/bluetooth.c:377
+#: pebble/apps/system/settings/bluetooth.c:317
 msgid "Forget this device to pair a new device."
 msgstr "別の機器を登録するには、今の機器の登録を解除してください。"
 
-#: pebble/apps/system/settings/bluetooth.c:380
+#: pebble/apps/system/settings/bluetooth.c:320
 msgid "Disable Airplane Mode to connect."
 msgstr "接続するには機内モードをオフにしてください。"
 
-#: pebble/apps/system/settings/bluetooth.c:382
+#: pebble/apps/system/settings/bluetooth.c:322
 msgid "Open the Pebble app on your phone to connect."
 msgstr "接続するにはスマホのPebbleアプリを開いてください。"
 
-#: pebble/apps/system/settings/bluetooth.c:457
+#: pebble/apps/system/settings/bluetooth.c:397
 msgid "Connection"
 msgstr "接続"
 
-#: pebble/apps/system/settings/bluetooth.c:461
+#: pebble/apps/system/settings/bluetooth.c:401
 msgid "Airplane Mode"
 msgstr "機内モード"
 
-#: pebble/apps/system/settings/bluetooth.c:471
+#: pebble/apps/system/settings/bluetooth.c:411
 msgid "Disabling..."
 msgstr "オフに切替中..."
 
-#: pebble/apps/system/settings/bluetooth.c:472
+#: pebble/apps/system/settings/bluetooth.c:412
 msgid "Enabling..."
 msgstr "オンに切替中..."
 
-#: pebble/apps/system/settings/bluetooth.c:625
+#: pebble/apps/system/settings/bluetooth.c:554
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:38
+#: pebble/apps/system/settings/bluetooth.h:33
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr "スマホのBluetooth設定でもPebbleの登録を解除してください。"
@@ -1682,18 +1678,13 @@ msgstr "消音"
 msgid "Quiet Time"
 msgstr "集中モード"
 
-#: pebble/apps/system/settings/remote.c:55
+#: pebble/apps/system/settings/remote.c:50
 msgid "You're all set"
 msgstr "完了"
 
-#: pebble/apps/system/settings/remote.c:124
+#: pebble/apps/system/settings/remote.c:101
 msgid "Forget"
 msgstr "登録を削除"
-
-#: pebble/apps/system/settings/remote.c:132
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:28
-msgid "Stop Sharing Heart Rate"
-msgstr "心拍数共有を停止"
 
 #: pebble/apps/system/settings/settings.c:225
 msgid "Settings"
@@ -2337,7 +2328,7 @@ msgid "Clear"
 msgstr "すべて削除"
 
 #: pebble/apps/system/weather/weather.c:153 pebble/services/clock/service.c:785
-#: pebble/services/timeline/timeline_actions.c:1067
+#: pebble/services/timeline/timeline_actions.c:1043
 msgid "Tomorrow"
 msgstr "明日"
 
@@ -2775,7 +2766,6 @@ msgstr ""
 "開いてください。"
 
 #: pebble/apps/system/workout/utils.c:32
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:24
 #: pebble/services/activity/activity_insights.c:1271
 #: pebble/services/notifications/ancs/ancs_item.c:150
 msgid "Dismiss"
@@ -2892,26 +2882,6 @@ msgstr "%d分間スヌーズ"
 #: pebble/popups/alarm_popup.c:78
 msgid "Alarm dismissed"
 msgstr "アラームを停止しました"
-
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:15
-msgid ""
-"Your heart rate has been shared with an app on your phone for several hours. "
-"This could affect your battery. Stop sharing now?"
-msgstr ""
-"心拍数をスマートフォンのアプリと数時間共有しています。バッテリーの消耗が増え"
-"る可能性があります。共有を停止しますか？"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:28
-msgid "Sharing Heart Rate"
-msgstr "心拍数を共有中"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:65
-msgid "Share heart rate?"
-msgstr "心拍数を共有しますか？"
-
-#: pebble/popups/ble_hrm/ble_hrm_stop_sharing_popup.c:18
-msgid "Heart Rate Not Shared"
-msgstr "心拍数は共有されていません"
 
 #: pebble/popups/bluetooth_pairing_ui.c:230
 msgid "Pair?"
@@ -4084,7 +4054,7 @@ msgstr "リマインダー"
 msgid "Intercom"
 msgstr "インターコム"
 
-#: pebble/services/timeline/timeline_actions.c:724
+#: pebble/services/timeline/timeline_actions.c:700
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4092,47 +4062,47 @@ msgstr ""
 "通知が届いたときに中央ボタンを2秒間長押しすると、すべての通知をすばやく閉じら"
 "れます。"
 
-#: pebble/services/timeline/timeline_actions.c:812
+#: pebble/services/timeline/timeline_actions.c:788
 msgid "Ok"
 msgstr "OK"
 
-#: pebble/services/timeline/timeline_actions.c:813
+#: pebble/services/timeline/timeline_actions.c:789
 msgid "Yes"
 msgstr "はい"
 
-#: pebble/services/timeline/timeline_actions.c:814
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "No"
 msgstr "いいえ"
 
-#: pebble/services/timeline/timeline_actions.c:815
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Call me"
 msgstr "電話して"
 
-#: pebble/services/timeline/timeline_actions.c:816
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "Call you later"
 msgstr "後で電話します"
 
-#: pebble/services/timeline/timeline_actions.c:940
+#: pebble/services/timeline/timeline_actions.c:916
 msgid "Reply with Voice"
 msgstr "音声で返信"
 
-#: pebble/services/timeline/timeline_actions.c:941
+#: pebble/services/timeline/timeline_actions.c:917
 msgid "Voice"
 msgstr "音声"
 
-#: pebble/services/timeline/timeline_actions.c:951
+#: pebble/services/timeline/timeline_actions.c:927
 msgid "Canned messages"
 msgstr "定型文"
 
-#: pebble/services/timeline/timeline_actions.c:955
+#: pebble/services/timeline/timeline_actions.c:931
 msgid "Emoji"
 msgstr "絵文字"
 
-#: pebble/services/timeline/timeline_actions.c:1059
+#: pebble/services/timeline/timeline_actions.c:1035
 msgid "In 15 minutes"
 msgstr "15分後"
 
-#: pebble/services/timeline/timeline_actions.c:1063
+#: pebble/services/timeline/timeline_actions.c:1039
 msgid "Later today"
 msgstr "今日の後ほど"
 
@@ -4214,6 +4184,28 @@ msgstr "充電中"
 #, c-format
 msgid "Powered 'til %s"
 msgstr "バッテリーは%sまで持ちます"
+
+#~ msgid "Sharing Heart Rate ❤"
+#~ msgstr "心拍数共有中"
+
+#~ msgid "Stop Sharing Heart Rate"
+#~ msgstr "心拍数共有を停止"
+
+#~ msgid ""
+#~ "Your heart rate has been shared with an app on your phone for several hours. "
+#~ "This could affect your battery. Stop sharing now?"
+#~ msgstr ""
+#~ "心拍数をスマートフォンのアプリと数時間共有しています。バッテリーの消耗が増え"
+#~ "る可能性があります。共有を停止しますか？"
+
+#~ msgid "Sharing Heart Rate"
+#~ msgstr "心拍数を共有中"
+
+#~ msgid "Share heart rate?"
+#~ msgstr "心拍数を共有しますか？"
+
+#~ msgid "Heart Rate Not Shared"
+#~ msgstr "心拍数は共有されていません"
 
 #~ msgid "Disconnect the charger to shut down."
 #~ msgstr "電源を切るには充電器を外してください。"

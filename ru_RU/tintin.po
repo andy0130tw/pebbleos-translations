@@ -719,7 +719,7 @@ msgid "Incompatible JS"
 msgstr "Несовместимый JS"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:271
+#: pebble/services/timeline/timeline_actions.c:269
 msgid "Failed"
 msgstr "Не удалось"
 
@@ -1016,65 +1016,61 @@ msgstr "Нет"
 msgid "Background App"
 msgstr "Прилож. в фоне"
 
-#: pebble/apps/system/settings/bluetooth.c:131
+#: pebble/apps/system/settings/bluetooth.c:125
 msgid "<Untitled>"
 msgstr "<Без заголовка>"
 
-#: pebble/apps/system/settings/bluetooth.c:181
+#: pebble/apps/system/settings/bluetooth.c:172
 msgid "Pairing Instructions"
 msgstr "Инструкции привязки"
 
-#: pebble/apps/system/settings/bluetooth.c:185
+#: pebble/apps/system/settings/bluetooth.c:176
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u Привязанных Телефонов"
 
-#: pebble/apps/system/settings/bluetooth.c:186
+#: pebble/apps/system/settings/bluetooth.c:177
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u Привязанный Телефон"
 
-#: pebble/apps/system/settings/bluetooth.c:337
+#: pebble/apps/system/settings/bluetooth.c:290
 msgid "Connected"
 msgstr "Подключено"
 
-#: pebble/apps/system/settings/bluetooth.c:352
-msgid "Sharing Heart Rate ❤"
-msgstr "Поделиться пульсом ❤"
-
-#: pebble/apps/system/settings/bluetooth.c:377
+#: pebble/apps/system/settings/bluetooth.c:317
 msgid "Forget this device to pair a new device."
 msgstr "Отвяжите это устройство, чтобы привязать новое."
 
-#: pebble/apps/system/settings/bluetooth.c:380
+#: pebble/apps/system/settings/bluetooth.c:320
 msgid "Disable Airplane Mode to connect."
 msgstr "Выключите Авиарежим для подключения."
 
-#: pebble/apps/system/settings/bluetooth.c:382
+#: pebble/apps/system/settings/bluetooth.c:322
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Откройте приложение Pebble на телефоне для подключения."
 
-#: pebble/apps/system/settings/bluetooth.c:457
+#: pebble/apps/system/settings/bluetooth.c:397
 msgid "Connection"
 msgstr "Соединение"
 
-#: pebble/apps/system/settings/bluetooth.c:461
+#: pebble/apps/system/settings/bluetooth.c:401
 msgid "Airplane Mode"
 msgstr "Авиарежим"
 
-#: pebble/apps/system/settings/bluetooth.c:471
+#: pebble/apps/system/settings/bluetooth.c:411
 msgid "Disabling..."
 msgstr "Выключение..."
 
-#: pebble/apps/system/settings/bluetooth.c:472
+#: pebble/apps/system/settings/bluetooth.c:412
 msgid "Enabling..."
 msgstr "Включение..."
 
-#: pebble/apps/system/settings/bluetooth.c:625
+#: pebble/apps/system/settings/bluetooth.c:554
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:38
+#: pebble/apps/system/settings/bluetooth.h:33
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr "Также не забудьте отвязать ваши часы в Bluetooth телефона."
@@ -1686,18 +1682,13 @@ msgstr "Заглушить динамик"
 msgid "Quiet Time"
 msgstr "Тихий режим"
 
-#: pebble/apps/system/settings/remote.c:55
+#: pebble/apps/system/settings/remote.c:50
 msgid "You're all set"
 msgstr "Всё готово"
 
-#: pebble/apps/system/settings/remote.c:124
+#: pebble/apps/system/settings/remote.c:101
 msgid "Forget"
 msgstr "Отвязать"
-
-#: pebble/apps/system/settings/remote.c:132
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:28
-msgid "Stop Sharing Heart Rate"
-msgstr "Перестать делиться пульсом"
 
 #: pebble/apps/system/settings/settings.c:225
 msgid "Settings"
@@ -2331,7 +2322,7 @@ msgid "Clear"
 msgstr "Чистое небо"
 
 #: pebble/apps/system/weather/weather.c:153 pebble/services/clock/service.c:785
-#: pebble/services/timeline/timeline_actions.c:1067
+#: pebble/services/timeline/timeline_actions.c:1043
 msgid "Tomorrow"
 msgstr "Завтра"
 
@@ -2769,7 +2760,6 @@ msgstr ""
 "продолжить."
 
 #: pebble/apps/system/workout/utils.c:32
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:24
 #: pebble/services/activity/activity_insights.c:1271
 #: pebble/services/notifications/ancs/ancs_item.c:150
 msgid "Dismiss"
@@ -2887,26 +2877,6 @@ msgstr "Отложено на %d минут"
 #: pebble/popups/alarm_popup.c:78
 msgid "Alarm dismissed"
 msgstr "Будильник отключен"
-
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:15
-msgid ""
-"Your heart rate has been shared with an app on your phone for several hours. "
-"This could affect your battery. Stop sharing now?"
-msgstr ""
-"Ваш пульс был доступен приложению на вашем телефоне несколько часов. Батарея "
-"может быть затронута. Прекратить доступ?"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:28
-msgid "Sharing Heart Rate"
-msgstr "Доступ к пульсу"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:65
-msgid "Share heart rate?"
-msgstr "Поделиться пульсом?"
-
-#: pebble/popups/ble_hrm/ble_hrm_stop_sharing_popup.c:18
-msgid "Heart Rate Not Shared"
-msgstr "Данные о пульсе не передаются"
 
 #: pebble/popups/bluetooth_pairing_ui.c:230
 msgid "Pair?"
@@ -4093,7 +4063,7 @@ msgstr "Напоминания"
 msgid "Intercom"
 msgstr "Интерком"
 
-#: pebble/services/timeline/timeline_actions.c:724
+#: pebble/services/timeline/timeline_actions.c:700
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4101,47 +4071,47 @@ msgstr ""
 "Быстро отклонить все уведомления удерживанием кнопки Центр на 2 секунды из "
 "любого уведомления."
 
-#: pebble/services/timeline/timeline_actions.c:812
+#: pebble/services/timeline/timeline_actions.c:788
 msgid "Ok"
 msgstr "Ок"
 
-#: pebble/services/timeline/timeline_actions.c:813
+#: pebble/services/timeline/timeline_actions.c:789
 msgid "Yes"
 msgstr "Да"
 
-#: pebble/services/timeline/timeline_actions.c:814
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "No"
 msgstr "Нет"
 
-#: pebble/services/timeline/timeline_actions.c:815
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Call me"
 msgstr "Позвони мне"
 
-#: pebble/services/timeline/timeline_actions.c:816
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "Call you later"
 msgstr "Перезвоню позже"
 
-#: pebble/services/timeline/timeline_actions.c:940
+#: pebble/services/timeline/timeline_actions.c:916
 msgid "Reply with Voice"
 msgstr "Ответить голосом"
 
-#: pebble/services/timeline/timeline_actions.c:941
+#: pebble/services/timeline/timeline_actions.c:917
 msgid "Voice"
 msgstr "Голос"
 
-#: pebble/services/timeline/timeline_actions.c:951
+#: pebble/services/timeline/timeline_actions.c:927
 msgid "Canned messages"
 msgstr "Готовые ответы"
 
-#: pebble/services/timeline/timeline_actions.c:955
+#: pebble/services/timeline/timeline_actions.c:931
 msgid "Emoji"
 msgstr "Эмодзи"
 
-#: pebble/services/timeline/timeline_actions.c:1059
+#: pebble/services/timeline/timeline_actions.c:1035
 msgid "In 15 minutes"
 msgstr "Через 15 минут"
 
-#: pebble/services/timeline/timeline_actions.c:1063
+#: pebble/services/timeline/timeline_actions.c:1039
 msgid "Later today"
 msgstr "Позже сегодня"
 
@@ -4223,6 +4193,28 @@ msgstr "Зарядка"
 #, c-format
 msgid "Powered 'til %s"
 msgstr "Заряда до %s"
+
+#~ msgid "Sharing Heart Rate ❤"
+#~ msgstr "Поделиться пульсом ❤"
+
+#~ msgid "Stop Sharing Heart Rate"
+#~ msgstr "Перестать делиться пульсом"
+
+#~ msgid ""
+#~ "Your heart rate has been shared with an app on your phone for several hours. "
+#~ "This could affect your battery. Stop sharing now?"
+#~ msgstr ""
+#~ "Ваш пульс был доступен приложению на вашем телефоне несколько часов. Батарея "
+#~ "может быть затронута. Прекратить доступ?"
+
+#~ msgid "Sharing Heart Rate"
+#~ msgstr "Доступ к пульсу"
+
+#~ msgid "Share heart rate?"
+#~ msgstr "Поделиться пульсом?"
+
+#~ msgid "Heart Rate Not Shared"
+#~ msgstr "Данные о пульсе не передаются"
 
 #~ msgid "Disconnect the charger to shut down."
 #~ msgstr "Чтобы выключить отсоедините зарядное устройство."

@@ -738,7 +738,7 @@ msgid "Incompatible JS"
 msgstr "不兼容的 JS"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:271
+#: pebble/services/timeline/timeline_actions.c:269
 msgid "Failed"
 msgstr "失败"
 
@@ -1029,65 +1029,61 @@ msgstr "无"
 msgid "Background App"
 msgstr "后台应用"
 
-#: pebble/apps/system/settings/bluetooth.c:131
+#: pebble/apps/system/settings/bluetooth.c:125
 msgid "<Untitled>"
 msgstr "<无标题>"
 
-#: pebble/apps/system/settings/bluetooth.c:181
+#: pebble/apps/system/settings/bluetooth.c:172
 msgid "Pairing Instructions"
 msgstr "配对说明"
 
-#: pebble/apps/system/settings/bluetooth.c:185
+#: pebble/apps/system/settings/bluetooth.c:176
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u 部已配对手机"
 
-#: pebble/apps/system/settings/bluetooth.c:186
+#: pebble/apps/system/settings/bluetooth.c:177
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u 部已配对手机"
 
-#: pebble/apps/system/settings/bluetooth.c:337
+#: pebble/apps/system/settings/bluetooth.c:290
 msgid "Connected"
 msgstr "已连接"
 
-#: pebble/apps/system/settings/bluetooth.c:352
-msgid "Sharing Heart Rate ❤"
-msgstr "共享心率 ❤"
-
-#: pebble/apps/system/settings/bluetooth.c:377
+#: pebble/apps/system/settings/bluetooth.c:317
 msgid "Forget this device to pair a new device."
 msgstr "请先解除与此设备的配对，再配对新的设备。"
 
-#: pebble/apps/system/settings/bluetooth.c:380
+#: pebble/apps/system/settings/bluetooth.c:320
 msgid "Disable Airplane Mode to connect."
 msgstr "请关闭飞行模式以连接。"
 
-#: pebble/apps/system/settings/bluetooth.c:382
+#: pebble/apps/system/settings/bluetooth.c:322
 msgid "Open the Pebble app on your phone to connect."
 msgstr "打开手机上的 Pebble 应用以连接。"
 
-#: pebble/apps/system/settings/bluetooth.c:457
+#: pebble/apps/system/settings/bluetooth.c:397
 msgid "Connection"
 msgstr "连接"
 
-#: pebble/apps/system/settings/bluetooth.c:461
+#: pebble/apps/system/settings/bluetooth.c:401
 msgid "Airplane Mode"
 msgstr "飞行模式"
 
-#: pebble/apps/system/settings/bluetooth.c:471
+#: pebble/apps/system/settings/bluetooth.c:411
 msgid "Disabling..."
 msgstr "正在禁用..."
 
-#: pebble/apps/system/settings/bluetooth.c:472
+#: pebble/apps/system/settings/bluetooth.c:412
 msgid "Enabling..."
 msgstr "正在启用..."
 
-#: pebble/apps/system/settings/bluetooth.c:625
+#: pebble/apps/system/settings/bluetooth.c:554
 msgid "Bluetooth"
 msgstr "蓝牙"
 
-#: pebble/apps/system/settings/bluetooth.h:38
+#: pebble/apps/system/settings/bluetooth.h:33
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr "请同时解除手机与 Pebble 的蓝牙配对。"
@@ -1709,18 +1705,13 @@ msgstr "静音扬声器"
 msgid "Quiet Time"
 msgstr "勿扰时间"
 
-#: pebble/apps/system/settings/remote.c:55
+#: pebble/apps/system/settings/remote.c:50
 msgid "You're all set"
 msgstr "一切就绪"
 
-#: pebble/apps/system/settings/remote.c:124
+#: pebble/apps/system/settings/remote.c:101
 msgid "Forget"
 msgstr "解除配对"
-
-#: pebble/apps/system/settings/remote.c:132
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:28
-msgid "Stop Sharing Heart Rate"
-msgstr "停止共享心率"
 
 #: pebble/apps/system/settings/settings.c:225
 msgid "Settings"
@@ -2384,7 +2375,7 @@ msgid "Clear"
 msgstr "全部清除"
 
 #: pebble/apps/system/weather/weather.c:153 pebble/services/clock/service.c:785
-#: pebble/services/timeline/timeline_actions.c:1067
+#: pebble/services/timeline/timeline_actions.c:1043
 msgid "Tomorrow"
 msgstr "明天"
 
@@ -2841,7 +2832,6 @@ msgid ""
 msgstr "还在锻炼吗？您的锻炼仍在进行，很快就会自动结束。打开锻炼即可继续。"
 
 #: pebble/apps/system/workout/utils.c:32
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:24
 #: pebble/services/activity/activity_insights.c:1271
 #: pebble/services/notifications/ancs/ancs_item.c:150
 msgid "Dismiss"
@@ -2956,24 +2946,6 @@ msgstr "稍后 %d 分钟提醒"
 #: pebble/popups/alarm_popup.c:78
 msgid "Alarm dismissed"
 msgstr "闹钟已关闭"
-
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:15
-msgid ""
-"Your heart rate has been shared with an app on your phone for several hours. "
-"This could affect your battery. Stop sharing now?"
-msgstr "您的心率已与手机上的应用共享数小时，可能会影响电池续航。要停止共享吗？"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:28
-msgid "Sharing Heart Rate"
-msgstr "共享心率"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:65
-msgid "Share heart rate?"
-msgstr "共享心率？"
-
-#: pebble/popups/ble_hrm/ble_hrm_stop_sharing_popup.c:18
-msgid "Heart Rate Not Shared"
-msgstr "心率未共享"
 
 #: pebble/popups/bluetooth_pairing_ui.c:230
 msgid "Pair?"
@@ -4090,53 +4062,53 @@ msgstr "提醒事项"
 msgid "Intercom"
 msgstr "Intercom"
 
-#: pebble/services/timeline/timeline_actions.c:724
+#: pebble/services/timeline/timeline_actions.c:700
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
 msgstr "收到通知时，长按选择键 2 秒即可快速关闭所有通知。"
 
-#: pebble/services/timeline/timeline_actions.c:812
+#: pebble/services/timeline/timeline_actions.c:788
 msgid "Ok"
 msgstr "确定"
 
-#: pebble/services/timeline/timeline_actions.c:813
+#: pebble/services/timeline/timeline_actions.c:789
 msgid "Yes"
 msgstr "是"
 
-#: pebble/services/timeline/timeline_actions.c:814
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "No"
 msgstr "否"
 
-#: pebble/services/timeline/timeline_actions.c:815
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Call me"
 msgstr "打给我"
 
-#: pebble/services/timeline/timeline_actions.c:816
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "Call you later"
 msgstr "稍后打给你"
 
-#: pebble/services/timeline/timeline_actions.c:940
+#: pebble/services/timeline/timeline_actions.c:916
 msgid "Reply with Voice"
 msgstr "语音回复"
 
-#: pebble/services/timeline/timeline_actions.c:941
+#: pebble/services/timeline/timeline_actions.c:917
 msgid "Voice"
 msgstr "语音"
 
-#: pebble/services/timeline/timeline_actions.c:951
+#: pebble/services/timeline/timeline_actions.c:927
 msgid "Canned messages"
 msgstr "快捷回复"
 
-#: pebble/services/timeline/timeline_actions.c:955
+#: pebble/services/timeline/timeline_actions.c:931
 msgid "Emoji"
 msgstr "表情"
 
-#: pebble/services/timeline/timeline_actions.c:1059
+#: pebble/services/timeline/timeline_actions.c:1035
 msgid "In 15 minutes"
 msgstr "15 分钟后"
 
-#: pebble/services/timeline/timeline_actions.c:1063
+#: pebble/services/timeline/timeline_actions.c:1039
 msgid "Later today"
 msgstr "今天晚些时候"
 
@@ -4220,6 +4192,26 @@ msgstr "充电中"
 #, c-format
 msgid "Powered 'til %s"
 msgstr "电量可维持至 %s"
+
+#~ msgid "Sharing Heart Rate ❤"
+#~ msgstr "共享心率 ❤"
+
+#~ msgid "Stop Sharing Heart Rate"
+#~ msgstr "停止共享心率"
+
+#~ msgid ""
+#~ "Your heart rate has been shared with an app on your phone for several hours. "
+#~ "This could affect your battery. Stop sharing now?"
+#~ msgstr "您的心率已与手机上的应用共享数小时，可能会影响电池续航。要停止共享吗？"
+
+#~ msgid "Sharing Heart Rate"
+#~ msgstr "共享心率"
+
+#~ msgid "Share heart rate?"
+#~ msgstr "共享心率？"
+
+#~ msgid "Heart Rate Not Shared"
+#~ msgstr "心率未共享"
 
 #, fuzzy
 #~| msgid "HR During Activity"

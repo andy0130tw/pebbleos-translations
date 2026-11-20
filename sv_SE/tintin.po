@@ -718,7 +718,7 @@ msgid "Incompatible JS"
 msgstr "Inkompatibel JS"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:271
+#: pebble/services/timeline/timeline_actions.c:269
 msgid "Failed"
 msgstr "Misslyckades"
 
@@ -1010,65 +1010,61 @@ msgstr "Inga"
 msgid "Background App"
 msgstr "Bakgrundsapp"
 
-#: pebble/apps/system/settings/bluetooth.c:131
+#: pebble/apps/system/settings/bluetooth.c:125
 msgid "<Untitled>"
 msgstr "<Namnlös>"
 
-#: pebble/apps/system/settings/bluetooth.c:181
+#: pebble/apps/system/settings/bluetooth.c:172
 msgid "Pairing Instructions"
 msgstr "Parkopplingsinstruktioner"
 
-#: pebble/apps/system/settings/bluetooth.c:185
+#: pebble/apps/system/settings/bluetooth.c:176
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u parkopplade telefoner"
 
-#: pebble/apps/system/settings/bluetooth.c:186
+#: pebble/apps/system/settings/bluetooth.c:177
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u parkopplad telefon"
 
-#: pebble/apps/system/settings/bluetooth.c:337
+#: pebble/apps/system/settings/bluetooth.c:290
 msgid "Connected"
 msgstr "Ansluten"
 
-#: pebble/apps/system/settings/bluetooth.c:352
-msgid "Sharing Heart Rate ❤"
-msgstr "Delar pulsmätning ❤"
-
-#: pebble/apps/system/settings/bluetooth.c:377
+#: pebble/apps/system/settings/bluetooth.c:317
 msgid "Forget this device to pair a new device."
 msgstr "Glöm denna enhet för att parkoppla en ny enhet."
 
-#: pebble/apps/system/settings/bluetooth.c:380
+#: pebble/apps/system/settings/bluetooth.c:320
 msgid "Disable Airplane Mode to connect."
 msgstr "Inaktivera flygplansläge för att ansluta."
 
-#: pebble/apps/system/settings/bluetooth.c:382
+#: pebble/apps/system/settings/bluetooth.c:322
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Öppna Pebble-appen på telefonen för att ansluta."
 
-#: pebble/apps/system/settings/bluetooth.c:457
+#: pebble/apps/system/settings/bluetooth.c:397
 msgid "Connection"
 msgstr "Anslutning"
 
-#: pebble/apps/system/settings/bluetooth.c:461
+#: pebble/apps/system/settings/bluetooth.c:401
 msgid "Airplane Mode"
 msgstr "Flygplansläge"
 
-#: pebble/apps/system/settings/bluetooth.c:471
+#: pebble/apps/system/settings/bluetooth.c:411
 msgid "Disabling..."
 msgstr "Inaktiverar..."
 
-#: pebble/apps/system/settings/bluetooth.c:472
+#: pebble/apps/system/settings/bluetooth.c:412
 msgid "Enabling..."
 msgstr "Aktiverar..."
 
-#: pebble/apps/system/settings/bluetooth.c:625
+#: pebble/apps/system/settings/bluetooth.c:554
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:38
+#: pebble/apps/system/settings/bluetooth.h:33
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr "Kom ihåg att också radera Pebbles Bluetooth-anslutning på din telefon."
@@ -1678,18 +1674,13 @@ msgstr "Tysta högtalare"
 msgid "Quiet Time"
 msgstr "Tyst stund"
 
-#: pebble/apps/system/settings/remote.c:55
+#: pebble/apps/system/settings/remote.c:50
 msgid "You're all set"
 msgstr "Du är redo"
 
-#: pebble/apps/system/settings/remote.c:124
+#: pebble/apps/system/settings/remote.c:101
 msgid "Forget"
 msgstr "Glöm"
-
-#: pebble/apps/system/settings/remote.c:132
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:28
-msgid "Stop Sharing Heart Rate"
-msgstr "Sluta dela pulsmätning"
 
 #: pebble/apps/system/settings/settings.c:225
 msgid "Settings"
@@ -2331,7 +2322,7 @@ msgid "Clear"
 msgstr "Rensa"
 
 #: pebble/apps/system/weather/weather.c:153 pebble/services/clock/service.c:785
-#: pebble/services/timeline/timeline_actions.c:1067
+#: pebble/services/timeline/timeline_actions.c:1043
 msgid "Tomorrow"
 msgstr "Imorgon"
 
@@ -2769,7 +2760,6 @@ msgstr ""
 "träningspasset för att fortsätta."
 
 #: pebble/apps/system/workout/utils.c:32
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:24
 #: pebble/services/activity/activity_insights.c:1271
 #: pebble/services/notifications/ancs/ancs_item.c:150
 msgid "Dismiss"
@@ -2886,26 +2876,6 @@ msgstr "Snooza i %d minuter"
 #: pebble/popups/alarm_popup.c:78
 msgid "Alarm dismissed"
 msgstr "Alarmet stoppat"
-
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:15
-msgid ""
-"Your heart rate has been shared with an app on your phone for several hours. "
-"This could affect your battery. Stop sharing now?"
-msgstr ""
-"Din pulsmätning har delats med en app på din telefon under flera timmar. "
-"Detta kan påverka batteritiden. Vill du sluta dela?"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:28
-msgid "Sharing Heart Rate"
-msgstr "Delar pulsmätning"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:65
-msgid "Share heart rate?"
-msgstr "Dela pulsmätning?"
-
-#: pebble/popups/ble_hrm/ble_hrm_stop_sharing_popup.c:18
-msgid "Heart Rate Not Shared"
-msgstr "Pulsmätning delas inte"
 
 #: pebble/popups/bluetooth_pairing_ui.c:230
 msgid "Pair?"
@@ -4089,7 +4059,7 @@ msgstr "Påminnelser"
 msgid "Intercom"
 msgstr "Interkom"
 
-#: pebble/services/timeline/timeline_actions.c:724
+#: pebble/services/timeline/timeline_actions.c:700
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4097,47 +4067,47 @@ msgstr ""
 "Rensa alla aviseringar genom att hålla in mitten-knappen i 2 sekunder på en "
 "aviseringar."
 
-#: pebble/services/timeline/timeline_actions.c:812
+#: pebble/services/timeline/timeline_actions.c:788
 msgid "Ok"
 msgstr "Ok"
 
-#: pebble/services/timeline/timeline_actions.c:813
+#: pebble/services/timeline/timeline_actions.c:789
 msgid "Yes"
 msgstr "Ja"
 
-#: pebble/services/timeline/timeline_actions.c:814
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "No"
 msgstr "Nej"
 
-#: pebble/services/timeline/timeline_actions.c:815
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Call me"
 msgstr "Ring mig"
 
-#: pebble/services/timeline/timeline_actions.c:816
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "Call you later"
 msgstr "Jag ringer upp"
 
-#: pebble/services/timeline/timeline_actions.c:940
+#: pebble/services/timeline/timeline_actions.c:916
 msgid "Reply with Voice"
 msgstr "Svara med röst"
 
-#: pebble/services/timeline/timeline_actions.c:941
+#: pebble/services/timeline/timeline_actions.c:917
 msgid "Voice"
 msgstr "Röst"
 
-#: pebble/services/timeline/timeline_actions.c:951
+#: pebble/services/timeline/timeline_actions.c:927
 msgid "Canned messages"
 msgstr "Kastade meddelanden"
 
-#: pebble/services/timeline/timeline_actions.c:955
+#: pebble/services/timeline/timeline_actions.c:931
 msgid "Emoji"
 msgstr "Emoji"
 
-#: pebble/services/timeline/timeline_actions.c:1059
+#: pebble/services/timeline/timeline_actions.c:1035
 msgid "In 15 minutes"
 msgstr "Om 15 minuter"
 
-#: pebble/services/timeline/timeline_actions.c:1063
+#: pebble/services/timeline/timeline_actions.c:1039
 msgid "Later today"
 msgstr "Senare idag"
 
@@ -4219,6 +4189,28 @@ msgstr "Laddar"
 #, c-format
 msgid "Powered 'til %s"
 msgstr "Ström till %s"
+
+#~ msgid "Sharing Heart Rate ❤"
+#~ msgstr "Delar pulsmätning ❤"
+
+#~ msgid "Stop Sharing Heart Rate"
+#~ msgstr "Sluta dela pulsmätning"
+
+#~ msgid ""
+#~ "Your heart rate has been shared with an app on your phone for several hours. "
+#~ "This could affect your battery. Stop sharing now?"
+#~ msgstr ""
+#~ "Din pulsmätning har delats med en app på din telefon under flera timmar. "
+#~ "Detta kan påverka batteritiden. Vill du sluta dela?"
+
+#~ msgid "Sharing Heart Rate"
+#~ msgstr "Delar pulsmätning"
+
+#~ msgid "Share heart rate?"
+#~ msgstr "Dela pulsmätning?"
+
+#~ msgid "Heart Rate Not Shared"
+#~ msgstr "Pulsmätning delas inte"
 
 #~ msgid "Disconnect the charger to shut down."
 #~ msgstr "Koppla bort laddaren för att stänga av."

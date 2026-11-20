@@ -718,7 +718,7 @@ msgid "Incompatible JS"
 msgstr "JS incompatible"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:271
+#: pebble/services/timeline/timeline_actions.c:269
 msgid "Failed"
 msgstr "Échec"
 
@@ -1014,65 +1014,61 @@ msgstr "Vide"
 msgid "Background App"
 msgstr "Tâche de fond"
 
-#: pebble/apps/system/settings/bluetooth.c:131
+#: pebble/apps/system/settings/bluetooth.c:125
 msgid "<Untitled>"
 msgstr ""
 
-#: pebble/apps/system/settings/bluetooth.c:181
+#: pebble/apps/system/settings/bluetooth.c:172
 msgid "Pairing Instructions"
 msgstr "Instructions de jumelage"
 
-#: pebble/apps/system/settings/bluetooth.c:185
+#: pebble/apps/system/settings/bluetooth.c:176
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u téléphones jumelés"
 
-#: pebble/apps/system/settings/bluetooth.c:186
+#: pebble/apps/system/settings/bluetooth.c:177
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u téléphone jumelé"
 
-#: pebble/apps/system/settings/bluetooth.c:337
+#: pebble/apps/system/settings/bluetooth.c:290
 msgid "Connected"
 msgstr "Connecté"
 
-#: pebble/apps/system/settings/bluetooth.c:352
-msgid "Sharing Heart Rate ❤"
-msgstr "Rythme cardiaque partagé ❤"
-
-#: pebble/apps/system/settings/bluetooth.c:377
+#: pebble/apps/system/settings/bluetooth.c:317
 msgid "Forget this device to pair a new device."
 msgstr "Oublier cet appareil pour en associer un nouveau."
 
-#: pebble/apps/system/settings/bluetooth.c:380
+#: pebble/apps/system/settings/bluetooth.c:320
 msgid "Disable Airplane Mode to connect."
 msgstr "Désactivez le mode avion pour vous connecter."
 
-#: pebble/apps/system/settings/bluetooth.c:382
+#: pebble/apps/system/settings/bluetooth.c:322
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Ouvrez l'application Pebble sur votre téléphone pour vous connecter."
 
-#: pebble/apps/system/settings/bluetooth.c:457
+#: pebble/apps/system/settings/bluetooth.c:397
 msgid "Connection"
 msgstr "Connexion"
 
-#: pebble/apps/system/settings/bluetooth.c:461
+#: pebble/apps/system/settings/bluetooth.c:401
 msgid "Airplane Mode"
 msgstr "Mode avion"
 
-#: pebble/apps/system/settings/bluetooth.c:471
+#: pebble/apps/system/settings/bluetooth.c:411
 msgid "Disabling..."
 msgstr "Désactivation..."
 
-#: pebble/apps/system/settings/bluetooth.c:472
+#: pebble/apps/system/settings/bluetooth.c:412
 msgid "Enabling..."
 msgstr "Activation..."
 
-#: pebble/apps/system/settings/bluetooth.c:625
+#: pebble/apps/system/settings/bluetooth.c:554
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:38
+#: pebble/apps/system/settings/bluetooth.h:33
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr ""
@@ -1686,18 +1682,13 @@ msgstr "Couper le haut-parleur"
 msgid "Quiet Time"
 msgstr "Tranquillité"
 
-#: pebble/apps/system/settings/remote.c:55
+#: pebble/apps/system/settings/remote.c:50
 msgid "You're all set"
 msgstr "C'est configuré!"
 
-#: pebble/apps/system/settings/remote.c:124
+#: pebble/apps/system/settings/remote.c:101
 msgid "Forget"
 msgstr "Oublier"
-
-#: pebble/apps/system/settings/remote.c:132
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:28
-msgid "Stop Sharing Heart Rate"
-msgstr "Ne plus partager le rythme cardiaque"
 
 #: pebble/apps/system/settings/settings.c:225
 msgid "Settings"
@@ -2339,7 +2330,7 @@ msgid "Clear"
 msgstr "Effacer"
 
 #: pebble/apps/system/weather/weather.c:153 pebble/services/clock/service.c:785
-#: pebble/services/timeline/timeline_actions.c:1067
+#: pebble/services/timeline/timeline_actions.c:1043
 msgid "Tomorrow"
 msgstr "Demain"
 
@@ -2777,7 +2768,6 @@ msgstr ""
 "fin. Ouvrez Exercice pour le poursuivre."
 
 #: pebble/apps/system/workout/utils.c:32
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:24
 #: pebble/services/activity/activity_insights.c:1271
 #: pebble/services/notifications/ancs/ancs_item.c:150
 msgid "Dismiss"
@@ -2896,27 +2886,6 @@ msgstr "Reportée de %d minutes"
 #: pebble/popups/alarm_popup.c:78
 msgid "Alarm dismissed"
 msgstr "Alarme annulée"
-
-#: pebble/popups/ble_hrm/ble_hrm_reminder_popup.c:15
-msgid ""
-"Your heart rate has been shared with an app on your phone for several hours. "
-"This could affect your battery. Stop sharing now?"
-msgstr ""
-"Votre fréquence cardiaque est partagée avec une application sur votre "
-"téléphone depuis plusieurs heures. Cela pourrait affecter votre batterie. "
-"Arrêter le partage maintenant?"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:28
-msgid "Sharing Heart Rate"
-msgstr "Partager le rythme cardiaque"
-
-#: pebble/popups/ble_hrm/ble_hrm_sharing_popup.c:65
-msgid "Share heart rate?"
-msgstr "Partager votre rythme cardiaque?"
-
-#: pebble/popups/ble_hrm/ble_hrm_stop_sharing_popup.c:18
-msgid "Heart Rate Not Shared"
-msgstr "Rythme cardiaque non partagé"
 
 #: pebble/popups/bluetooth_pairing_ui.c:230
 msgid "Pair?"
@@ -4123,7 +4092,7 @@ msgstr "Rappels"
 msgid "Intercom"
 msgstr ""
 
-#: pebble/services/timeline/timeline_actions.c:724
+#: pebble/services/timeline/timeline_actions.c:700
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4131,47 +4100,47 @@ msgstr ""
 "Faîtes disparaître toutes les notifications en appuyant sur le bouton "
 "Sélectionner pendant deux secondes depuis n'importe quelle notification."
 
-#: pebble/services/timeline/timeline_actions.c:812
+#: pebble/services/timeline/timeline_actions.c:788
 msgid "Ok"
 msgstr "Ok"
 
-#: pebble/services/timeline/timeline_actions.c:813
+#: pebble/services/timeline/timeline_actions.c:789
 msgid "Yes"
 msgstr "Oui"
 
-#: pebble/services/timeline/timeline_actions.c:814
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "No"
 msgstr "Non"
 
-#: pebble/services/timeline/timeline_actions.c:815
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Call me"
 msgstr "Appelle-moi"
 
-#: pebble/services/timeline/timeline_actions.c:816
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "Call you later"
 msgstr "Je t'appelle plus tard"
 
-#: pebble/services/timeline/timeline_actions.c:940
+#: pebble/services/timeline/timeline_actions.c:916
 msgid "Reply with Voice"
 msgstr "Dicter une réponse"
 
-#: pebble/services/timeline/timeline_actions.c:941
+#: pebble/services/timeline/timeline_actions.c:917
 msgid "Voice"
 msgstr "Dicter"
 
-#: pebble/services/timeline/timeline_actions.c:951
+#: pebble/services/timeline/timeline_actions.c:927
 msgid "Canned messages"
 msgstr "Messages préenregistrés"
 
-#: pebble/services/timeline/timeline_actions.c:955
+#: pebble/services/timeline/timeline_actions.c:931
 msgid "Emoji"
 msgstr "Emoji"
 
-#: pebble/services/timeline/timeline_actions.c:1059
+#: pebble/services/timeline/timeline_actions.c:1035
 msgid "In 15 minutes"
 msgstr "Dans 15 minutes"
 
-#: pebble/services/timeline/timeline_actions.c:1063
+#: pebble/services/timeline/timeline_actions.c:1039
 msgid "Later today"
 msgstr "Plus tard aujourd'hui"
 
@@ -4253,6 +4222,29 @@ msgstr "Recharge en cours…"
 #, c-format
 msgid "Powered 'til %s"
 msgstr "Autonomie jusqu'à %s"
+
+#~ msgid "Sharing Heart Rate ❤"
+#~ msgstr "Rythme cardiaque partagé ❤"
+
+#~ msgid "Stop Sharing Heart Rate"
+#~ msgstr "Ne plus partager le rythme cardiaque"
+
+#~ msgid ""
+#~ "Your heart rate has been shared with an app on your phone for several hours. "
+#~ "This could affect your battery. Stop sharing now?"
+#~ msgstr ""
+#~ "Votre fréquence cardiaque est partagée avec une application sur votre "
+#~ "téléphone depuis plusieurs heures. Cela pourrait affecter votre batterie. "
+#~ "Arrêter le partage maintenant?"
+
+#~ msgid "Sharing Heart Rate"
+#~ msgstr "Partager le rythme cardiaque"
+
+#~ msgid "Share heart rate?"
+#~ msgstr "Partager votre rythme cardiaque?"
+
+#~ msgid "Heart Rate Not Shared"
+#~ msgstr "Rythme cardiaque non partagé"
 
 #~ msgid "Disconnect the charger to shut down."
 #~ msgstr "Débranchez le chargeur pour éteindre la montre."
