@@ -148,31 +148,31 @@ msgstr "11月"
 msgid "December"
 msgstr "12月"
 
-#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1485
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1481
 msgid "Sun"
 msgstr "周日"
 
-#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1485
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1481
 msgid "Mon"
 msgstr "周一"
 
-#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1486
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1482
 msgid "Tue"
 msgstr "周二"
 
-#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1486
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1482
 msgid "Wed"
 msgstr "周三"
 
-#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1487
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1483
 msgid "Thu"
 msgstr "周四"
 
-#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1487
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1483
 msgid "Fri"
 msgstr "周五"
 
-#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1488
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1484
 msgid "Sat"
 msgstr "周六"
 
@@ -491,25 +491,25 @@ msgstr " 年"
 
 #. / A frequency option for alarms, i.e. the alarm would go off every
 #. / day. Respect capitalization!
-#: pebble/applib/ui/day_picker.c:46 pebble/services/alarms/alarm.c:1430
+#: pebble/applib/ui/day_picker.c:46 pebble/services/alarms/alarm.c:1426
 msgid "Every Day"
 msgstr "每天"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / every weekday. Respect capitalization!
-#: pebble/applib/ui/day_picker.c:47 pebble/services/alarms/alarm.c:1440
+#: pebble/applib/ui/day_picker.c:47 pebble/services/alarms/alarm.c:1436
 msgid "Weekdays"
 msgstr "工作日"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / each day on the weekend. Respect capitalization!
-#: pebble/applib/ui/day_picker.c:48 pebble/services/alarms/alarm.c:1450
+#: pebble/applib/ui/day_picker.c:48 pebble/services/alarms/alarm.c:1446
 msgid "Weekends"
 msgstr "周末"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / on a custom choice of days. Respect capitalization!
-#: pebble/applib/ui/day_picker.c:49 pebble/services/alarms/alarm.c:1472
+#: pebble/applib/ui/day_picker.c:49 pebble/services/alarms/alarm.c:1468
 msgid "Custom"
 msgstr "自定义"
 
@@ -685,8 +685,8 @@ msgid "Basic Alarm"
 msgstr "基本闹钟"
 
 #: pebble/apps/system/alarms/alarm_editor.c:261
-#: pebble/apps/system/alarms/alarms.c:351 pebble/services/alarms/alarm.c:465
-#: pebble/services/alarms/alarm_pin.c:75
+#: pebble/apps/system/alarms/alarms.c:351 pebble/services/alarms/alarm.c:461
+#: pebble/services/alarms/alarm_pin.c:77
 msgid "Smart Alarm"
 msgstr "智能闹钟"
 
@@ -717,7 +717,7 @@ msgstr "让我们在您睡眠最浅时唤醒您，让您神清气爽！智能闹
 
 #: pebble/apps/system/alarms/alarms.c:480
 #: pebble/apps/system/settings/vibe_patterns.c:65
-#: pebble/services/timeline/timeline.c:937
+#: pebble/services/timeline/timeline.c:939
 msgid "Alarms"
 msgstr "闹钟"
 
@@ -811,7 +811,7 @@ msgstr "健康功能需要先同步时间。请连接手机。"
 
 #: pebble/apps/system/health/health.c:187
 #: pebble/apps/system/settings/health.c:266
-#: pebble/services/timeline/timeline.c:941
+#: pebble/services/timeline/timeline.c:943
 msgid "Health"
 msgstr "健康"
 
@@ -956,7 +956,7 @@ msgstr "暂无通知"
 #: pebble/apps/system/settings/quiet_time.c:541
 #: pebble/apps/system/settings/quiet_time.c:626
 #: pebble/apps/system/settings/vibe_patterns.c:61
-#: pebble/services/timeline/timeline.c:921
+#: pebble/services/timeline/timeline.c:923
 msgid "Notifications"
 msgstr "通知"
 
@@ -979,7 +979,7 @@ msgstr "推迟"
 
 #: pebble/apps/system/reminders/reminder.c:68
 #: pebble/services/activity/activity_insights.c:469
-#: pebble/services/timeline/timeline.c:658
+#: pebble/services/timeline/timeline.c:660
 msgid "Remove"
 msgstr "移除"
 
@@ -2386,7 +2386,7 @@ msgid ""
 msgstr "位置信息不可用。要查看天气，请在 Pebble 手机应用中添加位置。"
 
 #: pebble/apps/system/weather/weather.c:817
-#: pebble/services/timeline/timeline.c:929
+#: pebble/services/timeline/timeline.c:931
 msgid "Weather"
 msgstr "天气"
 
@@ -3679,75 +3679,75 @@ msgstr "min"
 msgid "%d.%d"
 msgstr "%d.%d"
 
-#: pebble/services/alarms/alarm.c:465 pebble/services/alarms/alarm_pin.c:75
+#: pebble/services/alarms/alarm.c:461 pebble/services/alarms/alarm_pin.c:77
 msgid "Alarm"
 msgstr "闹钟"
 
 #. / A frequency option for alarms, i.e. the alarm would go off every
 #. / day. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1426
+#: pebble/services/alarms/alarm.c:1422
 msgid "EVERY DAY"
 msgstr "每天"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / every weekday. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1436
+#: pebble/services/alarms/alarm.c:1432
 msgid "WEEKDAYS"
 msgstr "工作日"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / each day on the weekend. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1446
+#: pebble/services/alarms/alarm.c:1442
 msgid "WEEKENDS"
 msgstr "周末"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / one time ever. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1457
+#: pebble/services/alarms/alarm.c:1453
 msgid "ONCE"
 msgstr "一次"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / one time ever. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1461
+#: pebble/services/alarms/alarm.c:1457
 msgid "Once"
 msgstr "一次"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / on a custom choice of days. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1468
+#: pebble/services/alarms/alarm.c:1464
 msgid "CUSTOM"
 msgstr "自定义"
 
-#: pebble/services/alarms/alarm.c:1489
+#: pebble/services/alarms/alarm.c:1485
 msgid "Sundays"
 msgstr "每周日"
 
-#: pebble/services/alarms/alarm.c:1489
+#: pebble/services/alarms/alarm.c:1485
 msgid "Mondays"
 msgstr "每周一"
 
-#: pebble/services/alarms/alarm.c:1490
+#: pebble/services/alarms/alarm.c:1486
 msgid "Tuesdays"
 msgstr "每周二"
 
-#: pebble/services/alarms/alarm.c:1490
+#: pebble/services/alarms/alarm.c:1486
 msgid "Wednesdays"
 msgstr "每周三"
 
-#: pebble/services/alarms/alarm.c:1491
+#: pebble/services/alarms/alarm.c:1487
 msgid "Thursdays"
 msgstr "每周四"
 
-#: pebble/services/alarms/alarm.c:1491
+#: pebble/services/alarms/alarm.c:1487
 msgid "Fridays"
 msgstr "每周五"
 
-#: pebble/services/alarms/alarm.c:1492
+#: pebble/services/alarms/alarm.c:1488
 msgid "Saturdays"
 msgstr "每周六"
 
-#: pebble/services/alarms/alarm_pin.c:88
+#: pebble/services/alarms/alarm_pin.c:90
 msgid "Edit"
 msgstr "编辑"
 
@@ -4033,36 +4033,36 @@ msgstr "开始于 "
 msgid "Broadcaster"
 msgstr "转播频道"
 
-#: pebble/services/timeline/timeline.c:699
+#: pebble/services/timeline/timeline.c:701
 msgid "Can't connect. Relaunch Pebble Time app on phone."
 msgstr "无法连接。请重新启动手机上的 Pebble Time 应用。"
 
-#: pebble/services/timeline/timeline.c:711
+#: pebble/services/timeline/timeline.c:713
 msgid "Removed"
 msgstr "已移除"
 
-#: pebble/services/timeline/timeline.c:721
-#: pebble/services/timeline/timeline.c:740
+#: pebble/services/timeline/timeline.c:723
+#: pebble/services/timeline/timeline.c:742
 msgid "Dismissed"
 msgstr "已关闭"
 
-#: pebble/services/timeline/timeline.c:744
+#: pebble/services/timeline/timeline.c:746
 msgid "Deleted"
 msgstr "已删除"
 
-#: pebble/services/timeline/timeline.c:771
+#: pebble/services/timeline/timeline.c:773
 msgid "Thanks!"
 msgstr "谢谢！"
 
-#: pebble/services/timeline/timeline.c:925
+#: pebble/services/timeline/timeline.c:927
 msgid "Calendar"
 msgstr "日历"
 
-#: pebble/services/timeline/timeline.c:933
+#: pebble/services/timeline/timeline.c:935
 msgid "Reminders"
 msgstr "提醒事项"
 
-#: pebble/services/timeline/timeline.c:945
+#: pebble/services/timeline/timeline.c:947
 msgid "Intercom"
 msgstr "Intercom"
 

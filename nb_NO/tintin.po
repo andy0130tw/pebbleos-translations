@@ -127,31 +127,31 @@ msgstr ""
 msgid "December"
 msgstr ""
 
-#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1485
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1481
 msgid "Sun"
 msgstr ""
 
-#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1485
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1481
 msgid "Mon"
 msgstr ""
 
-#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1486
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1482
 msgid "Tue"
 msgstr ""
 
-#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1486
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1482
 msgid "Wed"
 msgstr ""
 
-#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1487
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1483
 msgid "Thu"
 msgstr ""
 
-#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1487
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1483
 msgid "Fri"
 msgstr ""
 
-#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1488
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1484
 msgid "Sat"
 msgstr ""
 
@@ -470,25 +470,25 @@ msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would go off every
 #. / day. Respect capitalization!
-#: pebble/applib/ui/day_picker.c:46 pebble/services/alarms/alarm.c:1430
+#: pebble/applib/ui/day_picker.c:46 pebble/services/alarms/alarm.c:1426
 msgid "Every Day"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / every weekday. Respect capitalization!
-#: pebble/applib/ui/day_picker.c:47 pebble/services/alarms/alarm.c:1440
+#: pebble/applib/ui/day_picker.c:47 pebble/services/alarms/alarm.c:1436
 msgid "Weekdays"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / each day on the weekend. Respect capitalization!
-#: pebble/applib/ui/day_picker.c:48 pebble/services/alarms/alarm.c:1450
+#: pebble/applib/ui/day_picker.c:48 pebble/services/alarms/alarm.c:1446
 msgid "Weekends"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / on a custom choice of days. Respect capitalization!
-#: pebble/applib/ui/day_picker.c:49 pebble/services/alarms/alarm.c:1472
+#: pebble/applib/ui/day_picker.c:49 pebble/services/alarms/alarm.c:1468
 msgid "Custom"
 msgstr ""
 
@@ -664,8 +664,8 @@ msgid "Basic Alarm"
 msgstr ""
 
 #: pebble/apps/system/alarms/alarm_editor.c:261
-#: pebble/apps/system/alarms/alarms.c:351 pebble/services/alarms/alarm.c:465
-#: pebble/services/alarms/alarm_pin.c:75
+#: pebble/apps/system/alarms/alarms.c:351 pebble/services/alarms/alarm.c:461
+#: pebble/services/alarms/alarm_pin.c:77
 msgid "Smart Alarm"
 msgstr ""
 
@@ -696,7 +696,7 @@ msgstr ""
 
 #: pebble/apps/system/alarms/alarms.c:480
 #: pebble/apps/system/settings/vibe_patterns.c:65
-#: pebble/services/timeline/timeline.c:937
+#: pebble/services/timeline/timeline.c:939
 msgid "Alarms"
 msgstr ""
 
@@ -788,7 +788,7 @@ msgstr ""
 
 #: pebble/apps/system/health/health.c:187
 #: pebble/apps/system/settings/health.c:266
-#: pebble/services/timeline/timeline.c:941
+#: pebble/services/timeline/timeline.c:943
 msgid "Health"
 msgstr ""
 
@@ -927,7 +927,7 @@ msgstr ""
 #: pebble/apps/system/settings/quiet_time.c:541
 #: pebble/apps/system/settings/quiet_time.c:626
 #: pebble/apps/system/settings/vibe_patterns.c:61
-#: pebble/services/timeline/timeline.c:921
+#: pebble/services/timeline/timeline.c:923
 msgid "Notifications"
 msgstr ""
 
@@ -950,7 +950,7 @@ msgstr ""
 
 #: pebble/apps/system/reminders/reminder.c:68
 #: pebble/services/activity/activity_insights.c:469
-#: pebble/services/timeline/timeline.c:658
+#: pebble/services/timeline/timeline.c:660
 msgid "Remove"
 msgstr ""
 
@@ -2313,7 +2313,7 @@ msgid ""
 msgstr ""
 
 #: pebble/apps/system/weather/weather.c:817
-#: pebble/services/timeline/timeline.c:929
+#: pebble/services/timeline/timeline.c:931
 msgid "Weather"
 msgstr "Vær"
 
@@ -3555,75 +3555,75 @@ msgstr ""
 msgid "%d.%d"
 msgstr ""
 
-#: pebble/services/alarms/alarm.c:465 pebble/services/alarms/alarm_pin.c:75
+#: pebble/services/alarms/alarm.c:461 pebble/services/alarms/alarm_pin.c:77
 msgid "Alarm"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would go off every
 #. / day. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1426
+#: pebble/services/alarms/alarm.c:1422
 msgid "EVERY DAY"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / every weekday. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1436
+#: pebble/services/alarms/alarm.c:1432
 msgid "WEEKDAYS"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / each day on the weekend. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1446
+#: pebble/services/alarms/alarm.c:1442
 msgid "WEEKENDS"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / one time ever. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1457
+#: pebble/services/alarms/alarm.c:1453
 msgid "ONCE"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / one time ever. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1461
+#: pebble/services/alarms/alarm.c:1457
 msgid "Once"
 msgstr ""
 
 #. / A frequency option for alarms, i.e. the alarm would only go off
 #. / on a custom choice of days. Respect capitalization!
-#: pebble/services/alarms/alarm.c:1468
+#: pebble/services/alarms/alarm.c:1464
 msgid "CUSTOM"
 msgstr ""
 
-#: pebble/services/alarms/alarm.c:1489
+#: pebble/services/alarms/alarm.c:1485
 msgid "Sundays"
 msgstr ""
 
-#: pebble/services/alarms/alarm.c:1489
+#: pebble/services/alarms/alarm.c:1485
 msgid "Mondays"
 msgstr ""
 
-#: pebble/services/alarms/alarm.c:1490
+#: pebble/services/alarms/alarm.c:1486
 msgid "Tuesdays"
 msgstr ""
 
-#: pebble/services/alarms/alarm.c:1490
+#: pebble/services/alarms/alarm.c:1486
 msgid "Wednesdays"
 msgstr ""
 
-#: pebble/services/alarms/alarm.c:1491
+#: pebble/services/alarms/alarm.c:1487
 msgid "Thursdays"
 msgstr ""
 
-#: pebble/services/alarms/alarm.c:1491
+#: pebble/services/alarms/alarm.c:1487
 msgid "Fridays"
 msgstr ""
 
-#: pebble/services/alarms/alarm.c:1492
+#: pebble/services/alarms/alarm.c:1488
 msgid "Saturdays"
 msgstr ""
 
-#: pebble/services/alarms/alarm_pin.c:88
+#: pebble/services/alarms/alarm_pin.c:90
 msgid "Edit"
 msgstr ""
 
@@ -3903,36 +3903,36 @@ msgstr ""
 msgid "Broadcaster"
 msgstr ""
 
-#: pebble/services/timeline/timeline.c:699
+#: pebble/services/timeline/timeline.c:701
 msgid "Can't connect. Relaunch Pebble Time app on phone."
 msgstr ""
 
-#: pebble/services/timeline/timeline.c:711
+#: pebble/services/timeline/timeline.c:713
 msgid "Removed"
 msgstr ""
 
-#: pebble/services/timeline/timeline.c:721
-#: pebble/services/timeline/timeline.c:740
+#: pebble/services/timeline/timeline.c:723
+#: pebble/services/timeline/timeline.c:742
 msgid "Dismissed"
 msgstr ""
 
-#: pebble/services/timeline/timeline.c:744
+#: pebble/services/timeline/timeline.c:746
 msgid "Deleted"
 msgstr ""
 
-#: pebble/services/timeline/timeline.c:771
+#: pebble/services/timeline/timeline.c:773
 msgid "Thanks!"
 msgstr ""
 
-#: pebble/services/timeline/timeline.c:925
+#: pebble/services/timeline/timeline.c:927
 msgid "Calendar"
 msgstr ""
 
-#: pebble/services/timeline/timeline.c:933
+#: pebble/services/timeline/timeline.c:935
 msgid "Reminders"
 msgstr ""
 
-#: pebble/services/timeline/timeline.c:945
+#: pebble/services/timeline/timeline.c:947
 msgid "Intercom"
 msgstr ""
 
