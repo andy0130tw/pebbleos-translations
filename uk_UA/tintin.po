@@ -758,7 +758,7 @@ msgstr "РАЗОМ"
 
 #: pebble/apps/system/health/detail_card.c:726
 #: pebble/apps/system/weather/weather.c:151 pebble/services/clock/service.c:579
-#: pebble/services/clock/service.c:781
+#: pebble/services/clock/service.c:782
 msgid "Today"
 msgstr "Сьогодні"
 
@@ -907,7 +907,7 @@ msgstr ""
 "ПОЧАТИ ВІДТВОРЕННЯ\n"
 "НА ТЕЛЕФОНІ"
 
-#: pebble/apps/system/music.c:1888
+#: pebble/apps/system/music.c:1889
 msgid "Music"
 msgstr "Музика"
 
@@ -935,7 +935,7 @@ msgid "No notifications"
 msgstr "Сповіщення відсутні"
 
 #: pebble/apps/system/notifications.c:1117
-#: pebble/apps/system/settings/notifications.c:492
+#: pebble/apps/system/settings/notifications.c:493
 #: pebble/apps/system/settings/quiet_time.c:541
 #: pebble/apps/system/settings/quiet_time.c:626
 #: pebble/apps/system/settings/vibe_patterns.c:61
@@ -1080,7 +1080,7 @@ msgstr ""
 #: pebble/apps/system/settings/health.c:148
 #: pebble/apps/system/settings/health.c:172
 #: pebble/apps/system/settings/health.c:177
-#: pebble/apps/system/settings/notifications.c:379
+#: pebble/apps/system/settings/notifications.c:380
 #: pebble/apps/system/settings/quiet_time.c:492
 #: pebble/apps/system/settings/quiet_time.c:531
 #: pebble/apps/system/settings/quiet_time.c:537
@@ -1101,7 +1101,7 @@ msgstr "Вимкнено"
 #: pebble/apps/system/settings/health.c:148
 #: pebble/apps/system/settings/health.c:171
 #: pebble/apps/system/settings/health.c:177
-#: pebble/apps/system/settings/notifications.c:378
+#: pebble/apps/system/settings/notifications.c:379
 #: pebble/apps/system/settings/quiet_time.c:530
 #: pebble/apps/system/settings/quiet_time.c:537
 #: pebble/apps/system/settings/quiet_time.c:542
@@ -1158,7 +1158,7 @@ msgstr "Великий"
 #: pebble/apps/system/settings/display.c:111
 #: pebble/apps/system/settings/display.c:705
 #: pebble/apps/system/settings/notifications.c:134
-#: pebble/apps/system/settings/notifications.c:352
+#: pebble/apps/system/settings/notifications.c:353
 msgid "Text Size"
 msgstr "Розмір тексту"
 
@@ -1226,7 +1226,7 @@ msgstr "ЧАС ОЧІКУВАННЯ"
 #: pebble/apps/system/settings/display.c:229
 #: pebble/apps/system/settings/display.c:493
 #: pebble/apps/system/settings/notifications.c:193
-#: pebble/apps/system/settings/notifications.c:357
+#: pebble/apps/system/settings/notifications.c:358
 msgid "Timeout"
 msgstr "Час очікування"
 
@@ -1299,7 +1299,7 @@ msgstr "ПІДСВІЧЕННЯ"
 #: pebble/apps/system/settings/display.c:316
 #: pebble/apps/system/settings/display.c:438
 #: pebble/apps/system/settings/display.c:680
-#: pebble/apps/system/settings/notifications.c:377
+#: pebble/apps/system/settings/notifications.c:378
 #: pebble/apps/system/settings/quiet_time.c:587
 #: pebble/apps/system/settings/quiet_time.c:630
 msgid "Backlight"
@@ -1459,7 +1459,7 @@ msgstr "Приховати всі сповіщення"
 
 #. / The option in the Settings app for filtering notifications by type.
 #: pebble/apps/system/settings/notifications.c:94
-#: pebble/apps/system/settings/notifications.c:347
+#: pebble/apps/system/settings/notifications.c:348
 msgid "Filter"
 msgstr "Фільтрування"
 
@@ -1501,7 +1501,7 @@ msgstr "Суцільний чорний"
 #. / Status bar title for the Notification Design Style settings screen
 #. / String within Settings->Notifications that describes the notification design style
 #: pebble/apps/system/settings/notifications.c:225
-#: pebble/apps/system/settings/notifications.c:364
+#: pebble/apps/system/settings/notifications.c:365
 msgid "Banner Style"
 msgstr "Стиль банера"
 
@@ -1513,7 +1513,7 @@ msgstr "Негайно"
 #. / Status bar title for the Notification Vibe Timing settings screen
 #. / String within Settings->Notifications that describes when vibration happens
 #: pebble/apps/system/settings/notifications.c:257
-#: pebble/apps/system/settings/notifications.c:371
+#: pebble/apps/system/settings/notifications.c:372
 msgid "Vibe Timing"
 msgstr "Момент вібрації"
 
@@ -1557,13 +1557,13 @@ msgstr "Всі"
 
 #. / Title for the notification sender grouping settings screen
 #. / Notification settings item for grouping notifications by sender
-#: pebble/apps/system/settings/notifications.c:325
-#: pebble/apps/system/settings/notifications.c:384
+#: pebble/apps/system/settings/notifications.c:326
+#: pebble/apps/system/settings/notifications.c:385
 msgid "Group by Sender"
 msgstr "Групувати за відправником"
 
 #. / String within Settings->Notifications that selects the notification status bar style
-#: pebble/apps/system/settings/notifications.c:391
+#: pebble/apps/system/settings/notifications.c:392
 msgid "Status Bar"
 msgstr "Рядок стану"
 
@@ -2326,7 +2326,7 @@ msgstr "Дощ зі снігом"
 msgid "Clear"
 msgstr "Очистити"
 
-#: pebble/apps/system/weather/weather.c:153 pebble/services/clock/service.c:785
+#: pebble/apps/system/weather/weather.c:153 pebble/services/clock/service.c:786
 #: pebble/services/timeline/timeline_actions.c:1043
 msgid "Tomorrow"
 msgstr "Завтра"
@@ -2669,7 +2669,7 @@ msgstr "З%d"
 
 #: pebble/apps/system/workout/active.c:1174
 #: pebble/apps/system/workout/active.c:1220
-#: pebble/apps/system/workout/active.c:1464
+#: pebble/apps/system/workout/active.c:1465
 msgid "TOTAL TIME"
 msgstr "ЗАГАЛЬНИЙ ЧАС"
 
@@ -2699,7 +2699,7 @@ msgstr "ТЕМП /КМ"
 #: pebble/apps/system/workout/active.c:1188
 #: pebble/apps/system/workout/active.c:1205
 #: pebble/apps/system/workout/active.c:1230
-#: pebble/apps/system/workout/active.c:1466
+#: pebble/apps/system/workout/active.c:1467
 msgid "KCAL"
 msgstr "ККАЛ"
 
@@ -2717,8 +2717,8 @@ msgid "SPEED KM/H"
 msgstr "ШВИДКІСТЬ КМ/ГОД"
 
 #: pebble/apps/system/workout/active.c:1223
-#: pebble/apps/system/workout/active.c:1425
-#: pebble/apps/system/workout/active.c:1465
+#: pebble/apps/system/workout/active.c:1426
+#: pebble/apps/system/workout/active.c:1466
 msgid "AVG BPM"
 msgstr "СЕР. ЧСС"
 
@@ -2726,20 +2726,20 @@ msgstr "СЕР. ЧСС"
 msgid "TIME IN ZONE"
 msgstr "ЧАС У ЗОНІ"
 
-#: pebble/apps/system/workout/active.c:1394
+#: pebble/apps/system/workout/active.c:1395
 msgid "LAST MINUTE"
 msgstr "ОСТАННЯ ХВИЛИНА"
 
-#: pebble/apps/system/workout/active.c:1397
+#: pebble/apps/system/workout/active.c:1398
 msgid "WAITING FOR HR"
 msgstr "ОЧІКУЄМО ЧСС"
 
-#: pebble/apps/system/workout/active.c:1422
+#: pebble/apps/system/workout/active.c:1423
 #, c-format
 msgid "ZONE %d"
 msgstr "ЗОНА %d"
 
-#: pebble/apps/system/workout/active.c:1425
+#: pebble/apps/system/workout/active.c:1426
 msgid "MEASURING"
 msgstr "ВИМІРЮВАННЯ"
 
@@ -2863,13 +2863,13 @@ msgstr "%d,%03d"
 #: pebble/apps/watch/kickstart/kickstart.c:481
 #: pebble/services/activity/health_util.c:93
 #: pebble/services/activity/health_util.c:110
-#: pebble/services/clock/service.c:1007
+#: pebble/services/clock/service.c:1008
 #, c-format
 msgid "%d"
 msgstr "%d"
 
 #: pebble/apps/watch/tictoc/bw/tictoc_bw.c:77
-#: pebble/services/clock/service.c:884 pebble/services/clock/service.c:892
+#: pebble/services/clock/service.c:885 pebble/services/clock/service.c:893
 msgid "%B %e"
 msgstr "%e %B"
 
@@ -2913,56 +2913,56 @@ msgstr ""
 "Для роботи потрібна функція Pebble Health. Ввімкніть її у мобільному "
 "застосунку."
 
-#: pebble/popups/mic_banner.c:116
+#: pebble/popups/mic_banner.c:117
 msgid "Listening..."
 msgstr "Слухаю..."
 
-#: pebble/popups/notifications/notification_window.c:727
+#: pebble/popups/notifications/notification_window.c:728
 msgid "Snoozed"
 msgstr "Відкладено"
 
-#: pebble/popups/notifications/notification_window.c:760
+#: pebble/popups/notifications/notification_window.c:761
 msgid "Muted"
 msgstr "Приглушено"
 
-#: pebble/popups/notifications/notification_window.c:930
+#: pebble/popups/notifications/notification_window.c:931
 msgid "Snooze"
 msgstr "Відкласти"
 
-#: pebble/popups/notifications/notification_window.c:948
+#: pebble/popups/notifications/notification_window.c:949
 #, c-format
 msgid "Mute %s"
 msgstr "Приглушити %s"
 
-#: pebble/popups/notifications/notification_window.c:966
+#: pebble/popups/notifications/notification_window.c:967
 msgid "Mute 1 Hour"
 msgstr "Приглушити на 1 годину"
 
-#: pebble/popups/notifications/notification_window.c:969
+#: pebble/popups/notifications/notification_window.c:970
 msgid "Mute Today"
 msgstr "Приглушити на сьогодні"
 
-#: pebble/popups/notifications/notification_window.c:972
+#: pebble/popups/notifications/notification_window.c:973
 msgid "Mute Always"
 msgstr "Приглушити назавжди"
 
-#: pebble/popups/notifications/notification_window.c:975
+#: pebble/popups/notifications/notification_window.c:976
 msgid "Mute Weekends"
 msgstr "Приглушити у вихідні дні"
 
-#: pebble/popups/notifications/notification_window.c:978
+#: pebble/popups/notifications/notification_window.c:979
 msgid "Mute Weekdays"
 msgstr "Приглушити у будні дні"
 
-#: pebble/popups/notifications/notification_window.c:986
+#: pebble/popups/notifications/notification_window.c:987
 msgid "Dismiss All"
 msgstr "Відхилити все"
 
-#: pebble/popups/notifications/notification_window.c:992
+#: pebble/popups/notifications/notification_window.c:993
 msgid "End Quiet Time"
 msgstr "Завершити Режим тиші"
 
-#: pebble/popups/notifications/notification_window.c:993
+#: pebble/popups/notifications/notification_window.c:994
 msgid "Start Quiet Time"
 msgstr "Розпочати Режим тиші"
 
@@ -3768,7 +3768,7 @@ msgstr "Дзвоник"
 msgid "Chime"
 msgstr "Передзвін"
 
-#: pebble/services/clock/service.c:553 pebble/services/clock/service.c:855
+#: pebble/services/clock/service.c:553 pebble/services/clock/service.c:856
 msgid "%R"
 msgstr "%R"
 
@@ -3787,7 +3787,7 @@ msgid "All day"
 msgstr "Цілий день"
 
 #: pebble/services/clock/service.c:594 pebble/services/clock/service.c:606
-#: pebble/services/clock/service.c:961
+#: pebble/services/clock/service.c:962
 msgid "Now"
 msgstr "Зараз"
 
@@ -3795,167 +3795,167 @@ msgstr "Зараз"
 msgid " MIN. TO"
 msgstr " ХВ. ДО"
 
-#: pebble/services/clock/service.c:783 pebble/services/clock/service.c:865
-#: pebble/services/clock/service.c:873
+#: pebble/services/clock/service.c:784 pebble/services/clock/service.c:866
+#: pebble/services/clock/service.c:874
 msgid "Yesterday"
 msgstr "Вчора"
 
-#: pebble/services/clock/service.c:788 pebble/services/clock/service.c:903
-#: pebble/services/clock/service.c:911
+#: pebble/services/clock/service.c:789 pebble/services/clock/service.c:904
+#: pebble/services/clock/service.c:912
 #, c-format
 msgid "%A"
 msgstr "%A"
 
-#: pebble/services/clock/service.c:791
+#: pebble/services/clock/service.c:792
 msgid "%B %d"
 msgstr "%d %B"
 
-#: pebble/services/clock/service.c:851
+#: pebble/services/clock/service.c:852
 msgid "%l:%M %p"
 msgstr "%l:%M %p"
 
-#: pebble/services/clock/service.c:863
+#: pebble/services/clock/service.c:864
 msgid "Yesterday, %l:%M %p"
 msgstr "Вчора, %l:%M %p"
 
-#: pebble/services/clock/service.c:871
+#: pebble/services/clock/service.c:872
 msgid "Yesterday, %R"
 msgstr "Вчора, %R"
 
-#: pebble/services/clock/service.c:882
+#: pebble/services/clock/service.c:883
 msgid "%b %e, %l:%M %p"
 msgstr "%e %b, %l:%M %p"
 
-#: pebble/services/clock/service.c:890
+#: pebble/services/clock/service.c:891
 msgid "%b %e, %R"
 msgstr "%e %b, %R"
 
-#: pebble/services/clock/service.c:901
+#: pebble/services/clock/service.c:902
 msgid "%a, %l:%M %p"
 msgstr "%a, %l:%M %p"
 
-#: pebble/services/clock/service.c:909
+#: pebble/services/clock/service.c:910
 msgid "%a, %R"
 msgstr "%a, %R"
 
-#: pebble/services/clock/service.c:938
+#: pebble/services/clock/service.c:939
 #, c-format
 msgid "%lu H AGO"
 msgstr "%lu ГОД ТОМУ"
 
-#: pebble/services/clock/service.c:940
+#: pebble/services/clock/service.c:941
 msgid "An hour ago"
 msgstr "Годину тому"
 
-#: pebble/services/clock/service.c:942
+#: pebble/services/clock/service.c:943
 #, c-format
 msgid "%lu hours ago"
 msgstr "%lu годин тому"
 
-#: pebble/services/clock/service.c:952
+#: pebble/services/clock/service.c:953
 #, c-format
 msgid "%lu MIN AGO"
 msgstr "%lu ХВ ТОМУ"
 
-#: pebble/services/clock/service.c:954
+#: pebble/services/clock/service.c:955
 #, c-format
 msgid "%lu minute ago"
 msgstr "%lu хв тому"
 
-#: pebble/services/clock/service.c:956
+#: pebble/services/clock/service.c:957
 #, c-format
 msgid "%lu minutes ago"
 msgstr "%lu хв тому"
 
-#: pebble/services/clock/service.c:961
+#: pebble/services/clock/service.c:962
 msgid "NOW"
 msgstr "ЗАРАЗ"
 
-#: pebble/services/clock/service.c:970
+#: pebble/services/clock/service.c:971
 #, c-format
 msgid "IN %lu MIN"
 msgstr "ЗА %lu ХВ"
 
-#: pebble/services/clock/service.c:972
+#: pebble/services/clock/service.c:973
 #, c-format
 msgid "In %lu minute"
 msgstr "За %lu хвилину"
 
-#: pebble/services/clock/service.c:974
+#: pebble/services/clock/service.c:975
 #, c-format
 msgid "In %lu minutes"
 msgstr "За %lu хвилин"
 
-#: pebble/services/clock/service.c:984
+#: pebble/services/clock/service.c:985
 #, c-format
 msgid "IN %lu H"
 msgstr "ЗА %lu ГОД"
 
-#: pebble/services/clock/service.c:986
+#: pebble/services/clock/service.c:987
 #, c-format
 msgid "In %lu hour"
 msgstr "За %lu годину"
 
-#: pebble/services/clock/service.c:988
+#: pebble/services/clock/service.c:989
 #, c-format
 msgid "In %lu hours"
 msgstr "За %lu годин"
 
-#: pebble/services/clock/service.c:999 pebble/services/clock/service.c:1003
+#: pebble/services/clock/service.c:1000 pebble/services/clock/service.c:1004
 #, c-format
 msgid "%m/%d"
 msgstr "%d/%m"
 
-#: pebble/services/clock/service.c:1012
+#: pebble/services/clock/service.c:1013
 msgid "%b "
 msgstr "%b "
 
-#: pebble/services/clock/service.c:1012
+#: pebble/services/clock/service.c:1013
 msgid "%B "
 msgstr "%B "
 
-#: pebble/services/clock/service.c:1016
+#: pebble/services/clock/service.c:1017
 #, c-format
 msgid "%e"
 msgstr "%e"
 
-#: pebble/services/clock/service.c:1067
+#: pebble/services/clock/service.c:1068
 msgid "this morning"
 msgstr "сьогодні вранці"
 
-#: pebble/services/clock/service.c:1068
+#: pebble/services/clock/service.c:1069
 msgid "this afternoon"
 msgstr "сьогодні вдень"
 
-#: pebble/services/clock/service.c:1069
+#: pebble/services/clock/service.c:1070
 msgid "this evening"
 msgstr "сьогодні ввечері"
 
-#: pebble/services/clock/service.c:1070
+#: pebble/services/clock/service.c:1071
 msgid "tonight"
 msgstr "сьогодні вночі"
 
-#: pebble/services/clock/service.c:1071
+#: pebble/services/clock/service.c:1072
 msgid "tomorrow morning"
 msgstr "завтра вранці"
 
-#: pebble/services/clock/service.c:1072
+#: pebble/services/clock/service.c:1073
 msgid "tomorrow afternoon"
 msgstr "завтра вдень"
 
-#: pebble/services/clock/service.c:1073
+#: pebble/services/clock/service.c:1074
 msgid "tomorrow evening"
 msgstr "завтра ввечері"
 
-#: pebble/services/clock/service.c:1074
+#: pebble/services/clock/service.c:1075
 msgid "tomorrow night"
 msgstr "завтра вночі"
 
-#: pebble/services/clock/service.c:1075 pebble/services/clock/service.c:1076
+#: pebble/services/clock/service.c:1076 pebble/services/clock/service.c:1077
 msgid "the day after tomorrow"
 msgstr "післязавтра"
 
-#: pebble/services/clock/service.c:1077
+#: pebble/services/clock/service.c:1078
 msgid "the foreseeable future"
 msgstr "у найближчому майбутньому"
 
