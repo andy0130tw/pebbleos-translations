@@ -3007,7 +3007,11 @@ msgstr "%.*s ne répond pas"
 msgid "This app requires a newer version of the Pebble firmware."
 msgstr "Micrologiciel Pebble plus récent requis pour cette application."
 
-#: pebble/process_management/process_manager.c:357
+#: pebble/process_management/process_manager.c:336
+msgid "This app needs hardware this watch does not have."
+msgstr ""
+
+#: pebble/process_management/process_manager.c:382
 msgid "This app uses RockyJS which is no longer supported."
 msgstr "Cette application utilise RockyJS qui n’est plus pris en charge."
 
