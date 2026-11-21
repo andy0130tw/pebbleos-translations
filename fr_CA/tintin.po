@@ -2971,19 +2971,19 @@ msgstr "Désactiver Tranquillité"
 msgid "Start Quiet Time"
 msgstr "Activer Tranquillité"
 
-#: pebble/popups/phone_ui.c:586
+#: pebble/popups/phone_ui.c:583
 msgid "Call Accepted"
 msgstr "Appel accepté"
 
-#: pebble/popups/phone_ui.c:589
+#: pebble/popups/phone_ui.c:586
 msgid "Disconnected"
 msgstr "Déconnecté"
 
-#: pebble/popups/phone_ui.c:592
+#: pebble/popups/phone_ui.c:589
 msgid "Call Ended"
 msgstr "Appel terminé"
 
-#: pebble/popups/phone_ui.c:595
+#: pebble/popups/phone_ui.c:592
 msgid "Call Declined"
 msgstr "Appel rejeté"
 

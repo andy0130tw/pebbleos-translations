@@ -2967,19 +2967,19 @@ msgstr "集中モードを終了"
 msgid "Start Quiet Time"
 msgstr "集中モードを開始"
 
-#: pebble/popups/phone_ui.c:586
+#: pebble/popups/phone_ui.c:583
 msgid "Call Accepted"
 msgstr "着信に応答しました"
 
-#: pebble/popups/phone_ui.c:589
+#: pebble/popups/phone_ui.c:586
 msgid "Disconnected"
 msgstr "接続が切れました"
 
-#: pebble/popups/phone_ui.c:592
+#: pebble/popups/phone_ui.c:589
 msgid "Call Ended"
 msgstr "通話が終了しました"
 
-#: pebble/popups/phone_ui.c:595
+#: pebble/popups/phone_ui.c:592
 msgid "Call Declined"
 msgstr "着信を拒否しました"
 

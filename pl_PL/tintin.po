@@ -3024,19 +3024,19 @@ msgstr "Zakończ wyciszenie"
 msgid "Start Quiet Time"
 msgstr "Rozpocznij wyciszenie"
 
-#: pebble/popups/phone_ui.c:586
+#: pebble/popups/phone_ui.c:583
 msgid "Call Accepted"
 msgstr "Połączenie odebrane"
 
-#: pebble/popups/phone_ui.c:589
+#: pebble/popups/phone_ui.c:586
 msgid "Disconnected"
 msgstr "Rozłączono"
 
-#: pebble/popups/phone_ui.c:592
+#: pebble/popups/phone_ui.c:589
 msgid "Call Ended"
 msgstr "Połączenie zakończone"
 
-#: pebble/popups/phone_ui.c:595
+#: pebble/popups/phone_ui.c:592
 msgid "Call Declined"
 msgstr "Połączenie odrzucone"
 
