@@ -3957,11 +3957,11 @@ msgstr "添付ファイルを送信しました"
 msgid "Call Back"
 msgstr "折り返し電話"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:447
+#: pebble/services/notifications/ancs/ancs_notifications.c:439
 msgid "iPhone Notifications Blocked"
 msgstr "iPhoneからの通知がブロックされています"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:450
+#: pebble/services/notifications/ancs/ancs_notifications.c:442
 msgid ""
 "Your iPhone is not sharing notifications with this watch. On your iPhone, "
 "open Settings > Bluetooth, tap the (i) next to your Pebble and turn on Share "

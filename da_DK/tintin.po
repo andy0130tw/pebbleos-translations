@@ -3979,11 +3979,11 @@ msgstr "sendte en fil"
 msgid "Call Back"
 msgstr "Ring tilbage"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:447
+#: pebble/services/notifications/ancs/ancs_notifications.c:439
 msgid "iPhone Notifications Blocked"
 msgstr "iPhone-meddelelser er blokeret"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:450
+#: pebble/services/notifications/ancs/ancs_notifications.c:442
 msgid ""
 "Your iPhone is not sharing notifications with this watch. On your iPhone, "
 "open Settings > Bluetooth, tap the (i) next to your Pebble and turn on Share "

@@ -4039,13 +4039,13 @@ msgstr "enviou um anexo"
 msgid "Call Back"
 msgstr "Ligar"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:447
+#: pebble/services/notifications/ancs/ancs_notifications.c:439
 #, fuzzy
 #| msgid "Notifications On"
 msgid "iPhone Notifications Blocked"
 msgstr "Notificações ON"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:450
+#: pebble/services/notifications/ancs/ancs_notifications.c:442
 msgid ""
 "Your iPhone is not sharing notifications with this watch. On your iPhone, "
 "open Settings > Bluetooth, tap the (i) next to your Pebble and turn on Share "

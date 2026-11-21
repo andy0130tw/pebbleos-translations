@@ -3966,13 +3966,13 @@ msgstr "发送了附件"
 msgid "Call Back"
 msgstr "回拨"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:447
+#: pebble/services/notifications/ancs/ancs_notifications.c:439
 #, fuzzy
 #| msgid "No notifications"
 msgid "iPhone Notifications Blocked"
 msgstr "暂无通知"
 
-#: pebble/services/notifications/ancs/ancs_notifications.c:450
+#: pebble/services/notifications/ancs/ancs_notifications.c:442
 msgid ""
 "Your iPhone is not sharing notifications with this watch. On your iPhone, "
 "open Settings > Bluetooth, tap the (i) next to your Pebble and turn on Share "
