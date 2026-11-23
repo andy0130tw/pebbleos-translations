@@ -843,13 +843,13 @@ msgstr "Puls i dag"
 msgid "TIME IN ZONES"
 msgstr "TID I ZONER"
 
-#: pebble/apps/system/health/hr_summary_card.c:135
+#: pebble/apps/system/health/hr_summary_card.c:137
 #: pebble/apps/system/workout/active.c:1115
 msgid "BPM"
 msgstr "Slag/min"
 
 #. / HRM disabled
-#: pebble/apps/system/health/hr_summary_card.c:180
+#: pebble/apps/system/health/hr_summary_card.c:182
 msgid "Enable heart rate monitoring in the mobile app"
 msgstr "Slå pulsovervågning til i mobilappen"
 

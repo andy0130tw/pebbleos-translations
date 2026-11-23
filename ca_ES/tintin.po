@@ -839,13 +839,13 @@ msgstr "RANG D'AVUI"
 msgid "TIME IN ZONES"
 msgstr "TEMPS EN ZONES"
 
-#: pebble/apps/system/health/hr_summary_card.c:135
+#: pebble/apps/system/health/hr_summary_card.c:137
 #: pebble/apps/system/workout/active.c:1115
 msgid "BPM"
 msgstr "BPM"
 
 #. / HRM disabled
-#: pebble/apps/system/health/hr_summary_card.c:180
+#: pebble/apps/system/health/hr_summary_card.c:182
 msgid "Enable heart rate monitoring in the mobile app"
 msgstr "Activa el monitoratge de freqüència cardíaca a l'app mòbil"
 

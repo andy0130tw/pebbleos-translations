@@ -837,13 +837,13 @@ msgstr "Valori di oggi"
 msgid "TIME IN ZONES"
 msgstr "ORA NEI FUSI"
 
-#: pebble/apps/system/health/hr_summary_card.c:135
+#: pebble/apps/system/health/hr_summary_card.c:137
 #: pebble/apps/system/workout/active.c:1115
 msgid "BPM"
 msgstr "BPM"
 
 #. / HRM disabled
-#: pebble/apps/system/health/hr_summary_card.c:180
+#: pebble/apps/system/health/hr_summary_card.c:182
 msgid "Enable heart rate monitoring in the mobile app"
 msgstr "Attiva monitoraggio FC nell'app mobile"
 

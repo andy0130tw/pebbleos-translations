@@ -841,13 +841,13 @@ msgstr "RANGO DE HOY"
 msgid "TIME IN ZONES"
 msgstr "TIEMPO EN ZONAS"
 
-#: pebble/apps/system/health/hr_summary_card.c:135
+#: pebble/apps/system/health/hr_summary_card.c:137
 #: pebble/apps/system/workout/active.c:1115
 msgid "BPM"
 msgstr "LAT/MIN"
 
 #. / HRM disabled
-#: pebble/apps/system/health/hr_summary_card.c:180
+#: pebble/apps/system/health/hr_summary_card.c:182
 msgid "Enable heart rate monitoring in the mobile app"
 msgstr "Activa la monitorización de ritmo cardiaco en la app móvil"
 

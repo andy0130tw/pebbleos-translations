@@ -844,13 +844,13 @@ msgstr "ЧСС СЕГОДНЯ"
 msgid "TIME IN ZONES"
 msgstr "ВРЕМЯ В ЗОНАХ ЧСС"
 
-#: pebble/apps/system/health/hr_summary_card.c:135
+#: pebble/apps/system/health/hr_summary_card.c:137
 #: pebble/apps/system/workout/active.c:1115
 msgid "BPM"
 msgstr "уд/мин"
 
 #. / HRM disabled
-#: pebble/apps/system/health/hr_summary_card.c:180
+#: pebble/apps/system/health/hr_summary_card.c:182
 msgid "Enable heart rate monitoring in the mobile app"
 msgstr "Включите мониторинг пульса в приложении"
 

@@ -844,13 +844,13 @@ msgstr "今日の心拍数"
 msgid "TIME IN ZONES"
 msgstr "ゾーンの合計時間"
 
-#: pebble/apps/system/health/hr_summary_card.c:135
+#: pebble/apps/system/health/hr_summary_card.c:137
 #: pebble/apps/system/workout/active.c:1115
 msgid "BPM"
 msgstr "BPM"
 
 #. / HRM disabled
-#: pebble/apps/system/health/hr_summary_card.c:180
+#: pebble/apps/system/health/hr_summary_card.c:182
 msgid "Enable heart rate monitoring in the mobile app"
 msgstr "Pebbleアプリで心拍数の測定をオンにしてください"
 
