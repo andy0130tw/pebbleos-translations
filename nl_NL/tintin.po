@@ -3073,7 +3073,7 @@ msgstr "Run %s instead of %s as the background app?"
 msgid "While your Pebble was off wakeup events occurred for:\n"
 msgstr "While your Pebble was off wakeup events occurred for:\n"
 
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*s is not responding"

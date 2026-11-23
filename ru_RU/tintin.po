@@ -2987,7 +2987,7 @@ msgstr "Запустить %s вместо %s в качестве приложе
 msgid "While your Pebble was off wakeup events occurred for:\n"
 msgstr "Пока ваши часы были выключены, события пробуждения случились для:\n"
 
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*s не отвечает"

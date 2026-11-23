@@ -3054,7 +3054,7 @@ msgstr "将 %s 作为后台应用运行而非 %s？"
 msgid "While your Pebble was off wakeup events occurred for:\n"
 msgstr "您的 Pebble 在关机期间发生了以下唤醒事件：\n"
 
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*s 无响应"

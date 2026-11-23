@@ -2976,7 +2976,7 @@ msgstr "Eseguire %s invece di %s in background?"
 msgid "While your Pebble was off wakeup events occurred for:\n"
 msgstr "Eventi di attivazione durante lo spegnimento:\n"
 
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*s non risponde"

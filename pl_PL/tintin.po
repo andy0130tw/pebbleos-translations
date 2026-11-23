@@ -3049,7 +3049,7 @@ msgstr "Uruchomić %s zamiast %s jako aplikację w tle?"
 msgid "While your Pebble was off wakeup events occurred for:\n"
 msgstr "Gdy Pebble był wyłączony, wystąpiły zdarzenia dla:\n"
 
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*s nie reaguje"

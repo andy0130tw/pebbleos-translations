@@ -2992,7 +2992,7 @@ msgstr "バックグラウンドアプリを%sに切り替えますか？（現�
 msgid "While your Pebble was off wakeup events occurred for:\n"
 msgstr "Pebbleの電源がオフの間に、次のアプリで起動イベントが発生しました：\n"
 
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*sが応答していません"

@@ -2996,7 +2996,7 @@ msgstr ""
 "Mentre el Pebble estava apagat hi ha hagut esdeveniments de despertador per "
 "a:\n"
 
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*s no respon"

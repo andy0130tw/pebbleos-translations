@@ -2989,7 +2989,7 @@ msgstr "Mens din Pebble var slukket, gik du glip af påmindelser fra:\n"
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*s svarer ikke"

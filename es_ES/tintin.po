@@ -2989,7 +2989,7 @@ msgstr ""
 "Mientras que tu Pebble estaba apagado ocurrieron eventos para las siguientes "
 "apps:\n"
 
-#: pebble/process_management/app_manager.c:534
+#: pebble/process_management/app_manager.c:536
 #, c-format
 msgid "%.*s is not responding"
 msgstr "%.*s no responde"
