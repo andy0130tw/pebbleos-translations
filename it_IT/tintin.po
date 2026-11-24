@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 25.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-07 18:50+0200\n"
-"PO-Revision-Date: 2026-11-24 17:17+0000\n"
+"PO-Revision-Date: 2026-11-24 17:31+0000\n"
 "Last-Translator: \"miky.deirossi\" <miky.deirossi@gmail.com>\n"
 "Language-Team: Italian <https://translate.repebble.com/projects/pebbleos/"
 "watch/it/>\n"
@@ -2336,178 +2336,120 @@ msgid "Weather"
 msgstr "Meteo"
 
 #: pebble/apps/system/weather/weather_app_layout.c:432
-#, fuzzy
-#| msgid "Snow likely"
 msgid "Snow likely."
-msgstr "Probabilità neve"
+msgstr "Probabilità di neve."
 
 #: pebble/apps/system/weather/weather_app_layout.c:434
-#, fuzzy
-#| msgid "Sleet likely"
 msgid "Sleet likely."
-msgstr "Probabilità nevischio"
+msgstr "Probabilità di nevischio."
 
 #: pebble/apps/system/weather/weather_app_layout.c:436
-#, fuzzy
-#| msgid "Rain likely"
 msgid "Rain likely."
-msgstr "Probabilità pioggia"
+msgstr "Probabilità di pioggia."
 
 #: pebble/apps/system/weather/weather_app_layout.c:444
-#, fuzzy
-#| msgid "Chance of snow"
 msgid "Chance of snow."
-msgstr "Possibile neve"
+msgstr "Probabilità di neve."
 
 #: pebble/apps/system/weather/weather_app_layout.c:446
-#, fuzzy
-#| msgid "Chance of sleet"
 msgid "Chance of sleet."
-msgstr "Possibile nevischio"
+msgstr "Probabilità di nevischio."
 
 #: pebble/apps/system/weather/weather_app_layout.c:448
-#, fuzzy
-#| msgid "Chance of rain"
 msgid "Chance of rain."
-msgstr "Possibile pioggia"
+msgstr "Probabilità di pioggia."
 
 #: pebble/apps/system/weather/weather_app_layout.c:491
-#, fuzzy
-#| msgid "Hail"
 msgid "Hail."
-msgstr "Grandine"
+msgstr "Grandine."
 
 #: pebble/apps/system/weather/weather_app_layout.c:493
-#, fuzzy
-#| msgid "Chance of storms"
 msgid "Chance of storms."
-msgstr "Possibili temporali"
+msgstr "Possibili temporali."
 
 #: pebble/apps/system/weather/weather_app_layout.c:495
-#, fuzzy
-#| msgid "Heavy snow"
 msgid "Heavy snow."
-msgstr "Neve intensa"
+msgstr "Neve intensa."
 
 #: pebble/apps/system/weather/weather_app_layout.c:497
-#, fuzzy
-#| msgid "Heavy rain"
 msgid "Heavy rain."
-msgstr "Pioggia intensa"
+msgstr "Pioggia intensa."
 
 #: pebble/apps/system/weather/weather_app_layout.c:499
-#, fuzzy
-#| msgid "Wintry mix"
 msgid "Wintry mix."
-msgstr "Misto invernale"
+msgstr "Precipitazioni miste."
 
 #: pebble/apps/system/weather/weather_app_layout.c:501
-#, fuzzy
-#| msgid "Flood risk"
 msgid "Flood risk."
-msgstr "Rischio alluvioni"
+msgstr "Rischio alluvione."
 
 #: pebble/apps/system/weather/weather_app_layout.c:503
-#, fuzzy
-#| msgid "Strong winds"
 msgid "Strong winds."
-msgstr "Venti forti"
+msgstr "Venti forti."
 
 #: pebble/apps/system/weather/weather_app_layout.c:506
-#, fuzzy
-#| msgid "Below freezing"
 msgid "Below freezing."
-msgstr "Sotto zero"
+msgstr "Sotto zero."
 
 #: pebble/apps/system/weather/weather_app_layout.c:508
-#, fuzzy
-#| msgid "Hard frost"
 msgid "Hard frost."
-msgstr "Gelo intenso"
+msgstr "Gelo intenso."
 
 #: pebble/apps/system/weather/weather_app_layout.c:511
-#, fuzzy
-#| msgid "Feels below freezing"
 msgid "Feels freezing."
-msgstr "Percepita sotto zero"
+msgstr "Percepita gelo."
 
 #: pebble/apps/system/weather/weather_app_layout.c:511
-#, fuzzy
-#| msgid "Feels below freezing"
 msgid "Feels below freezing."
-msgstr "Percepita sotto zero"
+msgstr "Percepita sotto zero."
 
 #: pebble/apps/system/weather/weather_app_layout.c:513
-#, fuzzy
-#| msgid "Heatwave"
 msgid "Heatwave."
-msgstr "Ondata di calore"
+msgstr "Ondata di calore."
 
 #: pebble/apps/system/weather/weather_app_layout.c:515
-#, fuzzy
-#| msgid "Very high UV"
 msgid "Very high UV."
-msgstr "UV molto alto"
+msgstr "UV molto alto."
 
 #: pebble/apps/system/weather/weather_app_layout.c:517
-#, fuzzy
-#| msgid "High UV"
 msgid "High UV."
-msgstr "UV alto"
+msgstr "UV alto."
 
 #: pebble/apps/system/weather/weather_app_layout.c:520
-#, fuzzy
-#| msgid "Poor visibility"
 msgid "Poor visibility."
-msgstr "Scarsa visibilità"
+msgstr "Scarsa visibilità."
 
 #: pebble/apps/system/weather/weather_app_layout.c:522
-#, fuzzy
-#| msgid "High humidity"
 msgid "High humidity."
-msgstr "Umidità alta"
+msgstr "Umidità alta."
 
 #: pebble/apps/system/weather/weather_app_layout.c:528
-#, fuzzy
-#| msgid "Windy"
 msgid "Windy."
-msgstr "Ventoso"
+msgstr "Ventoso."
 
 #: pebble/apps/system/weather/weather_app_layout.c:537
-#, fuzzy
-#| msgid "Clear skies"
 msgid "Clear skies."
-msgstr "Cielo sereno"
+msgstr "Cielo sereno."
 
 #: pebble/apps/system/weather/weather_app_layout.c:539
-#, fuzzy
-#| msgid "Light winds"
 msgid "Light winds."
-msgstr "Venti deboli"
+msgstr "Venti deboli."
 
 #: pebble/apps/system/weather/weather_app_layout.c:542
-#, fuzzy
-#| msgid "Calm breeze"
 msgid "Calm breeze."
-msgstr "Brezza leggera"
+msgstr "Brezza leggera."
 
 #: pebble/apps/system/weather/weather_app_layout.c:545
-#, fuzzy
-#| msgid "Fair conditions"
 msgid "Fair conditions."
-msgstr "Bel tempo"
+msgstr "Bel tempo."
 
 #: pebble/apps/system/weather/weather_app_layout.c:547
-#, fuzzy
-#| msgid "Mild conditions"
 msgid "Mild conditions."
-msgstr "Tempo mite"
+msgstr "Tempo mite."
 
 #: pebble/apps/system/weather/weather_app_layout.c:549
-#, fuzzy
-#| msgid "All clear"
 msgid "All clear."
-msgstr "Tempo stabile"
+msgstr "Cielo sereno."
 
 #: pebble/apps/system/weather/weather_app_layout.c:559
 msgid "N"
@@ -2559,15 +2501,13 @@ msgstr "km/h"
 
 #. / Wind after a warning about wind: direction, speed, unit ("Light winds. SW 12mph.")
 #: pebble/apps/system/weather/weather_app_layout.c:605
-#, fuzzy, c-format
-#| msgid "%s at %d%s."
+#, c-format
 msgid "%s %d%s."
-msgstr "%s a %d%s."
+msgstr "Vento %s %d%s."
 
 #. / Wind: direction, speed, unit ("Winds SW 12mph.")
 #: pebble/apps/system/weather/weather_app_layout.c:608
-#, fuzzy, c-format
-#| msgid "Winds %s at %d%s."
+#, c-format
 msgid "Winds %s %d%s."
 msgstr "Vento %s a %d%s."
 
