@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-11-20 16:55+0000\n"
+"PO-Revision-Date: 2026-11-24 05:26+0000\n"
 "Last-Translator: dx3756 <dx3756@gmail.com>\n"
 "Language-Team: Russian <https://translate.repebble.com/projects/pebbleos/"
 "watch/ru/>\n"
@@ -2171,38 +2171,35 @@ msgid "Watchfaces"
 msgstr "Циферблаты"
 
 #: pebble/apps/system/weather/expanded_view.c:153
-#, fuzzy
-#| msgid "Sunset --:--"
 msgid "Sunset at --:--"
-msgstr "Закат --:--"
+msgstr "Закат в --:--"
 
 #: pebble/apps/system/weather/expanded_view.c:156
-#, fuzzy, c-format
-#| msgid "Sunset %s"
+#, c-format
 msgid "Sunset at %s"
-msgstr "Закат %s"
+msgstr "Закат в %s"
 
 #. / When the evening golden hour starts, unknown
 #: pebble/apps/system/weather/expanded_view.c:164
 msgid "Golden hour: --:--"
-msgstr ""
+msgstr "Золотой час: --:--"
 
 #. / When the evening golden hour starts ("Golden hour: 5:41 PM")
 #: pebble/apps/system/weather/expanded_view.c:168
 #, c-format
 msgid "Golden hour: %s"
-msgstr ""
+msgstr "Золотой час: %s"
 
 #. / The feels-like temperature when it is unknown
 #: pebble/apps/system/weather/expanded_view.c:185
 msgid "Feels like --"
-msgstr ""
+msgstr "Ощущается как --"
 
 #. / The feels-like temperature, a label of its own: no full stop
 #: pebble/apps/system/weather/expanded_view.c:190
 #, c-format
 msgid "Feels like %d°"
-msgstr ""
+msgstr "Ощущается как %d°"
 
 #: pebble/apps/system/weather/expanded_view.c:218
 msgid "Last updated --:--"
@@ -2215,24 +2212,19 @@ msgstr "Последн. обн. %s"
 
 #. / Label of the sunset's time, in a narrow row with the time: keep it short
 #: pebble/apps/system/weather/expanded_view.c:232
-#, fuzzy
-#| msgid "Sunset"
 msgctxt "SunsetCard"
 msgid "Sunset"
 msgstr "Закат"
 
 #. / Label of the time the evening golden hour starts
 #: pebble/apps/system/weather/expanded_view.c:236
-#, fuzzy
-#| msgctxt "TmplStringSing"
-#| msgid " hour"
 msgid "Golden hour"
-msgstr " час"
+msgstr "Золотой час"
 
 #. / "Golden hour" abbreviated, for where the full label does not fit
 #: pebble/apps/system/weather/expanded_view.c:238
 msgid "Golden hr"
-msgstr ""
+msgstr "Золотой ч"
 
 #: pebble/apps/system/weather/expanded_view.c:872
 #: pebble/apps/system/weather/globe_view.c:3730
@@ -2348,178 +2340,120 @@ msgid "Weather"
 msgstr "Погода"
 
 #: pebble/apps/system/weather/weather_app_layout.c:432
-#, fuzzy
-#| msgid "Snow likely"
 msgid "Snow likely."
-msgstr "Возможно снег"
+msgstr "Возможно снег."
 
 #: pebble/apps/system/weather/weather_app_layout.c:434
-#, fuzzy
-#| msgid "Sleet likely"
 msgid "Sleet likely."
-msgstr "Возможно слякоть"
+msgstr "Возможно слякоть."
 
 #: pebble/apps/system/weather/weather_app_layout.c:436
-#, fuzzy
-#| msgid "Rain likely"
 msgid "Rain likely."
-msgstr "Возможно дождь"
+msgstr "Возможно дождь."
 
 #: pebble/apps/system/weather/weather_app_layout.c:444
-#, fuzzy
-#| msgid "Chance of snow"
 msgid "Chance of snow."
-msgstr "Вероятность снега"
+msgstr "Вероятность снега."
 
 #: pebble/apps/system/weather/weather_app_layout.c:446
-#, fuzzy
-#| msgid "Chance of sleet"
 msgid "Chance of sleet."
-msgstr "Вероятность слякоти"
+msgstr "Вероятность слякоти."
 
 #: pebble/apps/system/weather/weather_app_layout.c:448
-#, fuzzy
-#| msgid "Chance of rain"
 msgid "Chance of rain."
-msgstr "Вероятность дождя"
+msgstr "Вероятность дождя."
 
 #: pebble/apps/system/weather/weather_app_layout.c:491
-#, fuzzy
-#| msgid "Hail"
 msgid "Hail."
-msgstr "Град"
+msgstr "Град."
 
 #: pebble/apps/system/weather/weather_app_layout.c:493
-#, fuzzy
-#| msgid "Chance of storms"
 msgid "Chance of storms."
-msgstr "Вероятность шторма"
+msgstr "Вероятность шторма."
 
 #: pebble/apps/system/weather/weather_app_layout.c:495
-#, fuzzy
-#| msgid "Heavy snow"
 msgid "Heavy snow."
-msgstr "Снегопад"
+msgstr "Снегопад."
 
 #: pebble/apps/system/weather/weather_app_layout.c:497
-#, fuzzy
-#| msgid "Heavy rain"
 msgid "Heavy rain."
-msgstr "Ливень"
+msgstr "Ливень."
 
 #: pebble/apps/system/weather/weather_app_layout.c:499
-#, fuzzy
-#| msgid "Wintry mix"
 msgid "Wintry mix."
-msgstr "Метель"
+msgstr "Метель."
 
 #: pebble/apps/system/weather/weather_app_layout.c:501
-#, fuzzy
-#| msgid "Flood risk"
 msgid "Flood risk."
-msgstr "Риск наводнений"
+msgstr "Риск наводнений."
 
 #: pebble/apps/system/weather/weather_app_layout.c:503
-#, fuzzy
-#| msgid "Strong winds"
 msgid "Strong winds."
-msgstr "Сильный ветер"
+msgstr "Сильный ветер."
 
 #: pebble/apps/system/weather/weather_app_layout.c:506
-#, fuzzy
-#| msgid "Below freezing"
 msgid "Below freezing."
-msgstr "Ниже нуля"
+msgstr "Ниже нуля."
 
 #: pebble/apps/system/weather/weather_app_layout.c:508
-#, fuzzy
-#| msgid "Hard frost"
 msgid "Hard frost."
-msgstr "Мороз"
+msgstr "Мороз."
 
 #: pebble/apps/system/weather/weather_app_layout.c:511
-#, fuzzy
-#| msgid "Feels below freezing"
 msgid "Feels freezing."
-msgstr "Как ниже нуля"
+msgstr "Ощущается как мороз."
 
 #: pebble/apps/system/weather/weather_app_layout.c:511
-#, fuzzy
-#| msgid "Feels below freezing"
 msgid "Feels below freezing."
-msgstr "Как ниже нуля"
+msgstr "Как ниже нуля."
 
 #: pebble/apps/system/weather/weather_app_layout.c:513
-#, fuzzy
-#| msgid "Heatwave"
 msgid "Heatwave."
-msgstr "Жара"
+msgstr "Жара."
 
 #: pebble/apps/system/weather/weather_app_layout.c:515
-#, fuzzy
-#| msgid "Very high UV"
 msgid "Very high UV."
-msgstr "Очень высокий УФ"
+msgstr "Очень высокий УФ."
 
 #: pebble/apps/system/weather/weather_app_layout.c:517
-#, fuzzy
-#| msgid "High UV"
 msgid "High UV."
-msgstr "Высокий УФ"
+msgstr "Высокий УФ."
 
 #: pebble/apps/system/weather/weather_app_layout.c:520
-#, fuzzy
-#| msgid "Poor visibility"
 msgid "Poor visibility."
-msgstr "Плохая видимость"
+msgstr "Плохая видимость."
 
 #: pebble/apps/system/weather/weather_app_layout.c:522
-#, fuzzy
-#| msgid "High humidity"
 msgid "High humidity."
-msgstr "Высокая влажность"
+msgstr "Высокая влажность."
 
 #: pebble/apps/system/weather/weather_app_layout.c:528
-#, fuzzy
-#| msgid "Windy"
 msgid "Windy."
-msgstr "Ветрено"
+msgstr "Ветрено."
 
 #: pebble/apps/system/weather/weather_app_layout.c:537
-#, fuzzy
-#| msgid "Clear skies"
 msgid "Clear skies."
-msgstr "Безоблачно"
+msgstr "Безоблачно."
 
 #: pebble/apps/system/weather/weather_app_layout.c:539
-#, fuzzy
-#| msgid "Light winds"
 msgid "Light winds."
-msgstr "Слабый ветер"
+msgstr "Слабый ветер."
 
 #: pebble/apps/system/weather/weather_app_layout.c:542
-#, fuzzy
-#| msgid "Calm breeze"
 msgid "Calm breeze."
-msgstr "Штиль"
+msgstr "Штиль."
 
 #: pebble/apps/system/weather/weather_app_layout.c:545
-#, fuzzy
-#| msgid "Fair conditions"
 msgid "Fair conditions."
-msgstr "Благоприятные условия"
+msgstr "Благоприятные условия."
 
 #: pebble/apps/system/weather/weather_app_layout.c:547
-#, fuzzy
-#| msgid "Mild conditions"
 msgid "Mild conditions."
-msgstr "Умеренные условия"
+msgstr "Умеренные условия."
 
 #: pebble/apps/system/weather/weather_app_layout.c:549
-#, fuzzy
-#| msgid "All clear"
 msgid "All clear."
-msgstr "Чисто"
+msgstr "Чисто."
 
 #: pebble/apps/system/weather/weather_app_layout.c:559
 msgid "N"
@@ -2571,45 +2505,39 @@ msgstr "км/ч"
 
 #. / Wind after a warning about wind: direction, speed, unit ("Light winds. SW 12mph.")
 #: pebble/apps/system/weather/weather_app_layout.c:605
-#, fuzzy, c-format
-#| msgid "%s at %d%s."
+#, c-format
 msgid "%s %d%s."
 msgstr "%s %d%s."
 
 #. / Wind: direction, speed, unit ("Winds SW 12mph.")
 #: pebble/apps/system/weather/weather_app_layout.c:608
-#, fuzzy, c-format
-#| msgid "Winds %s at %d%s."
+#, c-format
 msgid "Winds %s %d%s."
 msgstr "Ветер %s %d%s."
 
 #. / Wind after a warning about wind, no direction: speed, unit ("Light winds. 12mph.")
 #: pebble/apps/system/weather/weather_app_layout.c:615
-#, fuzzy, c-format
-#| msgid "At %d%s."
+#, c-format
 msgid "%d%s."
 msgstr "%d%s."
 
 #. / Wind, no direction: speed, unit ("Winds 12mph.")
 #: pebble/apps/system/weather/weather_app_layout.c:618
-#, fuzzy, c-format
-#| msgid "Winds at %d%s."
+#, c-format
 msgid "Winds %d%s."
 msgstr "Ветер %d%s."
 
 #. / Chance of precipitation, abbreviated. It ends the description, so no full stop.
 #: pebble/apps/system/weather/weather_app_layout.c:644
-#, fuzzy, c-format
-#| msgid "Precipitation %d%%."
+#, c-format
 msgid "Precip. %d%%"
-msgstr "Осадки %d%%."
+msgstr "Осадки %d%%"
 
 #. / Chance of precipitation. It ends the description, so no full stop.
 #: pebble/apps/system/weather/weather_app_layout.c:647
-#, fuzzy, c-format
-#| msgid "Precipitation %d%%."
+#, c-format
 msgid "Precipitation %d%%"
-msgstr "Осадки %d%%."
+msgstr "Осадки %d%%"
 
 #: pebble/apps/system/weather/weather_app_layout.c:706
 #, c-format
