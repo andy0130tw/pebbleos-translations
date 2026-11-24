@@ -718,7 +718,7 @@ msgid "Incompatible JS"
 msgstr "アプリのJSが非対応です"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:269
+#: pebble/services/timeline/timeline_actions.c:271
 msgid "Failed"
 msgstr "失敗しました"
 
@@ -1014,61 +1014,61 @@ msgstr "なし"
 msgid "Background App"
 msgstr "バックグラウンドアプリ"
 
-#: pebble/apps/system/settings/bluetooth.c:125
+#: pebble/apps/system/settings/bluetooth.c:123
 msgid "<Untitled>"
 msgstr "<名前なし>"
 
-#: pebble/apps/system/settings/bluetooth.c:172
+#: pebble/apps/system/settings/bluetooth.c:164
 msgid "Pairing Instructions"
 msgstr "接続の手順"
 
-#: pebble/apps/system/settings/bluetooth.c:176
+#: pebble/apps/system/settings/bluetooth.c:168
 #, c-format
 msgid "%u Paired Phones"
 msgstr "登録済み%u台"
 
-#: pebble/apps/system/settings/bluetooth.c:177
+#: pebble/apps/system/settings/bluetooth.c:169
 #, c-format
 msgid "%u Paired Phone"
 msgstr "登録済み%u台"
 
-#: pebble/apps/system/settings/bluetooth.c:290
+#: pebble/apps/system/settings/bluetooth.c:282
 msgid "Connected"
 msgstr "接続済み"
 
-#: pebble/apps/system/settings/bluetooth.c:317
+#: pebble/apps/system/settings/bluetooth.c:309
 msgid "Forget this device to pair a new device."
 msgstr "別の機器を登録するには、今の機器の登録を解除してください。"
 
-#: pebble/apps/system/settings/bluetooth.c:320
+#: pebble/apps/system/settings/bluetooth.c:312
 msgid "Disable Airplane Mode to connect."
 msgstr "接続するには機内モードをオフにしてください。"
 
-#: pebble/apps/system/settings/bluetooth.c:322
+#: pebble/apps/system/settings/bluetooth.c:314
 msgid "Open the Pebble app on your phone to connect."
 msgstr "接続するにはスマホのPebbleアプリを開いてください。"
 
-#: pebble/apps/system/settings/bluetooth.c:397
+#: pebble/apps/system/settings/bluetooth.c:389
 msgid "Connection"
 msgstr "接続"
 
-#: pebble/apps/system/settings/bluetooth.c:401
+#: pebble/apps/system/settings/bluetooth.c:393
 msgid "Airplane Mode"
 msgstr "機内モード"
 
-#: pebble/apps/system/settings/bluetooth.c:411
+#: pebble/apps/system/settings/bluetooth.c:403
 msgid "Disabling..."
 msgstr "オフに切替中..."
 
-#: pebble/apps/system/settings/bluetooth.c:412
+#: pebble/apps/system/settings/bluetooth.c:404
 msgid "Enabling..."
 msgstr "オンに切替中..."
 
-#: pebble/apps/system/settings/bluetooth.c:554
+#: pebble/apps/system/settings/bluetooth.c:546
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:33
+#: pebble/apps/system/settings/bluetooth.h:31
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr "スマホのBluetooth設定でもPebbleの登録を解除してください。"
@@ -2336,7 +2336,7 @@ msgid "Clear"
 msgstr "すべて削除"
 
 #: pebble/apps/system/weather/weather.c:159 pebble/services/clock/service.c:786
-#: pebble/services/timeline/timeline_actions.c:1043
+#: pebble/services/timeline/timeline_actions.c:1045
 msgid "Tomorrow"
 msgstr "明日"
 
@@ -2987,7 +2987,7 @@ msgstr "%d分間スヌーズ"
 msgid "Alarm dismissed"
 msgstr "アラームを停止しました"
 
-#: pebble/popups/bluetooth_pairing_ui.c:230
+#: pebble/popups/bluetooth_pairing_ui.c:229
 msgid "Pair?"
 msgstr "ペアリングしますか？"
 
@@ -4162,7 +4162,7 @@ msgstr "リマインダー"
 msgid "Intercom"
 msgstr "インターコム"
 
-#: pebble/services/timeline/timeline_actions.c:700
+#: pebble/services/timeline/timeline_actions.c:702
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4170,47 +4170,47 @@ msgstr ""
 "通知が届いたときに中央ボタンを2秒間長押しすると、すべての通知をすばやく閉じら"
 "れます。"
 
-#: pebble/services/timeline/timeline_actions.c:788
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "Ok"
 msgstr "OK"
 
-#: pebble/services/timeline/timeline_actions.c:789
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Yes"
 msgstr "はい"
 
-#: pebble/services/timeline/timeline_actions.c:790
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "No"
 msgstr "いいえ"
 
-#: pebble/services/timeline/timeline_actions.c:791
+#: pebble/services/timeline/timeline_actions.c:793
 msgid "Call me"
 msgstr "電話して"
 
-#: pebble/services/timeline/timeline_actions.c:792
+#: pebble/services/timeline/timeline_actions.c:794
 msgid "Call you later"
 msgstr "後で電話します"
 
-#: pebble/services/timeline/timeline_actions.c:916
+#: pebble/services/timeline/timeline_actions.c:918
 msgid "Reply with Voice"
 msgstr "音声で返信"
 
-#: pebble/services/timeline/timeline_actions.c:917
+#: pebble/services/timeline/timeline_actions.c:919
 msgid "Voice"
 msgstr "音声"
 
-#: pebble/services/timeline/timeline_actions.c:927
+#: pebble/services/timeline/timeline_actions.c:929
 msgid "Canned messages"
 msgstr "定型文"
 
-#: pebble/services/timeline/timeline_actions.c:931
+#: pebble/services/timeline/timeline_actions.c:933
 msgid "Emoji"
 msgstr "絵文字"
 
-#: pebble/services/timeline/timeline_actions.c:1035
+#: pebble/services/timeline/timeline_actions.c:1037
 msgid "In 15 minutes"
 msgstr "15分後"
 
-#: pebble/services/timeline/timeline_actions.c:1039
+#: pebble/services/timeline/timeline_actions.c:1041
 msgid "Later today"
 msgstr "今日の後ほど"
 

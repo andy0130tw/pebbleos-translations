@@ -721,7 +721,7 @@ msgid "Incompatible JS"
 msgstr "Niezgodny JS"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:269
+#: pebble/services/timeline/timeline_actions.c:271
 msgid "Failed"
 msgstr "Niepowodzenie"
 
@@ -1013,61 +1013,61 @@ msgstr "Brak"
 msgid "Background App"
 msgstr "Aplikacja w tle"
 
-#: pebble/apps/system/settings/bluetooth.c:125
+#: pebble/apps/system/settings/bluetooth.c:123
 msgid "<Untitled>"
 msgstr "<Bez nazwy>"
 
-#: pebble/apps/system/settings/bluetooth.c:172
+#: pebble/apps/system/settings/bluetooth.c:164
 msgid "Pairing Instructions"
 msgstr "Instrukcje parowania"
 
-#: pebble/apps/system/settings/bluetooth.c:176
+#: pebble/apps/system/settings/bluetooth.c:168
 #, c-format
 msgid "%u Paired Phones"
 msgstr "Sparowane telefony: %u"
 
-#: pebble/apps/system/settings/bluetooth.c:177
+#: pebble/apps/system/settings/bluetooth.c:169
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u sparowany telefon"
 
-#: pebble/apps/system/settings/bluetooth.c:290
+#: pebble/apps/system/settings/bluetooth.c:282
 msgid "Connected"
 msgstr "Połączono"
 
-#: pebble/apps/system/settings/bluetooth.c:317
+#: pebble/apps/system/settings/bluetooth.c:309
 msgid "Forget this device to pair a new device."
 msgstr "Zapomnij to urządzenie, aby sparować nowe."
 
-#: pebble/apps/system/settings/bluetooth.c:320
+#: pebble/apps/system/settings/bluetooth.c:312
 msgid "Disable Airplane Mode to connect."
 msgstr "Wyłącz tryb samolotowy, aby połączyć."
 
-#: pebble/apps/system/settings/bluetooth.c:322
+#: pebble/apps/system/settings/bluetooth.c:314
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Otwórz aplikację Pebble na telefonie, aby połączyć."
 
-#: pebble/apps/system/settings/bluetooth.c:397
+#: pebble/apps/system/settings/bluetooth.c:389
 msgid "Connection"
 msgstr "Połączenie"
 
-#: pebble/apps/system/settings/bluetooth.c:401
+#: pebble/apps/system/settings/bluetooth.c:393
 msgid "Airplane Mode"
 msgstr "Tryb samolotowy"
 
-#: pebble/apps/system/settings/bluetooth.c:411
+#: pebble/apps/system/settings/bluetooth.c:403
 msgid "Disabling..."
 msgstr "Wyłączanie..."
 
-#: pebble/apps/system/settings/bluetooth.c:412
+#: pebble/apps/system/settings/bluetooth.c:404
 msgid "Enabling..."
 msgstr "Włączanie..."
 
-#: pebble/apps/system/settings/bluetooth.c:554
+#: pebble/apps/system/settings/bluetooth.c:546
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:33
+#: pebble/apps/system/settings/bluetooth.h:31
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr ""
@@ -2368,7 +2368,7 @@ msgid "Clear"
 msgstr "Wyczyść wszystko"
 
 #: pebble/apps/system/weather/weather.c:159 pebble/services/clock/service.c:786
-#: pebble/services/timeline/timeline_actions.c:1043
+#: pebble/services/timeline/timeline_actions.c:1045
 msgid "Tomorrow"
 msgstr "Jutro"
 
@@ -3042,7 +3042,7 @@ msgstr "Drzemka: %d min"
 msgid "Alarm dismissed"
 msgstr "Budzik odrzucony"
 
-#: pebble/popups/bluetooth_pairing_ui.c:230
+#: pebble/popups/bluetooth_pairing_ui.c:229
 msgid "Pair?"
 msgstr "Sparować?"
 
@@ -4216,7 +4216,7 @@ msgstr "Przypomnienia"
 msgid "Intercom"
 msgstr "Domofon"
 
-#: pebble/services/timeline/timeline_actions.c:700
+#: pebble/services/timeline/timeline_actions.c:702
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4224,47 +4224,47 @@ msgstr ""
 "Szybko odrzuć wszystkie powiadomienia, przytrzymując środkowy przycisk przez "
 "2 sekundy przy dowolnym przychodzącym powiadomieniu."
 
-#: pebble/services/timeline/timeline_actions.c:788
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "Ok"
 msgstr "OK"
 
-#: pebble/services/timeline/timeline_actions.c:789
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Yes"
 msgstr "Tak"
 
-#: pebble/services/timeline/timeline_actions.c:790
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "No"
 msgstr "Nie"
 
-#: pebble/services/timeline/timeline_actions.c:791
+#: pebble/services/timeline/timeline_actions.c:793
 msgid "Call me"
 msgstr "Zadzwoń do mnie"
 
-#: pebble/services/timeline/timeline_actions.c:792
+#: pebble/services/timeline/timeline_actions.c:794
 msgid "Call you later"
 msgstr "Zadzwonię później"
 
-#: pebble/services/timeline/timeline_actions.c:916
+#: pebble/services/timeline/timeline_actions.c:918
 msgid "Reply with Voice"
 msgstr "Odpowiedz głosowo"
 
-#: pebble/services/timeline/timeline_actions.c:917
+#: pebble/services/timeline/timeline_actions.c:919
 msgid "Voice"
 msgstr "Głos"
 
-#: pebble/services/timeline/timeline_actions.c:927
+#: pebble/services/timeline/timeline_actions.c:929
 msgid "Canned messages"
 msgstr "Gotowe wiadomości"
 
-#: pebble/services/timeline/timeline_actions.c:931
+#: pebble/services/timeline/timeline_actions.c:933
 msgid "Emoji"
 msgstr "Emoji"
 
-#: pebble/services/timeline/timeline_actions.c:1035
+#: pebble/services/timeline/timeline_actions.c:1037
 msgid "In 15 minutes"
 msgstr "Za 15 minut"
 
-#: pebble/services/timeline/timeline_actions.c:1039
+#: pebble/services/timeline/timeline_actions.c:1041
 msgid "Later today"
 msgstr "Później (dziś)"
 

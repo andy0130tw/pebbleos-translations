@@ -719,7 +719,7 @@ msgid "Incompatible JS"
 msgstr "Несовместимый JS"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:269
+#: pebble/services/timeline/timeline_actions.c:271
 msgid "Failed"
 msgstr "Не удалось"
 
@@ -1016,61 +1016,61 @@ msgstr "Нет"
 msgid "Background App"
 msgstr "Прилож. в фоне"
 
-#: pebble/apps/system/settings/bluetooth.c:125
+#: pebble/apps/system/settings/bluetooth.c:123
 msgid "<Untitled>"
 msgstr "<Без заголовка>"
 
-#: pebble/apps/system/settings/bluetooth.c:172
+#: pebble/apps/system/settings/bluetooth.c:164
 msgid "Pairing Instructions"
 msgstr "Инструкции привязки"
 
-#: pebble/apps/system/settings/bluetooth.c:176
+#: pebble/apps/system/settings/bluetooth.c:168
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u Привязанных Телефонов"
 
-#: pebble/apps/system/settings/bluetooth.c:177
+#: pebble/apps/system/settings/bluetooth.c:169
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u Привязанный Телефон"
 
-#: pebble/apps/system/settings/bluetooth.c:290
+#: pebble/apps/system/settings/bluetooth.c:282
 msgid "Connected"
 msgstr "Подключено"
 
-#: pebble/apps/system/settings/bluetooth.c:317
+#: pebble/apps/system/settings/bluetooth.c:309
 msgid "Forget this device to pair a new device."
 msgstr "Отвяжите это устройство, чтобы привязать новое."
 
-#: pebble/apps/system/settings/bluetooth.c:320
+#: pebble/apps/system/settings/bluetooth.c:312
 msgid "Disable Airplane Mode to connect."
 msgstr "Выключите Авиарежим для подключения."
 
-#: pebble/apps/system/settings/bluetooth.c:322
+#: pebble/apps/system/settings/bluetooth.c:314
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Откройте приложение Pebble на телефоне для подключения."
 
-#: pebble/apps/system/settings/bluetooth.c:397
+#: pebble/apps/system/settings/bluetooth.c:389
 msgid "Connection"
 msgstr "Соединение"
 
-#: pebble/apps/system/settings/bluetooth.c:401
+#: pebble/apps/system/settings/bluetooth.c:393
 msgid "Airplane Mode"
 msgstr "Авиарежим"
 
-#: pebble/apps/system/settings/bluetooth.c:411
+#: pebble/apps/system/settings/bluetooth.c:403
 msgid "Disabling..."
 msgstr "Выключение..."
 
-#: pebble/apps/system/settings/bluetooth.c:412
+#: pebble/apps/system/settings/bluetooth.c:404
 msgid "Enabling..."
 msgstr "Включение..."
 
-#: pebble/apps/system/settings/bluetooth.c:554
+#: pebble/apps/system/settings/bluetooth.c:546
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:33
+#: pebble/apps/system/settings/bluetooth.h:31
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr "Также не забудьте отвязать ваши часы в Bluetooth телефона."
@@ -2322,7 +2322,7 @@ msgid "Clear"
 msgstr "Чистое небо"
 
 #: pebble/apps/system/weather/weather.c:159 pebble/services/clock/service.c:786
-#: pebble/services/timeline/timeline_actions.c:1043
+#: pebble/services/timeline/timeline_actions.c:1045
 msgid "Tomorrow"
 msgstr "Завтра"
 
@@ -2910,7 +2910,7 @@ msgstr "Отложено на %d минут"
 msgid "Alarm dismissed"
 msgstr "Будильник отключен"
 
-#: pebble/popups/bluetooth_pairing_ui.c:230
+#: pebble/popups/bluetooth_pairing_ui.c:229
 msgid "Pair?"
 msgstr "Связать?"
 
@@ -4099,7 +4099,7 @@ msgstr "Напоминания"
 msgid "Intercom"
 msgstr "Интерком"
 
-#: pebble/services/timeline/timeline_actions.c:700
+#: pebble/services/timeline/timeline_actions.c:702
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4107,47 +4107,47 @@ msgstr ""
 "Быстро отклонить все уведомления удерживанием кнопки Центр на 2 секунды из "
 "любого уведомления."
 
-#: pebble/services/timeline/timeline_actions.c:788
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "Ok"
 msgstr "Ок"
 
-#: pebble/services/timeline/timeline_actions.c:789
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Yes"
 msgstr "Да"
 
-#: pebble/services/timeline/timeline_actions.c:790
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "No"
 msgstr "Нет"
 
-#: pebble/services/timeline/timeline_actions.c:791
+#: pebble/services/timeline/timeline_actions.c:793
 msgid "Call me"
 msgstr "Позвони мне"
 
-#: pebble/services/timeline/timeline_actions.c:792
+#: pebble/services/timeline/timeline_actions.c:794
 msgid "Call you later"
 msgstr "Перезвоню позже"
 
-#: pebble/services/timeline/timeline_actions.c:916
+#: pebble/services/timeline/timeline_actions.c:918
 msgid "Reply with Voice"
 msgstr "Ответить голосом"
 
-#: pebble/services/timeline/timeline_actions.c:917
+#: pebble/services/timeline/timeline_actions.c:919
 msgid "Voice"
 msgstr "Голос"
 
-#: pebble/services/timeline/timeline_actions.c:927
+#: pebble/services/timeline/timeline_actions.c:929
 msgid "Canned messages"
 msgstr "Готовые ответы"
 
-#: pebble/services/timeline/timeline_actions.c:931
+#: pebble/services/timeline/timeline_actions.c:933
 msgid "Emoji"
 msgstr "Эмодзи"
 
-#: pebble/services/timeline/timeline_actions.c:1035
+#: pebble/services/timeline/timeline_actions.c:1037
 msgid "In 15 minutes"
 msgstr "Через 15 минут"
 
-#: pebble/services/timeline/timeline_actions.c:1039
+#: pebble/services/timeline/timeline_actions.c:1041
 msgid "Later today"
 msgstr "Позже сегодня"
 

@@ -718,7 +718,7 @@ msgid "Incompatible JS"
 msgstr "Inkompatibel JS"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:269
+#: pebble/services/timeline/timeline_actions.c:271
 msgid "Failed"
 msgstr "Misslyckades"
 
@@ -1010,61 +1010,61 @@ msgstr "Inga"
 msgid "Background App"
 msgstr "Bakgrundsapp"
 
-#: pebble/apps/system/settings/bluetooth.c:125
+#: pebble/apps/system/settings/bluetooth.c:123
 msgid "<Untitled>"
 msgstr "<Namnlös>"
 
-#: pebble/apps/system/settings/bluetooth.c:172
+#: pebble/apps/system/settings/bluetooth.c:164
 msgid "Pairing Instructions"
 msgstr "Parkopplingsinstruktioner"
 
-#: pebble/apps/system/settings/bluetooth.c:176
+#: pebble/apps/system/settings/bluetooth.c:168
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u parkopplade telefoner"
 
-#: pebble/apps/system/settings/bluetooth.c:177
+#: pebble/apps/system/settings/bluetooth.c:169
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u parkopplad telefon"
 
-#: pebble/apps/system/settings/bluetooth.c:290
+#: pebble/apps/system/settings/bluetooth.c:282
 msgid "Connected"
 msgstr "Ansluten"
 
-#: pebble/apps/system/settings/bluetooth.c:317
+#: pebble/apps/system/settings/bluetooth.c:309
 msgid "Forget this device to pair a new device."
 msgstr "Glöm denna enhet för att parkoppla en ny enhet."
 
-#: pebble/apps/system/settings/bluetooth.c:320
+#: pebble/apps/system/settings/bluetooth.c:312
 msgid "Disable Airplane Mode to connect."
 msgstr "Inaktivera flygplansläge för att ansluta."
 
-#: pebble/apps/system/settings/bluetooth.c:322
+#: pebble/apps/system/settings/bluetooth.c:314
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Öppna Pebble-appen på telefonen för att ansluta."
 
-#: pebble/apps/system/settings/bluetooth.c:397
+#: pebble/apps/system/settings/bluetooth.c:389
 msgid "Connection"
 msgstr "Anslutning"
 
-#: pebble/apps/system/settings/bluetooth.c:401
+#: pebble/apps/system/settings/bluetooth.c:393
 msgid "Airplane Mode"
 msgstr "Flygplansläge"
 
-#: pebble/apps/system/settings/bluetooth.c:411
+#: pebble/apps/system/settings/bluetooth.c:403
 msgid "Disabling..."
 msgstr "Inaktiverar..."
 
-#: pebble/apps/system/settings/bluetooth.c:412
+#: pebble/apps/system/settings/bluetooth.c:404
 msgid "Enabling..."
 msgstr "Aktiverar..."
 
-#: pebble/apps/system/settings/bluetooth.c:554
+#: pebble/apps/system/settings/bluetooth.c:546
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:33
+#: pebble/apps/system/settings/bluetooth.h:31
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr "Kom ihåg att också radera Pebbles Bluetooth-anslutning på din telefon."
@@ -2330,7 +2330,7 @@ msgid "Clear"
 msgstr "Rensa"
 
 #: pebble/apps/system/weather/weather.c:159 pebble/services/clock/service.c:786
-#: pebble/services/timeline/timeline_actions.c:1043
+#: pebble/services/timeline/timeline_actions.c:1045
 msgid "Tomorrow"
 msgstr "Imorgon"
 
@@ -2981,7 +2981,7 @@ msgstr "Snooza i %d minuter"
 msgid "Alarm dismissed"
 msgstr "Alarmet stoppat"
 
-#: pebble/popups/bluetooth_pairing_ui.c:230
+#: pebble/popups/bluetooth_pairing_ui.c:229
 msgid "Pair?"
 msgstr "Parkoppla?"
 
@@ -4167,7 +4167,7 @@ msgstr "Påminnelser"
 msgid "Intercom"
 msgstr "Interkom"
 
-#: pebble/services/timeline/timeline_actions.c:700
+#: pebble/services/timeline/timeline_actions.c:702
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4175,47 +4175,47 @@ msgstr ""
 "Rensa alla aviseringar genom att hålla in mitten-knappen i 2 sekunder på en "
 "aviseringar."
 
-#: pebble/services/timeline/timeline_actions.c:788
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "Ok"
 msgstr "Ok"
 
-#: pebble/services/timeline/timeline_actions.c:789
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Yes"
 msgstr "Ja"
 
-#: pebble/services/timeline/timeline_actions.c:790
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "No"
 msgstr "Nej"
 
-#: pebble/services/timeline/timeline_actions.c:791
+#: pebble/services/timeline/timeline_actions.c:793
 msgid "Call me"
 msgstr "Ring mig"
 
-#: pebble/services/timeline/timeline_actions.c:792
+#: pebble/services/timeline/timeline_actions.c:794
 msgid "Call you later"
 msgstr "Jag ringer upp"
 
-#: pebble/services/timeline/timeline_actions.c:916
+#: pebble/services/timeline/timeline_actions.c:918
 msgid "Reply with Voice"
 msgstr "Svara med röst"
 
-#: pebble/services/timeline/timeline_actions.c:917
+#: pebble/services/timeline/timeline_actions.c:919
 msgid "Voice"
 msgstr "Röst"
 
-#: pebble/services/timeline/timeline_actions.c:927
+#: pebble/services/timeline/timeline_actions.c:929
 msgid "Canned messages"
 msgstr "Kastade meddelanden"
 
-#: pebble/services/timeline/timeline_actions.c:931
+#: pebble/services/timeline/timeline_actions.c:933
 msgid "Emoji"
 msgstr "Emoji"
 
-#: pebble/services/timeline/timeline_actions.c:1035
+#: pebble/services/timeline/timeline_actions.c:1037
 msgid "In 15 minutes"
 msgstr "Om 15 minuter"
 
-#: pebble/services/timeline/timeline_actions.c:1039
+#: pebble/services/timeline/timeline_actions.c:1041
 msgid "Later today"
 msgstr "Senare idag"
 

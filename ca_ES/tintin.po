@@ -716,7 +716,7 @@ msgid "Incompatible JS"
 msgstr "JS incompatible"
 
 #: pebble/apps/system/app_fetch_ui.c:139
-#: pebble/services/timeline/timeline_actions.c:269
+#: pebble/services/timeline/timeline_actions.c:271
 msgid "Failed"
 msgstr "Ha fallat"
 
@@ -1009,61 +1009,61 @@ msgstr "Cap"
 msgid "Background App"
 msgstr "App en segon pla"
 
-#: pebble/apps/system/settings/bluetooth.c:125
+#: pebble/apps/system/settings/bluetooth.c:123
 msgid "<Untitled>"
 msgstr "<Sense títol>"
 
-#: pebble/apps/system/settings/bluetooth.c:172
+#: pebble/apps/system/settings/bluetooth.c:164
 msgid "Pairing Instructions"
 msgstr "Instruccions d'enllaç"
 
-#: pebble/apps/system/settings/bluetooth.c:176
+#: pebble/apps/system/settings/bluetooth.c:168
 #, c-format
 msgid "%u Paired Phones"
 msgstr "%u telèfons enllaçats"
 
-#: pebble/apps/system/settings/bluetooth.c:177
+#: pebble/apps/system/settings/bluetooth.c:169
 #, c-format
 msgid "%u Paired Phone"
 msgstr "%u telèfon enllaçat"
 
-#: pebble/apps/system/settings/bluetooth.c:290
+#: pebble/apps/system/settings/bluetooth.c:282
 msgid "Connected"
 msgstr "Connectat"
 
-#: pebble/apps/system/settings/bluetooth.c:317
+#: pebble/apps/system/settings/bluetooth.c:309
 msgid "Forget this device to pair a new device."
 msgstr "Oblida aquest dispositiu per enllaçar-ne un de nou."
 
-#: pebble/apps/system/settings/bluetooth.c:320
+#: pebble/apps/system/settings/bluetooth.c:312
 msgid "Disable Airplane Mode to connect."
 msgstr "Desactiva el mode avió per connectar."
 
-#: pebble/apps/system/settings/bluetooth.c:322
+#: pebble/apps/system/settings/bluetooth.c:314
 msgid "Open the Pebble app on your phone to connect."
 msgstr "Obre l'app Pebble al telèfon per connectar."
 
-#: pebble/apps/system/settings/bluetooth.c:397
+#: pebble/apps/system/settings/bluetooth.c:389
 msgid "Connection"
 msgstr "Connexió"
 
-#: pebble/apps/system/settings/bluetooth.c:401
+#: pebble/apps/system/settings/bluetooth.c:393
 msgid "Airplane Mode"
 msgstr "Mode avió"
 
-#: pebble/apps/system/settings/bluetooth.c:411
+#: pebble/apps/system/settings/bluetooth.c:403
 msgid "Disabling..."
 msgstr "Desactivant..."
 
-#: pebble/apps/system/settings/bluetooth.c:412
+#: pebble/apps/system/settings/bluetooth.c:404
 msgid "Enabling..."
 msgstr "Activant..."
 
-#: pebble/apps/system/settings/bluetooth.c:554
+#: pebble/apps/system/settings/bluetooth.c:546
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
-#: pebble/apps/system/settings/bluetooth.h:33
+#: pebble/apps/system/settings/bluetooth.h:31
 msgid ""
 "Remember to also forget your Pebble's Bluetooth connection from your phone."
 msgstr "Recorda oblidar també la connexió Bluetooth del Pebble des del telèfon."
@@ -2335,7 +2335,7 @@ msgid "Clear"
 msgstr "Esborra-ho tot"
 
 #: pebble/apps/system/weather/weather.c:159 pebble/services/clock/service.c:786
-#: pebble/services/timeline/timeline_actions.c:1043
+#: pebble/services/timeline/timeline_actions.c:1045
 msgid "Tomorrow"
 msgstr "Demà"
 
@@ -2987,7 +2987,7 @@ msgstr "Posposa durant %d minuts"
 msgid "Alarm dismissed"
 msgstr "Alarma descartada"
 
-#: pebble/popups/bluetooth_pairing_ui.c:230
+#: pebble/popups/bluetooth_pairing_ui.c:229
 msgid "Pair?"
 msgstr "Vols enllaçar?"
 
@@ -4167,7 +4167,7 @@ msgstr "Recordatoris"
 msgid "Intercom"
 msgstr "Intercomunicador"
 
-#: pebble/services/timeline/timeline_actions.c:700
+#: pebble/services/timeline/timeline_actions.c:702
 msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
@@ -4175,47 +4175,47 @@ msgstr ""
 "Descarta ràpidament totes les notificacions mantenint premut el botó "
 "Selecciona durant 2 segons des de qualsevol notificació entrant."
 
-#: pebble/services/timeline/timeline_actions.c:788
+#: pebble/services/timeline/timeline_actions.c:790
 msgid "Ok"
 msgstr "D'acord"
 
-#: pebble/services/timeline/timeline_actions.c:789
+#: pebble/services/timeline/timeline_actions.c:791
 msgid "Yes"
 msgstr "Sí"
 
-#: pebble/services/timeline/timeline_actions.c:790
+#: pebble/services/timeline/timeline_actions.c:792
 msgid "No"
 msgstr "No"
 
-#: pebble/services/timeline/timeline_actions.c:791
+#: pebble/services/timeline/timeline_actions.c:793
 msgid "Call me"
 msgstr "Truca'm"
 
-#: pebble/services/timeline/timeline_actions.c:792
+#: pebble/services/timeline/timeline_actions.c:794
 msgid "Call you later"
 msgstr "Et truco després"
 
-#: pebble/services/timeline/timeline_actions.c:916
+#: pebble/services/timeline/timeline_actions.c:918
 msgid "Reply with Voice"
 msgstr "Respon amb veu"
 
-#: pebble/services/timeline/timeline_actions.c:917
+#: pebble/services/timeline/timeline_actions.c:919
 msgid "Voice"
 msgstr "Veu"
 
-#: pebble/services/timeline/timeline_actions.c:927
+#: pebble/services/timeline/timeline_actions.c:929
 msgid "Canned messages"
 msgstr "Missatges predefinits"
 
-#: pebble/services/timeline/timeline_actions.c:931
+#: pebble/services/timeline/timeline_actions.c:933
 msgid "Emoji"
 msgstr "Emoji"
 
-#: pebble/services/timeline/timeline_actions.c:1035
+#: pebble/services/timeline/timeline_actions.c:1037
 msgid "In 15 minutes"
 msgstr "D'aquí 15 minuts"
 
-#: pebble/services/timeline/timeline_actions.c:1039
+#: pebble/services/timeline/timeline_actions.c:1041
 msgid "Later today"
 msgstr "Més tard avui"
 
