@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 25.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-07 18:50+0200\n"
-"PO-Revision-Date: 2026-11-19 17:26+0000\n"
+"PO-Revision-Date: 2026-11-24 17:17+0000\n"
 "Last-Translator: \"miky.deirossi\" <miky.deirossi@gmail.com>\n"
 "Language-Team: Italian <https://translate.repebble.com/projects/pebbleos/"
 "watch/it/>\n"
@@ -2169,38 +2169,35 @@ msgid "Watchfaces"
 msgstr "Watchfaces"
 
 #: pebble/apps/system/weather/expanded_view.c:153
-#, fuzzy
-#| msgid "Sunset --:--"
 msgid "Sunset at --:--"
-msgstr "Tramonto --:--"
+msgstr "Tramonto alle --:--"
 
 #: pebble/apps/system/weather/expanded_view.c:156
-#, fuzzy, c-format
-#| msgid "Sunset %s"
+#, c-format
 msgid "Sunset at %s"
-msgstr "Tramonto %s"
+msgstr "Tramonto alle %s"
 
 #. / When the evening golden hour starts, unknown
 #: pebble/apps/system/weather/expanded_view.c:164
 msgid "Golden hour: --:--"
-msgstr ""
+msgstr "Ora dorata: --:--"
 
 #. / When the evening golden hour starts ("Golden hour: 5:41 PM")
 #: pebble/apps/system/weather/expanded_view.c:168
 #, c-format
 msgid "Golden hour: %s"
-msgstr ""
+msgstr "Ora dorata: %s"
 
 #. / The feels-like temperature when it is unknown
 #: pebble/apps/system/weather/expanded_view.c:185
 msgid "Feels like --"
-msgstr ""
+msgstr "Percepita: --"
 
 #. / The feels-like temperature, a label of its own: no full stop
 #: pebble/apps/system/weather/expanded_view.c:190
 #, c-format
 msgid "Feels like %d°"
-msgstr ""
+msgstr "Percepita %d°"
 
 #: pebble/apps/system/weather/expanded_view.c:218
 msgid "Last updated --:--"
@@ -2213,24 +2210,19 @@ msgstr "Aggiornato %s"
 
 #. / Label of the sunset's time, in a narrow row with the time: keep it short
 #: pebble/apps/system/weather/expanded_view.c:232
-#, fuzzy
-#| msgid "Sunset"
 msgctxt "SunsetCard"
 msgid "Sunset"
 msgstr "Tramonto"
 
 #. / Label of the time the evening golden hour starts
 #: pebble/apps/system/weather/expanded_view.c:236
-#, fuzzy
-#| msgctxt "TmplStringSing"
-#| msgid " hour"
 msgid "Golden hour"
-msgstr " ora"
+msgstr "Ora dorata"
 
 #. / "Golden hour" abbreviated, for where the full label does not fit
 #: pebble/apps/system/weather/expanded_view.c:238
 msgid "Golden hr"
-msgstr ""
+msgstr "Ora dor."
 
 #: pebble/apps/system/weather/expanded_view.c:872
 #: pebble/apps/system/weather/globe_view.c:3730
@@ -3091,7 +3083,7 @@ msgstr "Questa app richiede un firmware Pebble più recente."
 
 #: pebble/process_management/process_manager.c:336
 msgid "This app needs hardware this watch does not have."
-msgstr ""
+msgstr "Hardware non supportato da questo orologio."
 
 #: pebble/process_management/process_manager.c:382
 msgid "This app uses RockyJS which is no longer supported."
