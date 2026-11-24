@@ -1,0 +1,4095 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: pebble/applib/pbl_std/timelocal.c:38
+msgctxt "MonthAbbr"
+msgid "Jan"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:38
+msgctxt "MonthAbbr"
+msgid "Feb"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:39
+msgctxt "MonthAbbr"
+msgid "Mar"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:39
+msgctxt "MonthAbbr"
+msgid "Apr"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:40
+msgctxt "MonthAbbr"
+msgid "May"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:40
+msgctxt "MonthAbbr"
+msgid "Jun"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:41
+msgctxt "MonthAbbr"
+msgid "Jul"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:41
+msgctxt "MonthAbbr"
+msgid "Aug"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:42
+msgctxt "MonthAbbr"
+msgid "Sep"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:42
+msgctxt "MonthAbbr"
+msgid "Oct"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:43
+msgctxt "MonthAbbr"
+msgid "Nov"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:43
+msgctxt "MonthAbbr"
+msgid "Dec"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:45
+msgid "January"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:45
+msgid "February"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:45
+msgid "March"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:46
+msgid "April"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:46
+msgid "May"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:46
+msgid "June"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:46
+msgid "July"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:47
+msgid "August"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:47
+msgid "September"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:47
+msgid "October"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:48
+msgid "November"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:48
+msgid "December"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1481
+msgid "Sun"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1481
+msgid "Mon"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1482
+msgid "Tue"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:50 pebble/services/alarms/alarm.c:1482
+msgid "Wed"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1483
+msgid "Thu"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1483
+msgid "Fri"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:51 pebble/services/alarms/alarm.c:1484
+msgid "Sat"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:53
+#: pebble/apps/system/weather/weather.c:162
+msgid "Sunday"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:53
+#: pebble/apps/system/weather/weather.c:162
+msgid "Monday"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:53
+#: pebble/apps/system/weather/weather.c:162
+msgid "Tuesday"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:54
+#: pebble/apps/system/weather/weather.c:163
+msgid "Wednesday"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:54
+#: pebble/apps/system/weather/weather.c:163
+msgid "Thursday"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:54
+#: pebble/apps/system/weather/weather.c:163
+msgid "Friday"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:55
+#: pebble/apps/system/weather/weather.c:164
+msgid "Saturday"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:57
+msgid "%H:%M:%S"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:58
+msgid "%m/%d/%y"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:59
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:60
+msgid "%I:%M:%S %p"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:64
+#: pebble/applib/ui/date_time_selection_window_private.c:74
+#: pebble/apps/system/weather/expanded_view.c:133
+msgid "AM"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:65
+#: pebble/applib/ui/date_time_selection_window_private.c:76
+#: pebble/apps/system/weather/expanded_view.c:133
+msgid "PM"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:68
+msgid "am"
+msgstr ""
+
+#: pebble/applib/pbl_std/timelocal.c:69
+msgid "pm"
+msgstr ""
+
+#. / The second separator in `<hour>:<minute>:<second>`
+#: pebble/applib/template_string.c:217 pebble/applib/template_string.c:219
+msgctxt "TmplStringSep"
+msgid ":"
+msgstr ""
+
+#. / The second separator in `<hour> hr <minute> min <second> sec`
+#: pebble/applib/template_string.c:223 pebble/applib/template_string.c:225
+msgctxt "TmplStringSep"
+msgid " "
+msgstr ""
+
+#: pebble/applib/template_string.c:229
+msgctxt "TmplStringSep"
+msgid ", "
+msgstr ""
+
+#. / The second separator in `<hour> hours, <minute> minutes, and <second> seconds`
+#: pebble/applib/template_string.c:231
+msgctxt "TmplStringSep"
+msgid ", and "
+msgstr ""
+
+#. / Suffixes for seconds with no units
+#. / Suffixes for minutes with no units
+#. / Suffixes for hours with no units
+#. / Suffixes for days with no units
+#. / Suffixes for months with no units
+#. / Suffixes for years with no units
+#: pebble/applib/template_string.c:304 pebble/applib/template_string.c:316
+#: pebble/applib/template_string.c:328 pebble/applib/template_string.c:340
+#: pebble/applib/template_string.c:353 pebble/applib/template_string.c:367
+msgctxt "TmplStringSing"
+msgid ""
+msgstr ""
+
+#: pebble/applib/template_string.c:304 pebble/applib/template_string.c:316
+#: pebble/applib/template_string.c:328 pebble/applib/template_string.c:340
+#: pebble/applib/template_string.c:353 pebble/applib/template_string.c:367
+msgctxt "TmplStringPlur"
+msgid ""
+msgstr ""
+
+#: pebble/applib/template_string.c:305 pebble/applib/template_string.c:317
+#: pebble/applib/template_string.c:329 pebble/applib/template_string.c:341
+#: pebble/applib/template_string.c:354 pebble/applib/template_string.c:368
+msgctxt "TmplStringMany"
+msgid ""
+msgstr ""
+
+#. / Suffixes for seconds with abbreviated units
+#: pebble/applib/template_string.c:307
+msgctxt "TmplStringSing"
+msgid " sec"
+msgstr ""
+
+#: pebble/applib/template_string.c:307
+msgctxt "TmplStringPlur"
+msgid " sec"
+msgstr ""
+
+#: pebble/applib/template_string.c:308
+msgctxt "TmplStringMany"
+msgid " sec"
+msgstr ""
+
+#. / Suffixes for seconds with full units
+#: pebble/applib/template_string.c:310
+msgctxt "TmplStringSing"
+msgid " second"
+msgstr ""
+
+#: pebble/applib/template_string.c:310
+msgctxt "TmplStringPlur"
+msgid " seconds"
+msgstr ""
+
+#: pebble/applib/template_string.c:311
+msgctxt "TmplStringMany"
+msgid " seconds"
+msgstr ""
+
+#. / Suffixes for minutes with abbreviated units
+#: pebble/applib/template_string.c:319
+msgctxt "TmplStringSing"
+msgid " min"
+msgstr ""
+
+#: pebble/applib/template_string.c:319
+msgctxt "TmplStringPlur"
+msgid " min"
+msgstr ""
+
+#: pebble/applib/template_string.c:320
+msgctxt "TmplStringMany"
+msgid " min"
+msgstr ""
+
+#. / Suffixes for minutes with full units
+#: pebble/applib/template_string.c:322
+msgctxt "TmplStringSing"
+msgid " minute"
+msgstr ""
+
+#: pebble/applib/template_string.c:322
+msgctxt "TmplStringPlur"
+msgid " minutes"
+msgstr ""
+
+#: pebble/applib/template_string.c:323
+msgctxt "TmplStringMany"
+msgid " minutes"
+msgstr ""
+
+#. / Suffixes for hours with abbreviated units
+#: pebble/applib/template_string.c:331
+msgctxt "TmplStringSing"
+msgid " hr"
+msgstr ""
+
+#: pebble/applib/template_string.c:331
+msgctxt "TmplStringPlur"
+msgid " hr"
+msgstr ""
+
+#: pebble/applib/template_string.c:332
+msgctxt "TmplStringMany"
+msgid " hr"
+msgstr ""
+
+#. / Suffixes for hours with full units
+#: pebble/applib/template_string.c:334
+msgctxt "TmplStringSing"
+msgid " hour"
+msgstr ""
+
+#: pebble/applib/template_string.c:334
+msgctxt "TmplStringPlur"
+msgid " hours"
+msgstr ""
+
+#: pebble/applib/template_string.c:335
+msgctxt "TmplStringMany"
+msgid " hours"
+msgstr ""
+
+#. / Suffixes for days with abbreviated units
+#: pebble/applib/template_string.c:343
+msgctxt "TmplStringSing"
+msgid " d"
+msgstr ""
+
+#: pebble/applib/template_string.c:343
+msgctxt "TmplStringPlur"
+msgid " d"
+msgstr ""
+
+#: pebble/applib/template_string.c:344
+msgctxt "TmplStringMany"
+msgid " d"
+msgstr ""
+
+#. / Suffixes for days with full units
+#: pebble/applib/template_string.c:346
+msgctxt "TmplStringSing"
+msgid " day"
+msgstr ""
+
+#: pebble/applib/template_string.c:346
+msgctxt "TmplStringPlur"
+msgid " days"
+msgstr ""
+
+#: pebble/applib/template_string.c:347
+msgctxt "TmplStringMany"
+msgid " days"
+msgstr ""
+
+#. / Suffixes for months with abbreviated units
+#: pebble/applib/template_string.c:356
+msgctxt "TmplStringSing"
+msgid " mo"
+msgstr ""
+
+#: pebble/applib/template_string.c:356
+msgctxt "TmplStringPlur"
+msgid " mo"
+msgstr ""
+
+#: pebble/applib/template_string.c:357
+msgctxt "TmplStringMany"
+msgid " mo"
+msgstr ""
+
+#. / Suffixes for months with full units
+#: pebble/applib/template_string.c:359
+msgctxt "TmplStringSing"
+msgid " month"
+msgstr ""
+
+#: pebble/applib/template_string.c:359
+msgctxt "TmplStringPlur"
+msgid " months"
+msgstr ""
+
+#: pebble/applib/template_string.c:360
+msgctxt "TmplStringMany"
+msgid " months"
+msgstr ""
+
+#. / Suffixes for years with abbreviated units
+#: pebble/applib/template_string.c:370
+msgctxt "TmplStringSing"
+msgid " yr"
+msgstr ""
+
+#: pebble/applib/template_string.c:370
+msgctxt "TmplStringPlur"
+msgid " yr"
+msgstr ""
+
+#: pebble/applib/template_string.c:371
+msgctxt "TmplStringMany"
+msgid " yr"
+msgstr ""
+
+#. / Suffixes for years with full units
+#: pebble/applib/template_string.c:373
+msgctxt "TmplStringSing"
+msgid " year"
+msgstr ""
+
+#: pebble/applib/template_string.c:373
+msgctxt "TmplStringPlur"
+msgid " years"
+msgstr ""
+
+#: pebble/applib/template_string.c:374
+msgctxt "TmplStringMany"
+msgid " years"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would go off every
+#. / day. Respect capitalization!
+#: pebble/applib/ui/day_picker.c:46 pebble/services/alarms/alarm.c:1426
+msgid "Every Day"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would only go off
+#. / every weekday. Respect capitalization!
+#: pebble/applib/ui/day_picker.c:47 pebble/services/alarms/alarm.c:1436
+msgid "Weekdays"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would only go off
+#. / each day on the weekend. Respect capitalization!
+#: pebble/applib/ui/day_picker.c:48 pebble/services/alarms/alarm.c:1446
+msgid "Weekends"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would only go off
+#. / on a custom choice of days. Respect capitalization!
+#: pebble/applib/ui/day_picker.c:49 pebble/services/alarms/alarm.c:1468
+msgid "Custom"
+msgstr ""
+
+#: pebble/applib/ui/day_picker.c:50
+msgid "Just Once"
+msgstr ""
+
+#: pebble/applib/ui/day_picker.c:238
+msgid "Check something first."
+msgstr ""
+
+#: pebble/applib/ui/dialogs/bt_conn_dialog.c:97
+msgid "Check bluetooth connection"
+msgstr ""
+
+#: pebble/applib/ui/time_range_selection_window.c:180
+msgid "Start"
+msgstr ""
+
+#. / Vibrate at the end of notification animation (delayed)
+#: pebble/applib/ui/time_range_selection_window.c:184
+#: pebble/apps/system/settings/notifications.c:239
+msgid "End"
+msgstr ""
+
+#: pebble/applib/voice/voice_window.c:188
+msgid "Dictation is not available."
+msgstr ""
+
+#: pebble/applib/voice/voice_window.c:207
+msgid "Error occurred. Try again."
+msgstr ""
+
+#: pebble/applib/voice/voice_window.c:214 pebble/apps/system/app_fetch_ui.c:125
+msgid "No internet connection"
+msgstr ""
+
+#: pebble/applib/voice/voice_window.c:226
+msgid "Enable voice in the settings page of the Pebble app."
+msgstr ""
+
+#: pebble/applib/voice/voice_window.c:389
+msgid "Missed that. Try again."
+msgstr ""
+
+#: pebble/applib/voice/voice_window.c:683
+msgid "Retrying"
+msgstr ""
+
+#: pebble/applib/voice/voice_window.c:686
+msgid "Retrying offline"
+msgstr ""
+
+#: pebble/applib/voice/voice_window.c:1135
+msgid "Listening"
+msgstr ""
+
+#: pebble/apps/core/progress_ui.c:63
+msgid "Update Complete"
+msgstr ""
+
+#: pebble/apps/core/progress_ui.c:63
+msgid "Update Failed"
+msgstr ""
+
+#: pebble/apps/core/progress_ui.c:175
+#: pebble/apps/system/settings/factory_reset.c:60
+msgid "Resetting..."
+msgstr ""
+
+#: pebble/apps/demo/dialogs/dialogs_demo.c:105
+msgid "Decline dialog."
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:63
+#, c-format
+msgid "Snooze delay set to %d minutes"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:275
+#: pebble/apps/system/settings/quiet_time.c:337
+msgid "Delete"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:281
+#: pebble/apps/system/settings/quiet_time.c:314
+msgid "Disable"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:281
+#: pebble/apps/system/settings/quiet_time.c:318
+msgid "Enable"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:286
+#: pebble/apps/system/alarms/alarm_editor.c:163
+msgid "Change Time"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:291
+#: pebble/apps/system/settings/quiet_time.c:332
+msgid "Change Days"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:296
+msgid "Convert to Basic Alarm"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:297
+msgid "Convert to Smart Alarm"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:303
+msgid "Sound"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:309
+msgid "Vibration: On"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:310
+msgid "Vibration: Off"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:315
+msgid "Snooze Delay"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:326
+msgid "5 minutes"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:326
+msgid "10 minutes"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:326
+msgid "15 minutes"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:327
+msgid "30 minutes"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:327
+msgid "1 hour"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_detail.c:353
+msgctxt "AlarmSound"
+msgid "Off"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_editor.c:164
+msgid "New Smart Alarm"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_editor.c:165
+#: pebble/apps/system/alarms/alarm_editor.c:263
+msgid "New Alarm"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_editor.c:167
+msgid "Wake up between"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_editor.c:167
+msgid "Wake up interval"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_editor.c:260
+msgid "Basic Alarm"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarm_editor.c:261
+#: pebble/apps/system/alarms/alarms.c:351 pebble/services/alarms/alarm.c:461
+#: pebble/services/alarms/alarm_pin.c:77
+msgid "Smart Alarm"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarms.c:115
+msgid "Alarm Deleted"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarms.c:230
+#: pebble/apps/system/settings/quiet_time.c:384
+msgid "Limit reached."
+msgstr ""
+
+#: pebble/apps/system/alarms/alarms.c:274
+#: pebble/apps/system/settings/quiet_time.c:427
+msgid "ON"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarms.c:274
+#: pebble/apps/system/settings/quiet_time.c:427
+msgid "OFF"
+msgstr ""
+
+#: pebble/apps/system/alarms/alarms.c:348
+msgid ""
+"Let us wake you in your lightest sleep so you're fully refreshed! Smart "
+"Alarm wakes you up to 30min before your alarm."
+msgstr ""
+
+#: pebble/apps/system/alarms/alarms.c:480
+#: pebble/apps/system/settings/vibe_patterns.c:65
+#: pebble/services/timeline/timeline.c:939
+msgid "Alarms"
+msgstr ""
+
+#: pebble/apps/system/app_fetch_ui.c:111
+msgid "Not connected"
+msgstr ""
+
+#: pebble/apps/system/app_fetch_ui.c:123
+msgid ""
+"No internet\n"
+"connection"
+msgstr ""
+
+#: pebble/apps/system/app_fetch_ui.c:130
+msgid "Incompatible JS"
+msgstr ""
+
+#: pebble/apps/system/app_fetch_ui.c:139
+#: pebble/services/timeline/timeline_actions.c:271
+msgid "Failed"
+msgstr ""
+
+#: pebble/apps/system/health/activity_detail_card.c:37
+msgid "kcal"
+msgstr ""
+
+#: pebble/apps/system/health/activity_detail_card.c:48
+#: pebble/services/activity/activity_insights.c:1779
+msgid "mi"
+msgstr ""
+
+#: pebble/apps/system/health/activity_detail_card.c:48
+#: pebble/services/activity/activity_insights.c:1780
+msgid "km"
+msgstr ""
+
+#: pebble/apps/system/health/activity_detail_card.c:61
+#: pebble/apps/system/health/sleep_detail_card.c:184
+msgid "30 DAY AVG"
+msgstr ""
+
+#: pebble/apps/system/health/activity_detail_card.c:88
+msgid "CALORIES"
+msgstr ""
+
+#. / Distance Label
+#: pebble/apps/system/health/activity_detail_card.c:90
+#: pebble/apps/system/workout/active.c:194
+msgid "DISTANCE"
+msgstr ""
+
+#: pebble/apps/system/health/activity_summary_card.c:144
+msgid "TOTAL"
+msgstr ""
+
+#: pebble/apps/system/health/detail_card.c:726
+#: pebble/apps/system/weather/weather.c:157 pebble/services/clock/service.c:579
+#: pebble/services/clock/service.c:782
+msgid "Today"
+msgstr ""
+
+#: pebble/apps/system/health/graph_card.c:309
+msgid ": "
+msgstr ""
+
+#: pebble/apps/system/health/graph_card.c:315
+#, c-format
+msgid "%a: "
+msgstr ""
+
+#: pebble/apps/system/health/graph_card.c:398
+msgid "SMTWTFS"
+msgstr ""
+
+#: pebble/apps/system/health/health.c:79
+msgid ""
+"Psst! Want smart tips about your activity and sleep? You can enable Insights "
+"in the mobile app."
+msgstr ""
+
+#: pebble/apps/system/health/health.c:111
+msgid ""
+"Track your steps, sleep, and more! Enable Pebble Health in the mobile app."
+msgstr ""
+
+#: pebble/apps/system/health/health.c:120
+msgid "Health requires the time to be synced. Please connect your phone."
+msgstr ""
+
+#: pebble/apps/system/health/health.c:187
+#: pebble/apps/system/settings/health.c:266
+#: pebble/services/timeline/timeline.c:943
+msgid "Health"
+msgstr ""
+
+#: pebble/apps/system/health/hr_chart.c:112
+msgid "%k"
+msgstr ""
+
+#: pebble/apps/system/health/hr_chart.c:113
+msgid "%l%p"
+msgstr ""
+
+#: pebble/apps/system/health/hr_chart.c:113
+msgid "%l"
+msgstr ""
+
+#. / Range of heart rate readings, e.g. "52–104 BPM"
+#: pebble/apps/system/health/hr_detail_card.c:45
+#, c-format
+msgid "%d–%d BPM"
+msgstr ""
+
+#: pebble/apps/system/health/hr_detail_card.c:91
+#: pebble/services/activity/activity_insights.c:1885
+msgid "Fat Burn"
+msgstr ""
+
+#: pebble/apps/system/health/hr_detail_card.c:94
+#: pebble/services/activity/activity_insights.c:1892
+msgid "Endurance"
+msgstr ""
+
+#: pebble/apps/system/health/hr_detail_card.c:97
+#: pebble/services/activity/activity_insights.c:1899
+msgid "Performance"
+msgstr ""
+
+#. / Heading above a chart of today's heart rate and its lowest to highest reading
+#: pebble/apps/system/health/hr_detail_card.c:104
+msgid "TODAY'S RANGE"
+msgstr ""
+
+#. / Heading above the time spent in each heart rate zone today
+#: pebble/apps/system/health/hr_detail_card.c:116
+msgid "TIME IN ZONES"
+msgstr ""
+
+#: pebble/apps/system/health/hr_summary_card.c:137
+#: pebble/apps/system/workout/active.c:1115
+msgid "BPM"
+msgstr ""
+
+#. / HRM disabled
+#: pebble/apps/system/health/hr_summary_card.c:182
+msgid "Enable heart rate monitoring in the mobile app"
+msgstr ""
+
+#: pebble/apps/system/health/sleep_detail_card.c:80
+#: pebble/apps/system/health/sleep_detail_card.c:236
+msgid "SLEEP SESSION"
+msgstr ""
+
+#: pebble/apps/system/health/sleep_detail_card.c:140
+#: pebble/apps/system/health/sleep_detail_card.c:249
+msgid "DEEP SLEEP"
+msgstr ""
+
+#: pebble/apps/system/health/sleep_detail_card.c:143
+#: pebble/apps/system/health/sleep_detail_card.c:186
+msgid "30 DAY"
+msgstr ""
+
+#: pebble/apps/system/health/sleep_summary_card.c:215
+msgid ""
+"No sleep data,\n"
+"wear your watch\n"
+"to sleep"
+msgstr ""
+
+#: pebble/apps/system/health/ui.c:69
+#, c-format
+msgid "TYPICAL %s"
+msgstr ""
+
+#. / Shown when the current temperature is unknown
+#: pebble/apps/system/launcher/default/app_glance_weather.c:118
+msgid "--°"
+msgstr ""
+
+#. / Shown when today's temperature and conditions phrase is known (e.g. "52° - Fair")
+#: pebble/apps/system/launcher/default/app_glance_weather.c:124
+#, c-format
+msgid "%i° - %s"
+msgstr ""
+
+#. / Today's current temperature (e.g. "68°")
+#: pebble/apps/system/launcher/default/app_glance_weather.c:126
+#, c-format
+msgid "%i°"
+msgstr ""
+
+#: pebble/apps/system/music.c:924
+msgid ""
+"START PLAYBACK\n"
+"ON YOUR PHONE"
+msgstr ""
+
+#: pebble/apps/system/music.c:1889
+msgid "Music"
+msgstr ""
+
+#: pebble/apps/system/notifications.c:418
+msgid "Done"
+msgstr ""
+
+#: pebble/apps/system/notifications.c:444
+msgid "Clear history?"
+msgstr ""
+
+#. / Notification sender followed by the number of grouped notifications
+#: pebble/apps/system/notifications.c:713
+#, c-format
+msgid "%s (%u)"
+msgstr ""
+
+#: pebble/apps/system/notifications.c:752
+#: pebble/apps/system/notifications.c:759
+msgid "Clear All"
+msgstr ""
+
+#: pebble/apps/system/notifications.c:1010
+msgid "No notifications"
+msgstr ""
+
+#: pebble/apps/system/notifications.c:1117
+#: pebble/apps/system/settings/notifications.c:493
+#: pebble/apps/system/settings/quiet_time.c:541
+#: pebble/apps/system/settings/quiet_time.c:626
+#: pebble/apps/system/settings/vibe_patterns.c:61
+#: pebble/services/timeline/timeline.c:923
+msgid "Notifications"
+msgstr ""
+
+#: pebble/apps/system/notifications.c:1131
+msgid "Clear Notification History"
+msgstr ""
+
+#. / Quick Launch action that makes the button do nothing at all.
+#: pebble/apps/system/quick_launch_nothing.c:24
+msgid "Nothing"
+msgstr ""
+
+#: pebble/apps/system/reminders/reminder.c:60
+msgid "Completed"
+msgstr ""
+
+#: pebble/apps/system/reminders/reminder.c:64
+msgid "Postpone"
+msgstr ""
+
+#: pebble/apps/system/reminders/reminder.c:68
+#: pebble/services/activity/activity_insights.c:469
+#: pebble/services/timeline/timeline.c:660
+msgid "Remove"
+msgstr ""
+
+#: pebble/apps/system/reminders/reminder.c:118
+msgid "Added"
+msgstr ""
+
+#: pebble/apps/system/reminders/reminder.c:304
+msgid "Reminder"
+msgstr ""
+
+#: pebble/apps/system/send_text/send_text.c:197
+#: pebble/apps/system/settings/health.c:155
+#: pebble/services/phone_call/util.c:17
+msgid "Unknown"
+msgstr ""
+
+#: pebble/apps/system/send_text/send_text.c:256
+#: pebble/apps/system/send_text/send_text.c:340
+msgid "Select Contact"
+msgstr ""
+
+#: pebble/apps/system/send_text/send_text.c:354
+msgid ""
+"Add contacts in\n"
+"mobile app"
+msgstr ""
+
+#: pebble/apps/system/send_text/send_text.c:388
+msgid "Send Text"
+msgstr ""
+
+#: pebble/apps/system/settings/activity_tracker.c:156
+msgid "No background apps"
+msgstr ""
+
+#. / No Notification Window Timeout
+#: pebble/apps/system/settings/activity_tracker.c:164
+#: pebble/apps/system/settings/notifications.c:161
+msgid "None"
+msgstr ""
+
+#: pebble/apps/system/settings/activity_tracker.c:237
+#: pebble/apps/system/settings/activity_tracker.c:254
+msgid "Background App"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:123
+msgid "<Untitled>"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:164
+msgid "Pairing Instructions"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:168
+#, c-format
+msgid "%u Paired Phones"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:169
+#, c-format
+msgid "%u Paired Phone"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:282
+msgid "Connected"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:309
+msgid "Forget this device to pair a new device."
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:312
+msgid "Disable Airplane Mode to connect."
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:314
+msgid "Open the Pebble app on your phone to connect."
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:389
+msgid "Connection"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:393
+msgid "Airplane Mode"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:403
+msgid "Disabling..."
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:404
+msgid "Enabling..."
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.c:546
+msgid "Bluetooth"
+msgstr ""
+
+#: pebble/apps/system/settings/bluetooth.h:31
+msgid ""
+"Remember to also forget your Pebble's Bluetooth connection from your phone."
+msgstr ""
+
+#. / Shows up in the Timeline settings as the status under the "Quick View" toggle.
+#: pebble/apps/system/settings/dark_mode_menu.c:18
+#: pebble/apps/system/settings/display.c:458
+#: pebble/apps/system/settings/display.c:690
+#: pebble/apps/system/settings/display.c:694
+#: pebble/apps/system/settings/health.c:148
+#: pebble/apps/system/settings/health.c:172
+#: pebble/apps/system/settings/health.c:177
+#: pebble/apps/system/settings/notifications.c:380
+#: pebble/apps/system/settings/quiet_time.c:492
+#: pebble/apps/system/settings/quiet_time.c:531
+#: pebble/apps/system/settings/quiet_time.c:537
+#: pebble/apps/system/settings/quiet_time.c:543
+#: pebble/apps/system/settings/quiet_time.c:611
+#: pebble/apps/system/settings/quiet_time.c:616
+#: pebble/apps/system/settings/quiet_time.c:636
+#: pebble/apps/system/settings/system.c:1333
+#: pebble/apps/system/settings/timeline.c:193
+#: pebble/apps/system/settings/vibe_patterns.c:91
+msgid "Off"
+msgstr ""
+
+#: pebble/apps/system/settings/dark_mode_menu.c:19
+#: pebble/apps/system/settings/display.c:458
+#: pebble/apps/system/settings/display.c:690
+#: pebble/apps/system/settings/display.c:694
+#: pebble/apps/system/settings/health.c:148
+#: pebble/apps/system/settings/health.c:171
+#: pebble/apps/system/settings/health.c:177
+#: pebble/apps/system/settings/notifications.c:379
+#: pebble/apps/system/settings/quiet_time.c:530
+#: pebble/apps/system/settings/quiet_time.c:537
+#: pebble/apps/system/settings/quiet_time.c:542
+#: pebble/apps/system/settings/quiet_time.c:610
+#: pebble/apps/system/settings/quiet_time.c:615
+#: pebble/apps/system/settings/quiet_time.c:635
+#: pebble/apps/system/settings/system.c:1333
+#: pebble/apps/system/settings/timeline.c:190
+#: pebble/apps/system/settings/vibe_patterns.c:91
+msgid "On"
+msgstr ""
+
+#: pebble/apps/system/settings/dark_mode_menu.c:20
+#: pebble/apps/system/settings/quiet_time.c:485
+#: pebble/apps/system/settings/quiet_time.c:619
+msgid "Schedule"
+msgstr ""
+
+#: pebble/apps/system/settings/dark_mode_menu.c:77
+msgid "DARK MODE"
+msgstr ""
+
+#: pebble/apps/system/settings/dark_mode_menu.c:77
+#: pebble/apps/system/settings/themes.c:158
+msgid "Dark Mode"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:87
+#: pebble/apps/system/settings/display.c:712
+#: pebble/apps/system/settings/system.c:213
+msgid "Language"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:96
+#: pebble/apps/system/settings/notifications.c:108
+msgid "Smaller"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:97
+#: pebble/apps/system/settings/notifications.c:109
+msgctxt "TextSize"
+msgid "Default"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:98
+#: pebble/apps/system/settings/notifications.c:110
+msgid "Larger"
+msgstr ""
+
+#. / The option in the Settings app for choosing the text size of the system UI.
+#. / String within Settings->Display that describes the text font size
+#. / The option in the Settings app for choosing the text size of notifications.
+#. / String within Settings->Notifications that describes the text font size
+#: pebble/apps/system/settings/display.c:111
+#: pebble/apps/system/settings/display.c:705
+#: pebble/apps/system/settings/notifications.c:134
+#: pebble/apps/system/settings/notifications.c:353
+msgid "Text Size"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:125
+#: pebble/apps/system/settings/system.c:444
+msgid "Low"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:125
+#: pebble/apps/system/settings/system.c:445
+msgid "Medium"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:125
+#: pebble/apps/system/settings/system.c:445
+msgid "High"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:125
+msgid "Blinding"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:157
+msgid "INTENSITY"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:157
+#: pebble/apps/system/settings/display.c:486
+#: pebble/apps/system/settings/display.c:488
+msgid "Intensity"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:167
+msgctxt "Orientation"
+msgid "Default"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:168
+msgid "Left-Handed"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:193
+#: pebble/apps/system/settings/display.c:699
+msgid "Orientation"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:206
+msgid "3 Seconds"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:206
+msgid "5 Seconds"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:206
+msgid "8 Seconds"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:229
+msgid "TIMEOUT"
+msgstr ""
+
+#. / Status bar title for the Notification Window Timeout settings screen
+#. / String within Settings->Notifications that describes the window timeout setting
+#: pebble/apps/system/settings/display.c:229
+#: pebble/apps/system/settings/display.c:493
+#: pebble/apps/system/settings/notifications.c:193
+#: pebble/apps/system/settings/notifications.c:358
+msgid "Timeout"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:239 pebble/services/vibes/vibes.def:19
+msgid "Double Tap"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:240
+msgid "Tap"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:241
+msgctxt "TouchWake"
+msgid "Off"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:255
+msgid "WAKE ON TOUCH"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:255
+#: pebble/apps/system/settings/display.c:462
+msgid "Wake on touch"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:266
+msgctxt "DynBacklight"
+msgid "Off"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:267
+msgid "Bright"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:268
+#: pebble/apps/system/settings/display.c:294
+msgid "Standard"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:269
+msgid "Dim"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:283
+msgid "DYNAMIC BACKLIGHT"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:283
+#: pebble/apps/system/settings/display.c:479
+msgid "Dynamic Backlight"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:293
+msgid "Max Brightness"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:295
+msgid "Battery Saver"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:296
+msgid "Advanced"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:316
+msgid "BACKLIGHT"
+msgstr ""
+
+#. / String within Settings->Notifications that describes backlight setting
+#: pebble/apps/system/settings/display.c:316
+#: pebble/apps/system/settings/display.c:438
+#: pebble/apps/system/settings/display.c:680
+#: pebble/apps/system/settings/notifications.c:378
+#: pebble/apps/system/settings/quiet_time.c:587
+#: pebble/apps/system/settings/quiet_time.c:630
+msgid "Backlight"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:326
+msgid "Centered"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:326
+msgid "Scaled (Nearest)"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:326
+msgid "Scaled (Bilinear)"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:339
+msgid "Legacy App Display"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:444
+#, c-format
+msgid "On - %d%%"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:447
+#: pebble/apps/system/settings/display.c:450
+msgctxt "DeviceState"
+msgid "On"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:453
+#: pebble/apps/system/settings/display.c:474
+#: pebble/apps/system/settings/display.c:682
+msgctxt "DeviceState"
+msgid "Off"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:457
+msgid "Wake on motion"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:467
+msgid "Ambient Sensor"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:471
+#, c-format
+msgid "On (%d)"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:485
+msgid "Max Intensity"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:575
+#: pebble/apps/system/settings/display.c:685
+msgid "Backlight Settings"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:689
+#: pebble/apps/system/settings/quiet_time.c:535
+msgid "Touch"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:693
+msgid "Touch Navigation"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:717
+msgid "Legacy Apps"
+msgstr ""
+
+#: pebble/apps/system/settings/display.c:760
+msgid "Display"
+msgstr ""
+
+#: pebble/apps/system/settings/factory_reset.c:106
+msgid "Perform factory reset?"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:24
+msgid "Kilometers"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:25
+msgid "Miles"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:35
+msgid "5 Minutes"
+msgstr ""
+
+#. / 10 Minute Notification Window Timeout
+#: pebble/apps/system/settings/health.c:35
+#: pebble/apps/system/settings/health.c:56
+#: pebble/apps/system/settings/notifications.c:159
+msgid "10 Minutes"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:35
+#: pebble/apps/system/settings/health.c:57
+msgid "30 Minutes"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:36
+#: pebble/apps/system/settings/health.c:58
+msgid "1 Hour"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:36
+#: pebble/apps/system/settings/health.c:59
+#: pebble/apps/system/settings/system.c:555
+#: pebble/apps/system/settings/system.c:571
+#: pebble/apps/system/settings/system.c:574
+msgid "Disabled"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:100
+#: pebble/apps/system/settings/health.c:163
+msgid "HR Monitoring"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:121
+#: pebble/apps/system/settings/health.c:181
+msgid "SpO2 Monitoring"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:147
+msgid "Health Tracking"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:152
+msgid "Distance Unit"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:170
+msgid "HR During Activity"
+msgstr ""
+
+#: pebble/apps/system/settings/health.c:176
+msgid "SpO2"
+msgstr ""
+
+#: pebble/apps/system/settings/notifications.c:61
+msgid "Allow All Notifications"
+msgstr ""
+
+#: pebble/apps/system/settings/notifications.c:62
+msgid "Allow Phone Calls Only"
+msgstr ""
+
+#: pebble/apps/system/settings/notifications.c:63
+msgid "Mute All Notifications"
+msgstr ""
+
+#. / The option in the Settings app for filtering notifications by type.
+#: pebble/apps/system/settings/notifications.c:94
+#: pebble/apps/system/settings/notifications.c:348
+msgid "Filter"
+msgstr ""
+
+#. / Notification text size option that follows the system Text Size setting
+#: pebble/apps/system/settings/notifications.c:112
+msgid "Same as System"
+msgstr ""
+
+#. / 15 Second Notification Window Timeout
+#: pebble/apps/system/settings/notifications.c:151
+msgid "15 Seconds"
+msgstr ""
+
+#. / 30 Second Notification Window Timeout
+#: pebble/apps/system/settings/notifications.c:153
+msgid "30 Seconds"
+msgstr ""
+
+#. / 1 Minute Notification Window Timeout
+#: pebble/apps/system/settings/notifications.c:155
+msgid "1 Minute"
+msgstr ""
+
+#. / 3 Minute Notification Window Timeout
+#: pebble/apps/system/settings/notifications.c:157
+msgid "3 Minutes"
+msgstr ""
+
+#. / Standard notification design option (default)
+#: pebble/apps/system/settings/notifications.c:205
+msgid "Classic"
+msgstr ""
+
+#. / Alternative notification design option
+#: pebble/apps/system/settings/notifications.c:207
+msgid "Flat Black"
+msgstr ""
+
+#. / Status bar title for the Notification Design Style settings screen
+#. / String within Settings->Notifications that describes the notification design style
+#: pebble/apps/system/settings/notifications.c:225
+#: pebble/apps/system/settings/notifications.c:365
+msgid "Banner Style"
+msgstr ""
+
+#. / Vibrate at the beginning of notification animation (immediate)
+#: pebble/apps/system/settings/notifications.c:237
+msgid "Beginning"
+msgstr ""
+
+#. / Status bar title for the Notification Vibe Timing settings screen
+#. / String within Settings->Notifications that describes when vibration happens
+#: pebble/apps/system/settings/notifications.c:257
+#: pebble/apps/system/settings/notifications.c:372
+msgid "Vibe Timing"
+msgstr ""
+
+#: pebble/apps/system/settings/notifications.c:267
+msgctxt "StatusBar"
+msgid "Default"
+msgstr ""
+
+#: pebble/apps/system/settings/notifications.c:268
+msgid "Bold"
+msgstr ""
+
+#: pebble/apps/system/settings/notifications.c:269
+msgid "Big & Bold"
+msgstr ""
+
+#. / Status bar title for the Notification Status Bar Style settings screen
+#: pebble/apps/system/settings/notifications.c:291
+msgid "Clock Style"
+msgstr ""
+
+#. / Disable notification grouping
+#: pebble/apps/system/settings/notifications.c:302
+msgid "Never"
+msgstr ""
+
+#. / Group notifications received within one day
+#: pebble/apps/system/settings/notifications.c:304
+msgid "1 Day"
+msgstr ""
+
+#. / Group notifications received within one week
+#: pebble/apps/system/settings/notifications.c:306
+msgid "1 Week"
+msgstr ""
+
+#. / Group all notifications
+#: pebble/apps/system/settings/notifications.c:308
+msgid "All"
+msgstr ""
+
+#. / Title for the notification sender grouping settings screen
+#. / Notification settings item for grouping notifications by sender
+#: pebble/apps/system/settings/notifications.c:326
+#: pebble/apps/system/settings/notifications.c:385
+msgid "Group by Sender"
+msgstr ""
+
+#. / String within Settings->Notifications that selects the notification status bar style
+#: pebble/apps/system/settings/notifications.c:392
+msgid "Status Bar"
+msgstr ""
+
+#. / Shown in Quick Launch Settings as the title of the tap up button option.
+#: pebble/apps/system/settings/quick_launch.c:58
+msgid "Tap Up"
+msgstr ""
+
+#. / Shown in Quick Launch Settings as the title of the tap down button option.
+#: pebble/apps/system/settings/quick_launch.c:60
+msgid "Tap Down"
+msgstr ""
+
+#. / Shown in Quick Launch Settings as the title of the hold up button quick launch option.
+#: pebble/apps/system/settings/quick_launch.c:62
+msgid "Hold Up"
+msgstr ""
+
+#. / Shown in Quick Launch Settings as the title of the hold center button quick launch option.
+#: pebble/apps/system/settings/quick_launch.c:64
+msgid "Hold Center"
+msgstr ""
+
+#. / Shown in Quick Launch Settings as the title of the hold down button quick launch option.
+#: pebble/apps/system/settings/quick_launch.c:66
+msgid "Hold Down"
+msgstr ""
+
+#. / Shown in Quick Launch Settings as the title of the hold back button quick launch option.
+#: pebble/apps/system/settings/quick_launch.c:68
+msgid "Hold Back"
+msgstr ""
+
+#. / Shown in Quick Launch Settings as the title of the list of actions.
+#. / Title of the Quick Launch menu listing the available actions.
+#: pebble/apps/system/settings/quick_launch.c:73
+#: pebble/apps/system/settings/quick_launch_app_menu.c:37
+msgid "Actions"
+msgstr ""
+
+#. / Shown in Quick Launch Settings as the title of the list of apps.
+#. / Title of the Quick Launch menu listing the installed apps.
+#: pebble/apps/system/settings/quick_launch.c:75
+#: pebble/apps/system/settings/quick_launch_app_menu.c:39
+msgid "Apps"
+msgstr ""
+
+#. / Shown in Quick Launch Settings when no action or app is bound to the button.
+#: pebble/apps/system/settings/quick_launch.c:82
+#: pebble/apps/system/settings/quick_launch_app_menu.c:111
+msgid "Unassigned"
+msgstr ""
+
+#. / Title of the Quick Launch Settings submenu in Settings
+#. / Title for the Quick Launch first use dialog.
+#: pebble/apps/system/settings/quick_launch.c:176
+#: pebble/apps/system/settings/quick_launch.c:250
+#: pebble/apps/system/settings/quick_launch_setup_menu.c:46
+msgid "Quick Launch"
+msgstr ""
+
+#: pebble/apps/system/settings/quick_launch_setup_menu.c:49
+msgid ""
+"Open favorite apps quickly with a long button press from your watchface."
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:106
+msgid "Quiet All Notifications"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:109
+msgid "Allow Phone Calls"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:327
+msgid "Change Schedule"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:495
+msgid "On - Auto Dismiss"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:497
+msgid "On - Persistent"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:529
+msgid "Motion"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:609
+#: pebble/apps/system/settings/time.c:362
+#: pebble/apps/system/settings/time.c:389
+msgid "Manual"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:614
+msgid "Calendar Aware"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:622
+msgid "Interruptions"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:634
+#: pebble/apps/system/settings/vibe_patterns.c:89
+msgid "Mute Speaker"
+msgstr ""
+
+#: pebble/apps/system/settings/quiet_time.c:695
+msgid "Quiet Time"
+msgstr ""
+
+#: pebble/apps/system/settings/remote.c:50
+msgid "You're all set"
+msgstr ""
+
+#: pebble/apps/system/settings/remote.c:101
+msgid "Forget"
+msgstr ""
+
+#: pebble/apps/system/settings/settings.c:225
+msgid "Settings"
+msgstr ""
+
+#: pebble/apps/system/settings/speaker_volume_window.c:56
+#: pebble/apps/system/settings/vibe_patterns.c:97
+msgid "Volume"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:165
+#: pebble/apps/system/settings/system.c:260
+msgid "Information"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:166
+#: pebble/apps/system/settings/system.c:1001
+msgid "Certification"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:167
+msgid "Stand-By Mode"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:168
+#: pebble/apps/system/settings/system.c:643
+msgid "Debugging"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:169
+msgid "Shut Down"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:170
+msgid "Factory Reset"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:211
+msgid "BT Address"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:212
+msgid "Firmware"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:214
+msgid "Recovery"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:215
+msgid "Bootloader"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:216
+msgid "Hardware"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:217
+msgid "Serial"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:218
+msgid "Uptime"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:219
+msgid "Legal"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:356
+msgid "Core dump and reboot?"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:444
+msgid "Very Low"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:444
+msgid "Medium-Low"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:445
+msgid "Medium-High"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:446
+msgid "Very High"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:472
+#: pebble/apps/system/settings/system.c:526
+msgid "Motion Sensitivity"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:484
+msgid "Kraepelin"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:485
+msgid "van Hees"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:500
+#: pebble/apps/system/settings/system.c:530
+msgid "Sleep Algorithm"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:522
+msgid "CoreDump now"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:523
+msgid "CoreDump shortcut"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:524
+msgid "ALS Threshold"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:528
+msgid "Shake Log Info"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:529
+msgid "Vibe Log Info"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:531
+msgid "Compact Settings DBs"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:533
+msgid "SpO2 Test"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:554
+msgid "10 back-button presses"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:570
+#: pebble/apps/system/settings/system.c:573
+msgid "Enabled"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:718
+msgid "PebbleOS developers only!"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:965
+msgid "See details..."
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1023
+msgid "Company"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1031
+msgid "Product Model"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1038
+msgid "Product Type"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1045
+msgid "Trademark"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1052
+msgid "Place of Origin"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1059
+msgid "DC Input"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1066
+msgid "Rated Voltage"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1073
+msgid "Milliampere-hour"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1080
+msgid "Watt-hour"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1094
+msgid "Canada IC"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1101
+msgid "Canada ISED"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1115
+#: pebble/apps/system/settings/system.c:1223
+msgid "South Korea KCC"
+msgstr ""
+
+#: pebble/apps/system/settings/system.c:1313
+msgid "Do you want to shut down?"
+msgstr ""
+
+#. / Refers to the class of all non-score vibes, e.g. 3rd party app vibes
+#: pebble/apps/system/settings/system.c:1400
+#: pebble/apps/system/settings/vibe_patterns.c:72
+msgid "System"
+msgstr ""
+
+#: pebble/apps/system/settings/themes.c:108
+#: pebble/apps/system/settings/themes.c:167
+msgid "Accent Color"
+msgstr ""
+
+#: pebble/apps/system/settings/themes.c:161
+msgid "Schedule Time"
+msgstr ""
+
+#. / Title of the Themes Settings submenu in Settings
+#: pebble/apps/system/settings/themes.c:209
+msgid "Themes"
+msgstr ""
+
+#. / Title of the menu for changing the watch's timezone.
+#: pebble/apps/system/settings/time.c:162
+#: pebble/apps/system/settings/time.c:402
+msgid "Timezone"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:262
+#: pebble/apps/system/settings/time.c:366
+msgid "Set Time"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:301
+#: pebble/apps/system/settings/time.c:374
+msgid "Set Date"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:360
+msgid "Time Source"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:362
+#: pebble/apps/system/settings/time.c:393
+#: pebble/apps/system/settings/time.c:397
+msgid "Automatic"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:382
+msgid "Time Format"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:383
+msgid "24h"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:383
+msgid "12h"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:387
+msgid "Timezone Source"
+msgstr ""
+
+#: pebble/apps/system/settings/time.c:448
+msgid "Date & Time"
+msgstr ""
+
+#. / Shows up in the Timeline settings as a "Timing" subtitle and submenu option.
+#: pebble/apps/system/settings/timeline.c:71
+msgid "Start Time"
+msgstr ""
+
+#. / Shows up in the Timeline settings as a "Timing" subtitle and submenu option.
+#: pebble/apps/system/settings/timeline.c:73
+msgid "5 Min Before"
+msgstr ""
+
+#. / Shows up in the Timeline settings as a "Timing" subtitle and submenu option.
+#: pebble/apps/system/settings/timeline.c:75
+msgid "10 Min Before"
+msgstr ""
+
+#. / Shows up in the Timeline settings as a "Timing" subtitle and submenu option.
+#: pebble/apps/system/settings/timeline.c:77
+msgid "15 Min Before"
+msgstr ""
+
+#. / Shows up in the Timeline settings as a "Timing" subtitle and submenu option.
+#: pebble/apps/system/settings/timeline.c:79
+msgid "30 Min Before"
+msgstr ""
+
+#. / Shows up in the Timeline settings as an "Unsupported Faces" submenu option.
+#: pebble/apps/system/settings/timeline.c:89
+msgid "Overlay"
+msgstr ""
+
+#. / Shows up in the Timeline settings as an "Unsupported Faces" submenu option.
+#: pebble/apps/system/settings/timeline.c:91
+msgid "Shift up"
+msgstr ""
+
+#. / Shows up in the Timeline settings as an "Unsupported Faces" submenu option.
+#: pebble/apps/system/settings/timeline.c:93
+msgid "Squish up"
+msgstr ""
+
+#. / Shows up in the Timeline settings as the title for the "Timing" submenu window.
+#. / Shows up in the Timeline settings as the title for the menu item that controls the
+#. / timing for when to begin showing the peek for an event.
+#: pebble/apps/system/settings/timeline.c:126
+#: pebble/apps/system/settings/timeline.c:198
+msgid "Timing"
+msgstr ""
+
+#. / Shows up in the Timeline settings as the title for unsupported watchface behavior.
+#. / Shows up in the Timeline settings for watchfaces that do not support Quick View.
+#: pebble/apps/system/settings/timeline.c:155
+#: pebble/apps/system/settings/timeline.c:205
+msgid "Unsupported Faces"
+msgstr ""
+
+#. / Shows up in the Timeline settings as a toggle-able "Quick View" item.
+#. / Title for the Timeline Quick View first use dialog.
+#: pebble/apps/system/settings/timeline.c:186
+#: pebble/apps/system/settings/timeline.c:268
+msgid "Quick View"
+msgstr ""
+
+#: pebble/apps/system/settings/timeline.c:271
+msgid "Appears on your watchface when an event is about to start."
+msgstr ""
+
+#: pebble/apps/system/settings/timeline.c:297
+#: pebble/apps/system/timeline/timeline.c:1315
+msgid "Timeline"
+msgstr ""
+
+#: pebble/apps/system/settings/vibe_patterns.c:63
+msgid "Incoming Calls"
+msgstr ""
+
+#: pebble/apps/system/settings/vibe_patterns.c:67
+msgid "Hourly Notice"
+msgstr ""
+
+#: pebble/apps/system/settings/vibe_patterns.c:69
+msgid "On Disconnect"
+msgstr ""
+
+#: pebble/apps/system/settings/vibe_patterns.c:406
+msgid "Sounds & Haptics"
+msgstr ""
+
+#: pebble/apps/system/settings/vibe_patterns.c:408
+msgid "Vibrations"
+msgstr ""
+
+#: pebble/apps/system/timeline/timeline.c:911
+msgid "No events"
+msgstr ""
+
+#: pebble/apps/system/timeline/timeline.c:1287
+msgid "Timeline Future"
+msgstr ""
+
+#. / The title of Timeline Past in Quick Launch. If the translation is too long, cut out
+#. / Timeline and only translate "Past".
+#: pebble/apps/system/timeline/timeline.c:1302
+msgid "Timeline Past"
+msgstr ""
+
+#: pebble/apps/system/toggle/airplane_mode.c:26
+msgid "Turn On Airplane Mode?"
+msgstr ""
+
+#: pebble/apps/system/toggle/airplane_mode.c:27
+msgid "Turn Off Airplane Mode?"
+msgstr ""
+
+#: pebble/apps/system/toggle/airplane_mode.c:28
+msgid ""
+"Airplane\n"
+"Mode On"
+msgstr ""
+
+#: pebble/apps/system/toggle/airplane_mode.c:29
+msgid ""
+"Airplane\n"
+"Mode Off"
+msgstr ""
+
+#. / The Quick Launch action that toggles Airplane Mode.
+#: pebble/apps/system/toggle/airplane_mode.c:53
+msgid "Toggle Airplane Mode"
+msgstr ""
+
+#: pebble/apps/system/toggle/backlight_state.c:27
+msgid "Turn On Backlight?"
+msgstr ""
+
+#: pebble/apps/system/toggle/backlight_state.c:28
+msgid "Turn Off Backlight?"
+msgstr ""
+
+#: pebble/apps/system/toggle/backlight_state.c:29
+msgid "Backlight On"
+msgstr ""
+
+#: pebble/apps/system/toggle/backlight_state.c:30
+msgid "Backlight Off"
+msgstr ""
+
+#. / The Quick Launch action that toggles the backlight.
+#: pebble/apps/system/toggle/backlight_state.c:54
+msgid "Toggle Backlight"
+msgstr ""
+
+#: pebble/apps/system/toggle/motion_backlight.c:24
+msgid "Turn On Motion Backlight?"
+msgstr ""
+
+#: pebble/apps/system/toggle/motion_backlight.c:25
+msgid "Turn Off Motion Backlight?"
+msgstr ""
+
+#: pebble/apps/system/toggle/motion_backlight.c:26
+msgid ""
+"Motion\n"
+"Backlight On"
+msgstr ""
+
+#: pebble/apps/system/toggle/motion_backlight.c:27
+msgid ""
+"Motion\n"
+"Backlight Off"
+msgstr ""
+
+#. / The Quick Launch action that toggles the motion backlight.
+#: pebble/apps/system/toggle/motion_backlight.c:51
+msgid "Toggle Motion Backlight"
+msgstr ""
+
+#. / The Quick Launch action that toggles Quiet Time.
+#: pebble/apps/system/toggle/quiet_time.c:26
+msgid "Toggle Quiet Time"
+msgstr ""
+
+#: pebble/apps/system/toggle/touch.c:24
+msgid "Turn On Touch?"
+msgstr ""
+
+#: pebble/apps/system/toggle/touch.c:25
+msgid "Turn Off Touch?"
+msgstr ""
+
+#: pebble/apps/system/toggle/touch.c:26
+msgid "Touch On"
+msgstr ""
+
+#: pebble/apps/system/toggle/touch.c:27
+msgid "Touch Off"
+msgstr ""
+
+#. / The Quick Launch action that turns the touchscreen on or off.
+#: pebble/apps/system/toggle/touch.c:51
+msgid "Toggle Touch"
+msgstr ""
+
+#: pebble/apps/system/watchfaces.c:101
+msgid "Active"
+msgstr ""
+
+#: pebble/apps/system/watchfaces.c:222
+msgid "Watchfaces"
+msgstr ""
+
+#: pebble/apps/system/weather/expanded_view.c:153
+msgid "Sunset at --:--"
+msgstr ""
+
+#: pebble/apps/system/weather/expanded_view.c:156
+#, c-format
+msgid "Sunset at %s"
+msgstr ""
+
+#. / When the evening golden hour starts, unknown
+#: pebble/apps/system/weather/expanded_view.c:164
+msgid "Golden hour: --:--"
+msgstr ""
+
+#. / When the evening golden hour starts ("Golden hour: 5:41 PM")
+#: pebble/apps/system/weather/expanded_view.c:168
+#, c-format
+msgid "Golden hour: %s"
+msgstr ""
+
+#. / The feels-like temperature when it is unknown
+#: pebble/apps/system/weather/expanded_view.c:185
+msgid "Feels like --"
+msgstr ""
+
+#. / The feels-like temperature, a label of its own: no full stop
+#: pebble/apps/system/weather/expanded_view.c:190
+#, c-format
+msgid "Feels like %d°"
+msgstr ""
+
+#: pebble/apps/system/weather/expanded_view.c:218
+msgid "Last updated --:--"
+msgstr ""
+
+#: pebble/apps/system/weather/expanded_view.c:221
+#, c-format
+msgid "Last updated %s"
+msgstr ""
+
+#. / Label of the sunset's time, in a narrow row with the time: keep it short
+#: pebble/apps/system/weather/expanded_view.c:232
+msgctxt "SunsetCard"
+msgid "Sunset"
+msgstr ""
+
+#. / Label of the time the evening golden hour starts
+#: pebble/apps/system/weather/expanded_view.c:236
+msgid "Golden hour"
+msgstr ""
+
+#. / "Golden hour" abbreviated, for where the full label does not fit
+#: pebble/apps/system/weather/expanded_view.c:238
+msgid "Golden hr"
+msgstr ""
+
+#: pebble/apps/system/weather/expanded_view.c:872
+#: pebble/apps/system/weather/globe_view.c:3730
+#: pebble/apps/system/weather/globe_view.c:3762
+msgid "SAVED LOCATIONS"
+msgstr ""
+
+#: pebble/apps/system/weather/expanded_view.c:882
+#: pebble/apps/system/weather/globe_view.c:3662
+#: pebble/apps/system/weather/globe_view.c:3669
+msgid "CITY SELECT"
+msgstr ""
+
+#: pebble/apps/system/weather/forecast_list.c:1254
+msgid "WEATHER REPORT"
+msgstr ""
+
+#. / row at 164: with the deeper section lift (EXTRA_LIFT 19) the
+#. scrolled column's gaps from disc to graph and from graph to pill are equal (the graph
+#. centres itself in its band, so they stay equal for any temperature spread).
+#: pebble/apps/system/weather/forecast_list.c:1562
+msgid "PRECIPITATION"
+msgstr ""
+
+#: pebble/apps/system/weather/forecast_list.c:2181
+#, no-c-format
+msgid "%a, %b %d"
+msgstr ""
+
+#: pebble/apps/system/weather/globe_view.c:2389
+msgid "Saved Location"
+msgstr ""
+
+#: pebble/apps/system/weather/globe_view.c:2393
+#: pebble/apps/system/weather/globe_view.c:4270
+#: pebble/apps/system/weather/globe_view.c:4323
+#: pebble/apps/system/weather/saved_locations.c:170
+msgid "Current Location"
+msgstr ""
+
+#: pebble/apps/system/weather/saved_locations.c:168
+msgid "Location"
+msgstr ""
+
+#: pebble/apps/system/weather/saved_locations.c:254
+msgid "No Locations"
+msgstr ""
+
+#: pebble/apps/system/weather/saved_locations.c:255
+msgid "Add them in the app"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:110
+#: pebble/services/weather/weather_types.c:51
+msgid "Sunny"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:112
+#: pebble/services/weather/weather_types.c:53
+msgid "Partly Cloudy"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:114
+#: pebble/services/weather/weather_types.c:55
+msgid "Cloudy"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:116
+#: pebble/services/weather/weather_types.c:57
+msgid "Light Rain"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:118
+#: pebble/services/weather/weather_types.c:59
+msgid "Rain"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:120
+#: pebble/services/weather/weather_types.c:61
+msgid "Light Snow"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:122
+#: pebble/services/weather/weather_types.c:63
+msgid "Snow"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:124
+#: pebble/services/weather/weather_types.c:65
+msgid "Rain & Snow"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:136
+msgid "Clear"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:159 pebble/services/clock/service.c:786
+#: pebble/services/timeline/timeline_actions.c:1045
+msgid "Tomorrow"
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:408
+msgid ""
+"No location information available. To see weather, add locations in your "
+"Pebble mobile app."
+msgstr ""
+
+#: pebble/apps/system/weather/weather.c:857
+#: pebble/services/timeline/timeline.c:931
+msgid "Weather"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:432
+msgid "Snow likely."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:434
+msgid "Sleet likely."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:436
+msgid "Rain likely."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:444
+msgid "Chance of snow."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:446
+msgid "Chance of sleet."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:448
+msgid "Chance of rain."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:491
+msgid "Hail."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:493
+msgid "Chance of storms."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:495
+msgid "Heavy snow."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:497
+msgid "Heavy rain."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:499
+msgid "Wintry mix."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:501
+msgid "Flood risk."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:503
+msgid "Strong winds."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:506
+msgid "Below freezing."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:508
+msgid "Hard frost."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:511
+msgid "Feels freezing."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:511
+msgid "Feels below freezing."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:513
+msgid "Heatwave."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:515
+msgid "Very high UV."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:517
+msgid "High UV."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:520
+msgid "Poor visibility."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:522
+msgid "High humidity."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:528
+msgid "Windy."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:537
+msgid "Clear skies."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:539
+msgid "Light winds."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:542
+msgid "Calm breeze."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:545
+msgid "Fair conditions."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:547
+msgid "Mild conditions."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:549
+msgid "All clear."
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:559
+msgid "N"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:559
+msgid "NE"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:559
+msgid "E"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:559
+msgid "SE"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:560
+msgid "S"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:560
+msgid "SW"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:560
+msgid "W"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:560
+msgid "NW"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:572
+msgid "mph"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:576
+msgid "m/s"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:580
+msgid "kt"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:584
+msgid "km/h"
+msgstr ""
+
+#. / Wind after a warning about wind: direction, speed, unit ("Light winds. SW 12mph.")
+#: pebble/apps/system/weather/weather_app_layout.c:605
+#, c-format
+msgid "%s %d%s."
+msgstr ""
+
+#. / Wind: direction, speed, unit ("Winds SW 12mph.")
+#: pebble/apps/system/weather/weather_app_layout.c:608
+#, c-format
+msgid "Winds %s %d%s."
+msgstr ""
+
+#. / Wind after a warning about wind, no direction: speed, unit ("Light winds. 12mph.")
+#: pebble/apps/system/weather/weather_app_layout.c:615
+#, c-format
+msgid "%d%s."
+msgstr ""
+
+#. / Wind, no direction: speed, unit ("Winds 12mph.")
+#: pebble/apps/system/weather/weather_app_layout.c:618
+#, c-format
+msgid "Winds %d%s."
+msgstr ""
+
+#. / Chance of precipitation, abbreviated. It ends the description, so no full stop.
+#: pebble/apps/system/weather/weather_app_layout.c:644
+#, c-format
+msgid "Precip. %d%%"
+msgstr ""
+
+#. / Chance of precipitation. It ends the description, so no full stop.
+#: pebble/apps/system/weather/weather_app_layout.c:647
+#, c-format
+msgid "Precipitation %d%%"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:706
+#, c-format
+msgid "Precipitation %d%%."
+msgstr ""
+
+#. / The UV index when it is unknown
+#: pebble/apps/system/weather/weather_app_layout.c:728
+msgid "UV --"
+msgstr ""
+
+#. / The UV index and its value
+#: pebble/apps/system/weather/weather_app_layout.c:733
+#, c-format
+msgid "UV %d"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:952
+#: pebble/apps/system/weather/weather_app_layout.c:1435
+msgid "TODAY"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:990
+#: pebble/apps/system/weather/weather_app_layout.c:1547
+msgid "TOMORROW"
+msgstr ""
+
+#: pebble/apps/system/weather/weather_app_layout.c:1102
+#: pebble/apps/system/weather/weather_app_layout.c:1240
+#: pebble/apps/system/weather/weather_app_layout.c:1365
+msgid "UV INDEX"
+msgstr ""
+
+#. / Zone 1 HR Label
+#: pebble/apps/system/workout/active.c:137
+msgid "FAT BURN"
+msgstr ""
+
+#. / Zone 2 HR Label
+#: pebble/apps/system/workout/active.c:140
+msgid "ENDURANCE"
+msgstr ""
+
+#. / Zone 3 HR Label
+#: pebble/apps/system/workout/active.c:143
+msgid "PERFORMANCE"
+msgstr ""
+
+#. / Default/Zone 0 HR Label
+#: pebble/apps/system/workout/active.c:146
+msgid "HEART RATE"
+msgstr ""
+
+#. / Duration Label
+#: pebble/apps/system/workout/active.c:163
+msgid "DURATION"
+msgstr ""
+
+#. / Average Pace Label
+#: pebble/apps/system/workout/active.c:167
+msgid "AVG PACE"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:171
+msgid "AVG PACE (/MI)"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:171
+msgid "AVG PACE (/KM)"
+msgstr ""
+
+#. / Pace Label
+#: pebble/apps/system/workout/active.c:176
+msgid "PACE"
+msgstr ""
+
+#. / Pace Label with units
+#: pebble/apps/system/workout/active.c:179
+msgid "PACE (/MI)"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:180
+msgid "PACE (/KM)"
+msgstr ""
+
+#. / Speed Label
+#: pebble/apps/system/workout/active.c:185
+msgid "SPEED"
+msgstr ""
+
+#. / Speed Label with units
+#: pebble/apps/system/workout/active.c:188
+msgid "SPEED (MPH)"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:189
+msgid "SPEED (KM/H)"
+msgstr ""
+
+#. / Distance Label with units
+#: pebble/apps/system/workout/active.c:197
+msgid "DISTANCE (MI)"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:198
+msgid "DISTANCE (KM)"
+msgstr ""
+
+#. / Steps Label
+#: pebble/apps/system/workout/active.c:202
+#: pebble/apps/system/workout/active.c:1186
+#: pebble/apps/system/workout/active.c:1204
+#: pebble/apps/system/workout/active.c:1229
+msgid "STEPS"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:307
+#: pebble/apps/system/workout/active.c:364
+msgid "MI"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:307
+#: pebble/apps/system/workout/active.c:364
+msgid "KM"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:383
+msgid "MPH"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:383
+msgid "KM/H"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1054
+msgid "COMPLETE"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1057
+msgid "END WORKOUT?"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1061
+msgid "PAUSED"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1115
+msgid "AVG"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1118
+#: pebble/apps/system/workout/active.c:1270
+#, c-format
+msgid "Z%d"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1174
+#: pebble/apps/system/workout/active.c:1220
+#: pebble/apps/system/workout/active.c:1465
+msgid "TOTAL TIME"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1174
+#: pebble/apps/system/workout/active.c:1220
+msgid "TIMER"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1181
+msgid "DIST MI"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1182
+msgid "DIST KM"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1183
+#: pebble/apps/system/workout/active.c:1216
+msgid "PACE /MI"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1184
+#: pebble/apps/system/workout/active.c:1217
+msgid "PACE /KM"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1188
+#: pebble/apps/system/workout/active.c:1205
+#: pebble/apps/system/workout/active.c:1230
+#: pebble/apps/system/workout/active.c:1467
+msgid "KCAL"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1203
+#: pebble/apps/system/workout/active.c:1228
+msgid "CADENCE"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1214
+msgid "SPEED MPH"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1215
+msgid "SPEED KM/H"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1223
+#: pebble/apps/system/workout/active.c:1426
+#: pebble/apps/system/workout/active.c:1466
+msgid "AVG BPM"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1247
+msgid "TIME IN ZONE"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1395
+msgid "LAST MINUTE"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1398
+msgid "WAITING FOR HR"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1423
+#, c-format
+msgid "ZONE %d"
+msgstr ""
+
+#: pebble/apps/system/workout/active.c:1426
+msgid "MEASURING"
+msgstr ""
+
+#: pebble/apps/system/workout/countdown.c:85
+#: pebble/apps/system/workout/summary.c:61
+msgid "WORKOUT"
+msgstr ""
+
+#: pebble/apps/system/workout/countdown.c:107
+msgid "GO!"
+msgstr ""
+
+#: pebble/apps/system/workout/sports.c:353
+msgid "Sports"
+msgstr ""
+
+#: pebble/apps/system/workout/utils.c:20
+msgid ""
+"Still sweating? Your workout is active and will be ended soon. Open the "
+"workout to keep it going."
+msgstr ""
+
+#: pebble/apps/system/workout/utils.c:32
+#: pebble/services/activity/activity_insights.c:1271
+#: pebble/services/notifications/ancs/ancs_item.c:157
+msgid "Dismiss"
+msgstr ""
+
+#: pebble/apps/system/workout/utils.c:36
+msgid "End Workout"
+msgstr ""
+
+#: pebble/apps/system/workout/utils.c:42
+msgid "Open Workout"
+msgstr ""
+
+#. / Workout Label
+#: pebble/apps/system/workout/utils.c:95
+#: pebble/apps/system/workout/workout.c:269
+#: pebble/services/activity/activity_insights.c:1803
+msgid "Workout"
+msgstr ""
+
+#. / Walk Label
+#: pebble/apps/system/workout/utils.c:98
+#: pebble/services/activity/activity_insights.c:1801
+msgid "Walk"
+msgstr ""
+
+#. / Run Label
+#: pebble/apps/system/workout/utils.c:101
+#: pebble/services/activity/activity_insights.c:1799
+msgid "Run"
+msgstr ""
+
+#. / Workout automatically detected dialog text
+#: pebble/apps/system/workout/utils.c:119
+msgid ""
+"Workout\n"
+"Detected"
+msgstr ""
+
+#. / Walk automatically detected dialog text
+#: pebble/apps/system/workout/utils.c:122
+msgid ""
+"Walk\n"
+"Detected"
+msgstr ""
+
+#. / Run automatically detected dialog text
+#: pebble/apps/system/workout/utils.c:125
+msgid ""
+"Run\n"
+"Detected"
+msgstr ""
+
+#: pebble/apps/system/workout/workout.c:167
+msgid ""
+"Workout\n"
+"Ended"
+msgstr ""
+
+#: pebble/apps/system/workout/workout.c:193
+msgid "Workout requires the time to be synced. Please connect your phone."
+msgstr ""
+
+#: pebble/apps/system/workout/workout.c:202
+msgid "Enable Pebble Health in the mobile app to track workouts"
+msgstr ""
+
+#: pebble/apps/system/workout/workout.c:211
+msgid ""
+"Wear your watch snug and 2 fingers' width above your wrist bone for best "
+"results."
+msgstr ""
+
+#: pebble/apps/watch/kickstart/kickstart.c:367
+#, c-format
+msgid "%d BPM"
+msgstr ""
+
+#. / Step count greater than 1000 with a thousands separator
+#: pebble/apps/watch/kickstart/kickstart.c:477
+#, c-format
+msgid "%d,%03d"
+msgstr ""
+
+#. / Step count less than 1000
+#: pebble/apps/watch/kickstart/kickstart.c:481
+#: pebble/services/activity/health_util.c:93
+#: pebble/services/activity/health_util.c:110
+#: pebble/services/clock/service.c:1008
+#, c-format
+msgid "%d"
+msgstr ""
+
+#: pebble/apps/watch/tictoc/bw/tictoc_bw.c:77
+#: pebble/services/clock/service.c:885 pebble/services/clock/service.c:893
+msgid "%B %e"
+msgstr ""
+
+#: pebble/popups/alarm_popup.c:60
+#, c-format
+msgid "Snooze for %d minutes"
+msgstr ""
+
+#: pebble/popups/alarm_popup.c:78
+msgid "Alarm dismissed"
+msgstr ""
+
+#: pebble/popups/bluetooth_pairing_ui.c:229
+msgid "Pair?"
+msgstr ""
+
+#: pebble/popups/crashed_ui.c:92
+#, c-format
+msgid ""
+"%s%.*s is not responding.\n"
+"\n"
+"Open app?"
+msgstr ""
+
+#: pebble/popups/crashed_ui.c:148
+msgid ""
+"A bug report has been captured. Please finish uploading the bug report using "
+"the Pebble phone app."
+msgstr ""
+
+#: pebble/popups/health_tracking_ui.c:74
+msgid ""
+"This feature requires Pebble Health to work. Enable Health in the Pebble "
+"mobile app to continue."
+msgstr ""
+
+#: pebble/popups/mic_banner.c:117
+msgid "Listening..."
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:728
+msgid "Snoozed"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:761
+msgid "Muted"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:931
+msgid "Snooze"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:949
+#, c-format
+msgid "Mute %s"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:967
+msgid "Mute 1 Hour"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:970
+msgid "Mute Today"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:973
+msgid "Mute Always"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:976
+msgid "Mute Weekends"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:979
+msgid "Mute Weekdays"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:987
+msgid "Dismiss All"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:993
+msgid "End Quiet Time"
+msgstr ""
+
+#: pebble/popups/notifications/notification_window.c:994
+msgid "Start Quiet Time"
+msgstr ""
+
+#: pebble/popups/phone_ui.c:583
+msgid "Call Accepted"
+msgstr ""
+
+#: pebble/popups/phone_ui.c:586
+msgid "Disconnected"
+msgstr ""
+
+#: pebble/popups/phone_ui.c:589
+msgid "Call Ended"
+msgstr ""
+
+#: pebble/popups/phone_ui.c:592
+msgid "Call Declined"
+msgstr ""
+
+#: pebble/popups/switch_worker_ui.c:95
+#, c-format
+msgid "Run %s instead of %s as the background app?"
+msgstr ""
+
+#: pebble/popups/wakeup_ui.c:53
+msgid "While your Pebble was off wakeup events occurred for:\n"
+msgstr ""
+
+#: pebble/process_management/app_manager.c:536
+#, c-format
+msgid "%.*s is not responding"
+msgstr ""
+
+#: pebble/process_management/process_manager.c:212
+msgid "This app requires a newer version of the Pebble firmware."
+msgstr ""
+
+#: pebble/process_management/process_manager.c:336
+msgid "This app needs hardware this watch does not have."
+msgstr ""
+
+#: pebble/process_management/process_manager.c:382
+msgid "This app uses RockyJS which is no longer supported."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:195
+msgid ""
+"How are you feeling? Have you noticed extra focus, better mood or extra "
+"energy? You have been sleeping great this week! Keep it up!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:197
+msgid "I feel fabulous!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:198
+msgid "About average"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:199
+msgid "I'm still tired"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:200
+#: pebble/services/activity/activity_insights.c:218
+msgid "Awesome!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:201
+#: pebble/services/activity/activity_insights.c:219
+msgid "Keep it up!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:202
+#: pebble/services/activity/activity_insights.c:220
+msgid "We'll get there!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:213
+msgid ""
+"Congratulations - you're having a super active day! Activity makes you more "
+"focused and creative. How do you feel?"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:215
+#: pebble/services/activity/activity_insights.c:988
+msgid "I feel great!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:216
+msgid "About the same"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:217
+msgid "Not feeling it"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:247
+msgid "Activity Summary"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:256
+msgid "Do you feel more energetic, sharper or optimistic? Being active helps!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:257
+msgid "GREAT DAY TODAY"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:261
+msgid "You're being consistent and that's important, keep at it!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:262
+msgid "CONSISTENT!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:266
+#: pebble/services/activity/activity_insights.c:271
+msgid "Resting is fine, but try to recover and step it up tomorrow!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:267
+#: pebble/services/activity/activity_insights.c:272
+msgid "NOT VERY ACTIVE"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:280
+msgid "Sleep Summary"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:289
+msgid "You had a good night! Feel the energy 😃"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:293
+msgid "It's great that you're keeping a consistent sleep routine!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:297
+#: pebble/services/activity/activity_insights.c:301
+msgid "A good night's sleep goes a long way! Try to get more hours tonight."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:451
+msgid "Open App"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:557
+#: pebble/services/activity/activity_insights.c:563
+msgid "BELOW AVG"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:557
+#: pebble/services/activity/activity_insights.c:563
+msgid "Below avg"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:569
+msgid "ON AVG"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:569
+msgid "On avg"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:574
+msgid "ABOVE AVG"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:574
+msgid "Above avg"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:855
+msgid "%H:%M"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:856
+msgid "%l:%M%p"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:880
+#, c-format
+msgid "%uH %uM Sleep"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:909
+msgid "Short night! Try going to bed a little earlier tonight."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:912
+msgid "Almost there! A little more sleep tonight would help."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:917
+msgid "A long night! Great for catching up; a steady routine helps most."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:948
+msgid "Nap Time"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:957
+#, c-format
+msgid "%s of sleep"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:963
+msgid "YOU NAPPED"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:963
+msgid "Of napping"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:971
+#, c-format
+msgid "%s - %s"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:992
+msgid "I need more"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1022
+#, c-format
+msgid "Aren't naps great? You knocked out for %dH %dM!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1038
+msgid "I didn't nap!?"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1279
+msgid "Open Pin"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1365
+#, c-format
+msgid ""
+"Killer job! You've walked %d steps today which is %d%% above your typical. "
+"Do it again tomorrow and you'll be on top of the world!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1368
+#, c-format
+msgid ""
+"Nice moves! You've walked %d steps today which is %d%% above your typical. "
+"Crush it again tomorrow 😀"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1370
+#, c-format
+msgid ""
+"Hey rockstar 🎤 You've walked %d steps today which is %d%% above your "
+"typical. Nothing can stop you!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1372
+#, c-format
+msgid ""
+"We can barely keep up! You walked %d steps today which is %d%% above your "
+"typical. You're on 🔥"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1375
+#, c-format
+msgid ""
+"You walked %d steps today which is %d%% above your typical. You just "
+"outstepped YOURSELF. Mic drop."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1384
+#, c-format
+msgid ""
+"You walked %d steps today; keep it up! Being active is the key to feeling "
+"like a million bucks. Try to beat your typical tomorrow."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1387
+#, c-format
+msgid "Good job! You walked %d steps today–do it again tomorrow."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1388
+#, c-format
+msgid ""
+"Someone's on the move 👊 You walked %d steps today; keep doing what you're "
+"doing!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1391
+#, c-format
+msgid ""
+"You keep moving, we'll keep counting! You've clocked in %d steps today. Keep "
+"it rolling, hot stuff."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1400
+#, c-format
+msgid ""
+"You walked %d steps today which is %d%% below your typical. Try to be more "
+"active tomorrow–you can do it!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1403
+#, c-format
+msgid ""
+"You walked %d steps which is %d%% below your typical. Being active makes you "
+"feel amaaaazing–try to get back on track tomorrow."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1405
+#, c-format
+msgid ""
+"You walked %d steps today which is %d%% below your typical. Don't worry, "
+"tomorrow is just around the corner 😀"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1407
+#, c-format
+msgid ""
+"You walked %d steps which is %d%% below your typical, but don't stress. "
+"You'll crush it tomorrow 😉"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1414
+#, c-format
+msgid ""
+"You walked %d steps today. Don't fret, you can get back on track in no time "
+"😉"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1416
+#, c-format
+msgid "You walked %d steps today. Good news is the sky's the limit!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1417
+#, c-format
+msgid ""
+"You walked %d steps today. Try to take even more steps tomorrow–show us what "
+"you're made of!"
+msgstr ""
+
+#. / Sleep notification on wake up, slept under 6 hours
+#: pebble/services/activity/activity_insights.c:1467
+#, c-format
+msgid ""
+"Short night? You slept for %dH %dM. Most adults need at least 7 hours, so "
+"try heading to bed earlier tonight."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1469
+#, c-format
+msgid ""
+"You slept for %dH %dM. Sleep fuels everything you do; let's aim for more "
+"tonight 😉"
+msgstr ""
+
+#. / Sleep notification on wake up, slept 6 to 7 hours, not below their typical
+#: pebble/services/activity/activity_insights.c:1477
+#, c-format
+msgid ""
+"You slept for %dH %dM. You're close! A little extra tonight goes a long way."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1479
+#, c-format
+msgid ""
+"Good morning! You slept for %dH %dM. Just a bit more sleep would help you "
+"feel your best."
+msgstr ""
+
+#. / Sleep notification on wake up, slept 9 to 10 hours
+#: pebble/services/activity/activity_insights.c:1487
+#, c-format
+msgid ""
+"You slept for %dH %dM. A long night can help you catch up after short ones; "
+"a steady routine is what counts."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1489
+#, c-format
+msgid ""
+"Well rested? You slept for %dH %dM. Extra sleep helps you recover, but most "
+"adults do best with 7 to 9 hours."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1498
+#, c-format
+msgid ""
+"You slept for %dH %dM. That's a long night! Great for recovering, but a "
+"regular bedtime and wake time will help you feel your best."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1501
+#, c-format
+msgid ""
+"You slept for %dH %dM, more than most adults need. Catching up now and then "
+"is fine; try to keep a steady routine."
+msgstr ""
+
+#. / Sleep notification on wake up, slept above their typical sleep duration
+#: pebble/services/activity/activity_insights.c:1512
+#, c-format
+msgid ""
+"Refreshed? You slept for %dH %dM which is %d%% above your typical. Go tackle "
+"your day 😃."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1515
+#, c-format
+msgid ""
+"You caught some killer zzz’s! You slept for %dH %dM which is %d%% above your "
+"typical. Keep it up."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1518
+#, c-format
+msgid ""
+"Rise and shine! You slept for %dH %dM which is %d%% above your typical. Do "
+"it again tonight, sleep master."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1521
+#, c-format
+msgid ""
+"Mmmm...what a night. You slept for %dH %dM which is %d%% above your typical. "
+"That's gotta feel good!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1524
+#, c-format
+msgid ""
+"That's a lot of sheep you just counted! You slept for %dH %dM which is %d%% "
+"above your typical. Boom shakalaka."
+msgstr ""
+
+#. / Sleep notification on wake up, slept similar to their typical sleep duration
+#: pebble/services/activity/activity_insights.c:1534
+#, c-format
+msgid ""
+"Good mornin’. You slept for %dH %dM. Every good day begins with a solid "
+"night’s sleep...kinda like that one 😉 Keep it up!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1537
+#, c-format
+msgid ""
+"Good morning! You slept for %dH %dM. Consistency is key; keep doing what "
+"you're doing 😃."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1540
+#, c-format
+msgid ""
+"You're rockin' the shut eye! You slept for %dH %dM. Make it a nightly "
+"ritual. You deserve it."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1542
+#, c-format
+msgid "Feelin' good? You slept for %dH %dM. Nothing can stop you now 👊"
+msgstr ""
+
+#. / Sleep notification on wake up, slept below their typical sleep duration
+#: pebble/services/activity/activity_insights.c:1551
+#, c-format
+msgid ""
+"Hey sleepy head. You slept for %dH %dM which is %d%% below your typical. Try "
+"to get more tonight!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1554
+#, c-format
+msgid ""
+"Groggy? You slept for %dH %dM which is %d%% below your typical. Sleep is "
+"important for everything you do-try getting more shut eye tonight!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1557
+#, c-format
+msgid ""
+"It's a new day! You slept for %dH %dM which is %d%% below your typical. It's "
+"not your best, but there's always tonight."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1560
+#, c-format
+msgid ""
+"Goooood morning! You slept for %dH %dM which is %d%% below your typical. Go "
+"crush your day and then get back in bed 😉"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1567
+#, c-format
+msgid ""
+"You slept for %dH %dM which is %d%% below your typical. Sleep is vital for "
+"all your great ideas–how 'bout getting more tonight?"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1569
+#, c-format
+msgid ""
+"You only slept for %dH %dM which is %d%% below your typical. We know you're "
+"busy, but try getting more tonight. We believe in you 😉"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1571
+#, c-format
+msgid ""
+"You slept for %dH %dM which is %d%% below your typical. We know stuff "
+"happens; take another crack at it tonight."
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1650
+#, c-format
+msgid "%u Steps"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1732
+msgid "Didn’t that walk feel good?"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1733
+msgid "Way to keep it active!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1734
+msgid "You got the moves!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1735
+msgid "Gettin' your step on?"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1745
+msgid "Feelin' hot? Cause you're on 🔥"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1746
+msgid "Hey lightning bolt, way to go!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1747
+msgid "You're a machine!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1748
+msgid "Hey speedster, we can barely keep up!"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1749
+msgid "Way to show us what you're made of 👊"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1759
+msgid "Workin' up a sweat?"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1760
+msgid "Well done 💪"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1761
+msgid "Endorphin rush?"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1762
+msgid "Can't stop, won't stop 👊"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1763
+msgid "Keepin' that heart healthy! ❤"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1792
+#: pebble/services/activity/activity_insights.c:1884
+#: pebble/services/activity/activity_insights.c:1891
+#: pebble/services/activity/activity_insights.c:1898
+#, c-format
+msgid "%d Min"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1821
+msgid "Avg Pace"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1837
+msgid "Distance"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1849
+msgid "Steps"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1863
+msgid "Active Calories"
+msgstr ""
+
+#: pebble/services/activity/activity_insights.c:1876
+msgid "Avg HR"
+msgstr ""
+
+#: pebble/services/activity/health_util.c:30
+#, c-format
+msgid "%dH"
+msgstr ""
+
+#: pebble/services/activity/health_util.c:36
+#, c-format
+msgid "%dM"
+msgstr ""
+
+#: pebble/services/activity/health_util.c:59
+#, c-format
+msgid "%d:%d"
+msgstr ""
+
+#: pebble/services/activity/health_util.c:96
+msgid "h"
+msgstr ""
+
+#: pebble/services/activity/health_util.c:102
+msgid " "
+msgstr ""
+
+#: pebble/services/activity/health_util.c:113
+msgid "min"
+msgstr ""
+
+#: pebble/services/activity/health_util.c:131
+#, c-format
+msgid "%d.%d"
+msgstr ""
+
+#: pebble/services/alarms/alarm.c:461 pebble/services/alarms/alarm_pin.c:77
+msgid "Alarm"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would go off every
+#. / day. Respect capitalization!
+#: pebble/services/alarms/alarm.c:1422
+msgid "EVERY DAY"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would only go off
+#. / every weekday. Respect capitalization!
+#: pebble/services/alarms/alarm.c:1432
+msgid "WEEKDAYS"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would only go off
+#. / each day on the weekend. Respect capitalization!
+#: pebble/services/alarms/alarm.c:1442
+msgid "WEEKENDS"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would only go off
+#. / one time ever. Respect capitalization!
+#: pebble/services/alarms/alarm.c:1453
+msgid "ONCE"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would only go off
+#. / one time ever. Respect capitalization!
+#: pebble/services/alarms/alarm.c:1457
+msgid "Once"
+msgstr ""
+
+#. / A frequency option for alarms, i.e. the alarm would only go off
+#. / on a custom choice of days. Respect capitalization!
+#: pebble/services/alarms/alarm.c:1464
+msgid "CUSTOM"
+msgstr ""
+
+#: pebble/services/alarms/alarm.c:1485
+msgid "Sundays"
+msgstr ""
+
+#: pebble/services/alarms/alarm.c:1485
+msgid "Mondays"
+msgstr ""
+
+#: pebble/services/alarms/alarm.c:1486
+msgid "Tuesdays"
+msgstr ""
+
+#: pebble/services/alarms/alarm.c:1486
+msgid "Wednesdays"
+msgstr ""
+
+#: pebble/services/alarms/alarm.c:1487
+msgid "Thursdays"
+msgstr ""
+
+#: pebble/services/alarms/alarm.c:1487
+msgid "Fridays"
+msgstr ""
+
+#: pebble/services/alarms/alarm.c:1488
+msgid "Saturdays"
+msgstr ""
+
+#: pebble/services/alarms/alarm_pin.c:90
+msgid "Edit"
+msgstr ""
+
+#: pebble/services/alarms/alarm_tones.c:187
+msgid "Reveille"
+msgstr ""
+
+#: pebble/services/alarms/alarm_tones.c:190
+msgid "Beacon"
+msgstr ""
+
+#: pebble/services/alarms/alarm_tones.c:193
+msgid "Bell"
+msgstr ""
+
+#: pebble/services/alarms/alarm_tones.c:195
+msgid "Chime"
+msgstr ""
+
+#: pebble/services/clock/service.c:553 pebble/services/clock/service.c:856
+msgid "%R"
+msgstr ""
+
+#: pebble/services/clock/service.c:553
+msgid "%l:%M"
+msgstr ""
+
+#: pebble/services/clock/service.c:565
+#, c-format
+msgid "%p"
+msgstr ""
+
+#: pebble/services/clock/service.c:581
+#: pebble/services/timeline/timeline_layout.c:437
+msgid "All day"
+msgstr ""
+
+#: pebble/services/clock/service.c:594 pebble/services/clock/service.c:606
+#: pebble/services/clock/service.c:962
+msgid "Now"
+msgstr ""
+
+#: pebble/services/clock/service.c:598
+msgid " MIN. TO"
+msgstr ""
+
+#: pebble/services/clock/service.c:784 pebble/services/clock/service.c:866
+#: pebble/services/clock/service.c:874
+msgid "Yesterday"
+msgstr ""
+
+#: pebble/services/clock/service.c:789 pebble/services/clock/service.c:904
+#: pebble/services/clock/service.c:912
+#, c-format
+msgid "%A"
+msgstr ""
+
+#: pebble/services/clock/service.c:792
+msgid "%B %d"
+msgstr ""
+
+#: pebble/services/clock/service.c:852
+msgid "%l:%M %p"
+msgstr ""
+
+#: pebble/services/clock/service.c:864
+msgid "Yesterday, %l:%M %p"
+msgstr ""
+
+#: pebble/services/clock/service.c:872
+msgid "Yesterday, %R"
+msgstr ""
+
+#: pebble/services/clock/service.c:883
+msgid "%b %e, %l:%M %p"
+msgstr ""
+
+#: pebble/services/clock/service.c:891
+msgid "%b %e, %R"
+msgstr ""
+
+#: pebble/services/clock/service.c:902
+msgid "%a, %l:%M %p"
+msgstr ""
+
+#: pebble/services/clock/service.c:910
+msgid "%a, %R"
+msgstr ""
+
+#: pebble/services/clock/service.c:939
+#, c-format
+msgid "%lu H AGO"
+msgstr ""
+
+#: pebble/services/clock/service.c:941
+msgid "An hour ago"
+msgstr ""
+
+#: pebble/services/clock/service.c:943
+#, c-format
+msgid "%lu hours ago"
+msgstr ""
+
+#: pebble/services/clock/service.c:953
+#, c-format
+msgid "%lu MIN AGO"
+msgstr ""
+
+#: pebble/services/clock/service.c:955
+#, c-format
+msgid "%lu minute ago"
+msgstr ""
+
+#: pebble/services/clock/service.c:957
+#, c-format
+msgid "%lu minutes ago"
+msgstr ""
+
+#: pebble/services/clock/service.c:962
+msgid "NOW"
+msgstr ""
+
+#: pebble/services/clock/service.c:971
+#, c-format
+msgid "IN %lu MIN"
+msgstr ""
+
+#: pebble/services/clock/service.c:973
+#, c-format
+msgid "In %lu minute"
+msgstr ""
+
+#: pebble/services/clock/service.c:975
+#, c-format
+msgid "In %lu minutes"
+msgstr ""
+
+#: pebble/services/clock/service.c:985
+#, c-format
+msgid "IN %lu H"
+msgstr ""
+
+#: pebble/services/clock/service.c:987
+#, c-format
+msgid "In %lu hour"
+msgstr ""
+
+#: pebble/services/clock/service.c:989
+#, c-format
+msgid "In %lu hours"
+msgstr ""
+
+#: pebble/services/clock/service.c:1000 pebble/services/clock/service.c:1004
+#, c-format
+msgid "%m/%d"
+msgstr ""
+
+#: pebble/services/clock/service.c:1013
+msgid "%b "
+msgstr ""
+
+#: pebble/services/clock/service.c:1013
+msgid "%B "
+msgstr ""
+
+#: pebble/services/clock/service.c:1017
+#, c-format
+msgid "%e"
+msgstr ""
+
+#: pebble/services/clock/service.c:1068
+msgid "this morning"
+msgstr ""
+
+#: pebble/services/clock/service.c:1069
+msgid "this afternoon"
+msgstr ""
+
+#: pebble/services/clock/service.c:1070
+msgid "this evening"
+msgstr ""
+
+#: pebble/services/clock/service.c:1071
+msgid "tonight"
+msgstr ""
+
+#: pebble/services/clock/service.c:1072
+msgid "tomorrow morning"
+msgstr ""
+
+#: pebble/services/clock/service.c:1073
+msgid "tomorrow afternoon"
+msgstr ""
+
+#: pebble/services/clock/service.c:1074
+msgid "tomorrow evening"
+msgstr ""
+
+#: pebble/services/clock/service.c:1075
+msgid "tomorrow night"
+msgstr ""
+
+#: pebble/services/clock/service.c:1076 pebble/services/clock/service.c:1077
+msgid "the day after tomorrow"
+msgstr ""
+
+#: pebble/services/clock/service.c:1078
+msgid "the foreseeable future"
+msgstr ""
+
+#: pebble/services/notifications/ancs/ancs_item.c:116
+msgid "sent an attachment"
+msgstr ""
+
+#: pebble/services/notifications/ancs/ancs_item.c:164
+msgid "Call Back"
+msgstr ""
+
+#: pebble/services/notifications/ancs/ancs_notifications.c:439
+msgid "iPhone Notifications Blocked"
+msgstr ""
+
+#: pebble/services/notifications/ancs/ancs_notifications.c:442
+msgid ""
+"Your iPhone is not sharing notifications with this watch. On your iPhone, "
+"open Settings > Bluetooth, tap the (i) next to your Pebble and turn on Share "
+"System Notifications."
+msgstr ""
+
+#: pebble/services/notifications/do_not_disturb.c:113
+msgid "Calendar Aware enables Quiet Time automatically during calendar events."
+msgstr ""
+
+#: pebble/services/notifications/do_not_disturb.c:121
+msgid ""
+"Press and hold the Back button from a notification to turn Quiet Time on or "
+"off."
+msgstr ""
+
+#: pebble/services/notifications/do_not_disturb_toggle.c:29
+msgid "Start Quiet Time?"
+msgstr ""
+
+#: pebble/services/notifications/do_not_disturb_toggle.c:30
+msgid "End Quiet Time?"
+msgstr ""
+
+#: pebble/services/notifications/do_not_disturb_toggle.c:31
+msgid ""
+"Quiet Time\n"
+"Started"
+msgstr ""
+
+#: pebble/services/notifications/do_not_disturb_toggle.c:32
+msgid ""
+"Quiet Time\n"
+"Ended"
+msgstr ""
+
+#: pebble/services/timeline/calendar_layout.c:171
+msgid " - "
+msgstr ""
+
+#: pebble/services/timeline/calendar_layout.c:339
+msgid "All Day"
+msgstr ""
+
+#: pebble/services/timeline/calendar_layout.c:383
+msgid "Recurring"
+msgstr ""
+
+#: pebble/services/timeline/sports_layout.c:61
+msgid "STARTS "
+msgstr ""
+
+#: pebble/services/timeline/sports_layout.c:149
+msgid "Broadcaster"
+msgstr ""
+
+#: pebble/services/timeline/timeline.c:701
+msgid "Can't connect. Relaunch Pebble Time app on phone."
+msgstr ""
+
+#: pebble/services/timeline/timeline.c:713
+msgid "Removed"
+msgstr ""
+
+#: pebble/services/timeline/timeline.c:723
+#: pebble/services/timeline/timeline.c:742
+msgid "Dismissed"
+msgstr ""
+
+#: pebble/services/timeline/timeline.c:746
+msgid "Deleted"
+msgstr ""
+
+#: pebble/services/timeline/timeline.c:773
+msgid "Thanks!"
+msgstr ""
+
+#: pebble/services/timeline/timeline.c:927
+msgid "Calendar"
+msgstr ""
+
+#: pebble/services/timeline/timeline.c:935
+msgid "Reminders"
+msgstr ""
+
+#: pebble/services/timeline/timeline.c:947
+msgid "Intercom"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:702
+msgid ""
+"Quickly dismiss all notifications by holding the Select button for 2 seconds "
+"from any incoming notification."
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:790
+msgid "Ok"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:791
+msgid "Yes"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:792
+msgid "No"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:793
+msgid "Call me"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:794
+msgid "Call you later"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:918
+msgid "Reply with Voice"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:919
+msgid "Voice"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:929
+msgid "Canned messages"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:933
+msgid "Emoji"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:1037
+msgid "In 15 minutes"
+msgstr ""
+
+#: pebble/services/timeline/timeline_actions.c:1041
+msgid "Later today"
+msgstr ""
+
+#: pebble/services/timeline/timeline_layout.c:843
+msgid "Last updated"
+msgstr ""
+
+#: pebble/services/timeline/weather_layout.c:51
+msgid "Sunrise"
+msgstr ""
+
+#: pebble/services/timeline/weather_layout.c:53
+msgid "Sunset"
+msgstr ""
+
+#. / Standard vibration pattern option that has a low intensity
+#: pebble/services/vibes/vibe_intensity.c:38 pebble/services/vibes/vibes.def:5
+#: pebble/services/vibes/vibes.def:6
+msgid "Standard - Low"
+msgstr ""
+
+#. / Standard vibration pattern option that has a medium intensity
+#: pebble/services/vibes/vibe_intensity.c:42
+msgid "Standard - Medium"
+msgstr ""
+
+#. / Standard vibration pattern option that has a high intensity
+#: pebble/services/vibes/vibe_intensity.c:46 pebble/services/vibes/vibes.def:7
+#: pebble/services/vibes/vibes.def:8
+msgid "Standard - High"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:4
+msgctxt "NotifVibe"
+msgid "Disabled"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:9
+msgid "Pulse"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:10
+msgid "Nudge Nudge"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:11
+msgid "Jackhammer"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:15
+msgid "Gentle"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:16
+msgid "Double Pulse Medium"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:17
+msgid "Pebble Morse"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:18
+msgid "Heartbeat"
+msgstr ""
+
+#: pebble/services/vibes/vibes.def:20
+msgid "Wave"
+msgstr ""
+
+#: pebble/shell/normal/battery_ui.c:357
+msgid "Fully Charged"
+msgstr ""
+
+#: pebble/shell/normal/battery_ui.c:363
+msgid "Charging"
+msgstr ""
+
+#: pebble/shell/normal/battery_ui.c:381
+#, c-format
+msgid "Powered 'til %s"
+msgstr ""
