@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 25.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-07 18:50+0200\n"
-"PO-Revision-Date: 2026-11-24 17:31+0000\n"
+"PO-Revision-Date: 2026-11-24 18:10+0000\n"
 "Last-Translator: \"miky.deirossi\" <miky.deirossi@gmail.com>\n"
 "Language-Team: Italian <https://translate.repebble.com/projects/pebbleos/"
 "watch/it/>\n"
@@ -1446,11 +1446,11 @@ msgstr "Tutte le notifiche"
 
 #: pebble/apps/system/settings/notifications.c:62
 msgid "Allow Phone Calls Only"
-msgstr "Solo telefonate"
+msgstr "Consenti solo chiamate"
 
 #: pebble/apps/system/settings/notifications.c:63
 msgid "Mute All Notifications"
-msgstr "Silenzia notifiche"
+msgstr "Silenzia le notifiche"
 
 #. / The option in the Settings app for filtering notifications by type.
 #: pebble/apps/system/settings/notifications.c:94
@@ -2449,7 +2449,7 @@ msgstr "Tempo mite."
 
 #: pebble/apps/system/weather/weather_app_layout.c:549
 msgid "All clear."
-msgstr "Cielo sereno."
+msgstr "Sereno."
 
 #: pebble/apps/system/weather/weather_app_layout.c:559
 msgid "N"
@@ -2513,31 +2513,27 @@ msgstr "Vento %s a %d%s."
 
 #. / Wind after a warning about wind, no direction: speed, unit ("Light winds. 12mph.")
 #: pebble/apps/system/weather/weather_app_layout.c:615
-#, fuzzy, c-format
-#| msgid "At %d%s."
+#, c-format
 msgid "%d%s."
-msgstr "A %d%s."
+msgstr "Vento: %d%s."
 
 #. / Wind, no direction: speed, unit ("Winds 12mph.")
 #: pebble/apps/system/weather/weather_app_layout.c:618
-#, fuzzy, c-format
-#| msgid "Winds at %d%s."
+#, c-format
 msgid "Winds %d%s."
-msgstr "Vento a %d%s."
+msgstr "Vento %d%s."
 
 #. / Chance of precipitation, abbreviated. It ends the description, so no full stop.
 #: pebble/apps/system/weather/weather_app_layout.c:644
-#, fuzzy, c-format
-#| msgid "Precipitation %d%%."
+#, c-format
 msgid "Precip. %d%%"
-msgstr "Precipitazioni %d%%."
+msgstr "Prec. %d%%"
 
 #. / Chance of precipitation. It ends the description, so no full stop.
 #: pebble/apps/system/weather/weather_app_layout.c:647
-#, fuzzy, c-format
-#| msgid "Precipitation %d%%."
+#, c-format
 msgid "Precipitation %d%%"
-msgstr "Precipitazioni %d%%."
+msgstr "Precipitazioni %d%%"
 
 #: pebble/apps/system/weather/weather_app_layout.c:706
 #, c-format
